@@ -187,6 +187,59 @@ Creemos que la prestación de un servicio al cliente rápido y efectivo mejorar�
 
 Creemos que la transparencia en las políticas de precios y condiciones de alquiler aumentará la confianza del cliente en la plataforma. Confirmaremos esto si observamos un aumento del 15% en las reseñas positivas. 
 
+#### 1.2.2.4 Lean UX Canvas
+
+
+ <table>
+            <tr>
+              <td valign="top"><p><b>Business Problem</b></p><br>
+                <p>•	Estafas en la renta de autos </p><br>
+                <p>•	Precios altos</p><br>
+                <p>•	Falta de transparencia en el estado del auto</p><br>  <p>•	Tarifas ocultas</p><br>
+               </td>
+              <td rowspan="2" valign="top"><p><b>Solution Ideas</b></p><br>
+                <p>•	Precios competitivos</p><br>
+                <p>•	Inclusión de documentación actualizada del auto</p><br>
+                <p>•	Seguimiento vía GPS</p><br>
+                <p>•	Retención del pago hasta finalizar el servicio q</p></td>
+              <td valign="top"><p><b>Business Outcomes</b></p><br>
+              <p>•	Gran cantidad de usuarios</p><br>
+              <p>•	Reseñas mayormente positivas</p><br>
+              <p>•	Se convierte en una de las aplicaciones más utilizadas en Perú para alquiler de autos</p><br>
+            </td>
+            </tr>
+            <tr>
+              <td valign="top"><p><b>Users and Customers</b></p><br>
+                <p>•	Hispanohablantes adultos en Perú que buscan alquilar un auto.</p>
+                <p>•Hispanohablantes adultos en Perú que cuenten con un auto y deseen ponerlo en alquiler.</p>
+                </td>
+              <td valign="top"><p><b>User Benefits</b></p><br>
+                <p>•	Costos más bajos</p><br>
+                <p>•	Garantía del estado del auto</p><br>
+                <p>•	Prevención de fraudes</p><br>
+                <p>•	Acceso a la información del arrendatario</p><br>
+                </td>
+            </tr>
+            <tr><td valign="top"><p><b>Hypothesis</b></p><br>
+                <p> •	Creemos que nuestro producto enfrentará problemas después de su lanzamiento. Confirmaremos esto si la cantidad de usuarios comienza a disminuir en un 8% semanal.</p>
+                <p>•	Creemos que nuestro producto enfrentará problemas después de su lanzamiento. Confirmaremos esto si la cantidad de usuarios comienza a disminuir en un 8% semanal.<br></p>
+                <p>•	Creemos que la visualización de la documentación de los vehículos en la aplicación será un valor agregado importante. Confirmaremos esto si el 65% de las reseñas de vehículos en la aplicación son positivas.</p>
+            </td>
+              <td valign="top"><p><b>What’s the most important thing we need to learn first?</b></p><br>
+                <p>•	Necesidades reales de los usuarios</p><br> 
+                <p>•	Disposición para alquilar autos vía aplicación</p><br>
+                <p>•	Análisis de costos y beneficios de la competencia</p><br>
+                </td>
+              <td valign="top"><p><b>What's the least amount of work we need to do to learn the next most important thing?</b></p><br>
+                <p>•	Entrevistas a los segmentos objetivos
+                </p><br>       
+                <p>•	Envío de formularios clave a los segmentos objetivos</p><br>
+                <p>•	Implementación de feedback en el aplicativo</p></td></tr>
+          </table>
+
+
+
+
 
 
 
