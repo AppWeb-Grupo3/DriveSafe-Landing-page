@@ -164,6 +164,30 @@ El alquiler de automóviles conlleva diversos riesgos tanto para el arrendatario
 La apariencia de nuestro producto debe reflejar su objetivo de ser fácil de usar y comprender para todos los usuarios. La interfaz debe ser limpia, organizada y visualmente atractiva, con elementos intuitivos que guíen al usuario a través de los diferentes pasos del proceso de alquiler o colocar en alquiler el vehículo.
 
 
+#### 1.2.2.3 Hipótesis Lean UX
+
+
+**Hipótesis 1**
+ 
+Creemos que las personas estarán interesadas en una aplicación web que permite alquilar y poner en alquiler autos a precios más bajos que los de la competencia. Confirmaremos esto si la cantidad de usuarios de nuestro producto aumenta en un 5% semanal durante los primeros 4 meses después de su lanzamiento.
+ 
+**Hipótesis 2**
+ 
+Creemos que nuestro producto enfrentará problemas después de su lanzamiento. Confirmaremos esto si la cantidad de usuarios comienza a disminuir en un 8% semanal.
+ 
+**Hipótesis 3**
+ 
+Creemos que la visualización de la documentación de los vehículos en la aplicación será un valor agregado importante. Confirmaremos esto si el 65% de las reseñas de vehículos en la aplicación son positivas.
+
+**Hipótesis 4**
+
+Creemos que la prestación de un servicio al cliente rápido y efectivo mejorará la reputación del producto y fomentará la lealtad de los usuarios. Confirmaremos esto si observamos un aumento del 20% en las calificaciones positivas del servicio al cliente en las reseñas del aplicativo.
+
+**Hipótesis 5**
+
+Creemos que la transparencia en las políticas de precios y condiciones de alquiler aumentará la confianza del cliente en la plataforma. Confirmaremos esto si observamos un aumento del 15% en las reseñas positivas. 
+
+
 
 
 
