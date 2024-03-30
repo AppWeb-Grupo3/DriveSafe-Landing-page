@@ -122,6 +122,49 @@ El alquiler de automóviles conlleva diversos riesgos tanto para el arrendatario
 
 ¿Qué medidas podemos implementar para asegurar la seguridad y la transparencia tanto para quienes alquilan como para quienes ofrecen autos en alquiler?
 
+#### 1.2.2.2 Lean UX Assumptions
+
+
+**Business Outcomes** 
+
+- Considero que mis clientes necesitan una solución que les permita alquilar o poner en alquiler automóviles de manera segura y transparente.
+- Mis clientes iniciales son o serán hispanohablantes adultos en el  Perú que deseen alquilar o poner en alquiler un auto.
+- Estas necesidades pueden ser satisfechas mediante una aplicación web de alquiler de autos segura entre personas naturales
+- Planeo atraer a la mayoría de mis clientes a través de anuncios en redes sociales.
+- Mi principal competencia en el mercado son las plataformas de alquiler de autos ya establecidas.
+- La principal prioridad para un cliente será la seguridad de que el contrato se cumpla correctamente y de que el auto esté en buenas condiciones.
+- Los clientes también valorarán beneficios adicionales como precios más bajos que los de la competencia, registro de mantenimiento del vehículo, seguimiento GPS y acceso a la documentación actualizada del auto.
+- Planeo superar a la competencia ofreciendo precios más bajos, mayor transparencia en la documentación y estado de los autos, y una mayor seguridad.
+- El mayor riesgo que enfrento es el fraude o las estafas antes, durante y después del servicio de alquiler de autos.
+- Abordaré este problema reteniendo el pago hasta que el servicio se haya completado satisfactoriamente.
+- Generar ingresos mediante el cobro de comisiones por cada alquiler realizado a través de la aplicación y mediante publicidad dentro de la misma.
+
+**User Outcomes**
+
+¿Quién es el usuario?
+ 
+- El usuario de nuestro producto son personas hispanohablantes adultas en el Perú que buscan una solución conveniente y segura para alquilar o poner en alquiler un automóvil. Pueden ser tanto propietarios de vehículos que desean generar ingresos adicionales mediante el alquiler de sus autos, como personas que necesitan un vehículo temporalmente para viajes o actividades específicas.
+
+¿Dónde se aplica nuestro producto?
+ 
+- Nuestro producto se integra en la vida cotidiana del usuario, ya que el alquiler o puesta en alquiler de un auto puede ser una necesidad ocasional para muchas personas. Se puede acceder al servicio desde cualquier lugar con conexión a internet, lo que brinda una gran flexibilidad y conveniencia a los usuarios, ya sea que estén en casa o en el trabajo.
+
+¿Qué problemas aborda nuestro producto y cómo los resuelve?
+ 
+- Nuestro producto aborda el problema de prácticas fraudulentas y la falta de seguridad en el proceso de alquiler de vehículos. Para resolver estos problemas, implementamos medidas como la inclusión de documentación del auto en la aplicación, la retención del pago hasta la finalización del servicio y el seguimiento del vehículo mediante GPS. Esto proporciona tranquilidad tanto a los propietarios como a los arrendatarios, asegurando una transacción segura y sin contratiempos.
+
+¿Cuándo y cómo se utiliza nuestro producto?
+ 
+- Nuestro producto se utiliza cuando los usuarios desean alquilar o poner en alquiler un automóvil. Se puede acceder a través de dispositivos con navegador web, lo que permite una experiencia fácil y conveniente. Los usuarios pueden buscar, reservar y gestionar sus alquileres desde la comodidad de su hogar o mientras están en movimiento, lo que les brinda flexibilidad y control total sobre sus transacciones de alquiler de autos.
+
+¿Qué características son importantes?
+ 
+- Es fundamental que nuestro producto tenga una interfaz amigable, intuitiva y adaptable para garantizar una experiencia de usuario positiva. Además, características como la reserva de vehículos, colocar vehículos para alquilar y los pagos integrados. 
+¿Cómo debe ser la apariencia y el comportamiento de nuestro producto?
+La apariencia de nuestro producto debe reflejar su objetivo de ser fácil de usar y comprender para todos los usuarios. La interfaz debe ser limpia, organizada y visualmente atractiva, con elementos intuitivos que guíen al usuario a través de los diferentes pasos del proceso de alquiler o colocar en alquiler el vehículo.
+
+
+
 
 
 
