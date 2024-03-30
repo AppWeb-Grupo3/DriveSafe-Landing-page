@@ -5,7 +5,7 @@
 
 **Curso:** Desarrollo de Aplicaciones Open Source
 
-**Sección:** SW54
+**Sección:** WX53
 
 **Profesor:** Naldo Reupo Musayon Gastulo
 
@@ -33,7 +33,12 @@
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       |  2024/03/29| Leonel Alfaro | Creación del documento de trabajo en formato markdown. | Completo  |
-| 1.1       |    | |ante la fase de diseño, arquitectura propuesta y diseños de interfaz.               | pendiente  |
+| 1.1       | 2024/03/30   | Leonel Alfaro ,Jhan Antonio |ante la fase de diseño, arquitectura propuesta y diseños de interfaz.               | Completo  |
 | 1.2       |      |  |implementación de funcionalidades, obstáculos encontrados y decisiones tomadas.     | En Proceso|
 | 1.3       |      | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+
+
+
+
+
 
