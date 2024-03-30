@@ -30,13 +30,12 @@
 
 ### Registro de Informes
 
-| Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
-|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       |  2024/03/29| Leonel Alfaro | Creación del documento de trabajo en formato markdown. | Completo  |
-| 1.1       | 2024/03/30   | Leonel Alfaro ,Jhan Antonio |ante la fase de diseño, arquitectura propuesta y diseños de interfaz.               | Completo  |
-| 1.2       |      |  |implementación de funcionalidades, obstáculos encontrados y decisiones tomadas.     | En Proceso|
-| 1.3       |      | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-
+| Versión | Fecha | Autor | Descripción de modificación |
+|--------------|--------------|--------------|--------------|
+| Entrega 1 (TB1)      | 30/03/2024      | -Leonel Alfaro Cumba<br>   | -Se creo el mardraw(completado) <br>-Se creó la estructura del informe (completado)|
+| Entrega 2  (TP)      |       |     |  |
+| Entrega 3 (TB2)      |    |  | |
+| Entrega 4 (TF1)      |      | |  |
 
 
 ### Project Report Collaboration Insights
