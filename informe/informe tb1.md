@@ -68,6 +68,12 @@ Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la
 
 ### 1.1.2 Descripción de la Startup
 
-
+| Integrante                           | Foto | Descripción del Perfil                                                                                          |
+|-------------------------------------|-------|-----------------------------------------------------------------------------------------------------------|
+| ||  |
+|  || |
+|       || |
+| Leonel Alfaro Cumba                 |![FotoLeonel](https://github.com/AppWeb-Grupo3/informe/assets/89095594/5b77db63-ca8e-4e81-a98d-83f550c2d46a)|Estudiante de Ingeniería de Software con gran interés en la tecnología y la innovación. Motivado por ampliar conocimientos y desarrollarse constantemente.|
+| || |
 
 
