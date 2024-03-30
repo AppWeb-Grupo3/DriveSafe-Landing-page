@@ -237,6 +237,9 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
                 <p>•	Implementación de feedback en el aplicativo</p></td></tr>
           </table>
 
+<br><br>
+<br>
+<br>
 <br>
 <br>
 <br>
