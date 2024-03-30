@@ -201,7 +201,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
                 <p>•	Precios competitivos</p><br>
                 <p>•	Inclusión de documentación actualizada del auto</p><br>
                 <p>•	Seguimiento vía GPS</p><br>
-                <p>•	Retención del pago hasta finalizar el servicio q</p></td>
+                <p>•	Retención del pago hasta finalizar el servicio </p></td>
               <td valign="top"><p><b>Business Outcomes</b></p><br>
               <p>•	Gran cantidad de usuarios</p><br>
               <p>•	Reseñas mayormente positivas</p><br>
