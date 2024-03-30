@@ -61,6 +61,13 @@
 
 
 
+# Capítulo I: Introducción
+
+## 1.1 Startup Profile
+Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la industria de alquiler de vehículos mediante el empleo de soluciones tecnológicas innovadoras, nos destacamos por características distintivas como la retención de pagos, seguimiento GPS, una amplia selección de vehículos y un servicio al cliente de primera calidad. Estas características no solo garantizan la seguridad y protección de nuestros clientes, sino que también les proporcionan comodidad y ahorro. Fundada por estudiantes universitarios que tiene el propósito de transformar la experiencia de alquiler de autos a través de la aplicación de tecnología en una experiencia agradable y enfocado en el cliente.
+
+### 1.1.2 Descripción de la Startup
+
 
 
 
