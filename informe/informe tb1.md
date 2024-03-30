@@ -84,6 +84,47 @@ Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la
 | || |
 
 
+## 1.2 Solution Profile
+
+
+### 1.2.1 Antecedentes y problemática
+
+El empleo de vehículos se ha vuelto una necesidad en nuestra sociedad, sea para fines recreativos, laborales o personales. Sin embargo, ¿qué ocurre cuando requieres un automóvil y no posees uno? La opción común es alquilarlo, pero esto puede acarrear problemas como tarifas altas, costos ocultos, mantenimiento deficiente o carencia de seguro para el vehículo. Además, hay quienes desean obtener ingresos extra alquilando sus automóviles en períodos de inactividad, pero carecen de un medio seguro para hacerlo o de clientes potenciales. Para atender estos dilemas, se plantea crear una aplicación web en Perú que ofrezca soluciones efectivas a los desafíos mencionados.
+Who
+Este servicio está dirigido a personas que desean alquilar vehículos de forma segura y a precios más accesibles que los ofrecidos por las plataformas convencionales. Además, está destinado a propietarios de vehículos que buscan una manera segura de rentar sus automóviles durante los períodos en que no los utilizan para obtener ingresos adicionales.
+ 
+What
+El aplicativo aborda una serie de problemas comunes asociados con el alquiler y uso de vehículos, tales como el mantenimiento deficiente de los automóviles, la falta de seguimiento de su ubicación, la ausencia de un seguro adecuado, los precios elevados y el riesgo de posibles estafas.
+ 
+Where
+Las complicaciones pueden surgir en diversos lugares donde se alquilan o utilizan vehículos, incluyendo concesionarios, hogares, oficinas, calles y autopistas. Este amplio alcance geográfico resalta la importancia de contar con un aplicativo que pueda ofrecer soluciones en cualquier ubicación donde se necesite un automóvil.
+When
+ 
+Los problemas pueden manifestarse en cualquier momento, desde el proceso de alquiler hasta el uso del vehículo. Esto puede incluir desde la fase inicial de reserva y firma de contratos hasta situaciones que ocurren mientras el vehículo está en tránsito o en uso por parte del arrendatario.
+ 
+Why
+Las complicaciones técnicas con los vehículos a menudo se deben a la falta de mantenimiento por parte de los propietarios, mientras que los cargos no declarados suelen surgir debido a las prácticas comerciales de los concesionarios que buscan maximizar sus ganancias. Las estafas y los problemas con vehículos desaparecidos pueden ser consecuencia de la falta de integridad por parte de algunos arrendatarios.
+ 
+ 
+How
+ 
+Las estafas generalmente ocurren cuando un arrendatario realiza un pago anticipado al propietario, quien luego no cumple con su parte del acuerdo. Además, pueden surgir casos en los que los arrendatarios utilicen métodos fraudulentos para simular pagos o no devuelvan el vehículo según lo acordado.
+ 
+How Much
+Estos problemas pueden ser costosos tanto en términos financieros como en tiempo y esfuerzo dedicados a resolverlos. Por ejemplo, una garantía no reembolsada puede representar una pérdida significativa de dinero para un arrendatario. Por eso, es fundamental contar con una plataforma confiable que minimice estos riesgos para ambas partes involucradas en el proceso de alquiler de vehículos.
+
+### 1.2.2 Lean UX Process
+
+#### 1.2.2.1 Lean UX Problem Statements
+
+El alquiler de automóviles conlleva diversos riesgos tanto para el arrendatario como para el arrendador. Estos riesgos van desde fallas técnicas en los vehículos hasta casos de estafa, lo que repercute negativamente en la confianza en el negocio de alquiler de autos. Los problemas mencionados anteriormente son solo una muestra de cómo tanto arrendatarios como arrendadores buscan mayor seguridad y transparencia en el proceso. Tras analizar esta situación, se ha formulado la siguiente pregunta como base para abordar esta problemática:
+
+
+¿Qué medidas podemos implementar para asegurar la seguridad y la transparencia tanto para quienes alquilan como para quienes ofrecen autos en alquiler?
+
+
+
+
 
 
 
