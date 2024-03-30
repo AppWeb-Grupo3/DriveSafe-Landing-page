@@ -239,6 +239,8 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 <br>
 <br>
+<br>
+<br>
 
 ## 1.3 Segmentos objetivo
 
