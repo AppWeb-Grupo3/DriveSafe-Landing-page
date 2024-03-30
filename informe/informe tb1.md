@@ -244,6 +244,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 **Se identificó dos  segmentos objetivos**
 
+
 - Personas mayores de 18 años con licencia de conducir interesadas en encontrar alquileres de automóviles a tarifas justas y transparentes, que se ajusten a su presupuesto.
 
 - Personas mayores de 18 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales.
