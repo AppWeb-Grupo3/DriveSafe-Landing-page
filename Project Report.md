@@ -81,6 +81,7 @@ Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la
 |  || |
 |  Carlos Andres Rojas Ccama  |![Foto Carlor andres](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c14e0c6e-bcc4-41fa-810c-4379e9b2ac64)   |Mi nombre es Carlos Andres Rojas Ccama, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares inteligentes y sistemas informáticos usando un lenguaje de programación con lógica, asociado a la tecnología, herramientas para el diseño, mantenimiento de software, etc. Me considero una persona responsable y colaborativo como ayudar a las personas y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión y escuchar las opiniones de mis compañeros con respeto. |
 | Leonel Alfaro Cumba                 |![FotoLeonel](https://github.com/AppWeb-Grupo3/informe/assets/89095594/5b77db63-ca8e-4e81-a98d-83f550c2d46a)|Estudiante de Ingeniería de Software con gran interés en la tecnología y la innovación. Motivado por ampliar conocimientos y desarrollarse constantemente.|
+| Jhan Clinton Antonio Salazar                |![foto jhan](https://github.com/AppWeb-Grupo3/informe/assets/83793319/9a549bfc-d2fa-49fb-805e-33a995146bc7)|EActualmente, soy estudiante de ingeniería de software. Me apasiona la tecnología y el desarrollo de soluciones innovadoras para mejorar la vida de las personas. Estoy emocionado de seguir aprendiendo y creciendo en este campo emocionante y en constante evolución.|
 | || |
 
 
