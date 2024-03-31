@@ -56,7 +56,7 @@
 
 | Criterio Específico | AccionesRealizadas | Conclusiones |
 |---------------------|--------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Leonel Alfaro Cumba <br>**TB1**<br>Completado del capítulo 1 del informe<br>| **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Leonel Alfaro Cumba <br>**TB1**<br>Completado del capítulo 1 del informe<br><br>Jhan Clinton Antonio Salazar<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe<br>**TP**<br>Me comunique de manera efectiva con mi equipo de manera constante en función de desarrollar y optimizar el desarrollo del Frontend aplicando los conocimientos aprendidos en clase<br>| **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro. |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Leonel Alfaro Cumba<br>**TB1**<br>Completado del capítulo 1 del informe<br>   | <br>**TB1**<br>Aprendimos a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.<br>|
 
 
