@@ -370,7 +370,61 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 -Continuar mejorando la interfaz de usuario de la plataforma, simplificando el proceso de reserva y garantizando una experiencia fluida y sin problemas para los usuarios en todas las etapas del viaje de alquiler de vehículos.
 
 
+## **2.2. Entrevistas.**
+
+### **2.2.1. Diseño de entrevistas.**
+
+Preguntas Generales para Ambos Segmentos:
+
+-   ¿Cuál es su nombre?
+
+-   ¿Qué edad tiene?
+
+-   ¿Dónde reside actualmente?
+
+-   ¿Cuál es su ocupación actual?
+
+Preguntas para Arrendatarios:
+
+-   ¿Alguna vez tuvo experiencias sobre alquilar un auto?¿cómo resultó?
+
+-   ¿Qué características específicas buscaría en un servicio de alquiler de vehículos?
+
+-   ¿Cómo cree que la tecnología podría mejorar su experiencia al alquilar un vehículo?
+
+-   ¿Prefiere alquilar un vehículo por períodos cortos o largos? ¿Por qué?
+
+-   ¿Qué opina sobre la disponibilidad de una amplia selección de vehículos en un servicio de alquiler?
+
+-   ¿Qué influiría en su decisión de llegar a alquilar un automóvil: el precio, la disponibilidad o la reputación del servicio de alquiler?
+
+-   ¿Qué opina sobre alquilar un automóvil a través de una aplicación web o móvil?
+
+Preguntas para Arrendadores:
+
+-   ¿Usted en alguna oportunidad puso en alquiler su vehículo?
+
+-   ¿Qué preocupaciones tiene respecto a poner su vehículo en alquiler?
+
+-   ¿Qué ventajas encuentra en la idea de utilizar la tecnología para gestionar el alquiler de su vehículo?
+
+-   ¿Qué opinión tiene sobre el seguimiento GPS como medida de seguridad para su vehículo mientras está en alquiler?
+
+-   ¿Qué nivel de importancia le da al seguro de vehículos al momento de poner su vehículo en alquiler?
+
+-   ¿Qué características específicas de su automóvil cree que son más atractivas para los posibles arrendatarios?
+
+-   ¿Cómo cree que la flexibilidad en los métodos de pago puede afectar la demanda de alquiler de su vehículo?
+
+-   ¿Usted estaría interesado en poner en alquiler su auto por medio de una aplicación web móvil?
+
+### **2.2.2. Registro de entrevistas.**
+
+### **2.2.3. Análisis de entrevistas.**
+
 ## **2.3. Needfinding**
+
+
 
 ### **2.3.1. User Persona**
 
