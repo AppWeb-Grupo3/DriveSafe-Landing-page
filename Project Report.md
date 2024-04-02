@@ -516,6 +516,23 @@ Arrendador
 
 
 ### 3.2. **User Stories**
+| User Story ID | Titulo | Descripcion | Criterios de Aceptacion |
+| ------------- | ------ | ----- | ---- |
+| HU001 | Ingreso de Usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | Escenario N°1: Usuario inicia sesión con sus datos personales
+Dado que el usuario necesitará registrarse para ingresar por primera vez a la aplicación, deberá completar su información personal básica
+Cuando el usuario coloca en los campos “Correo electrónico” y “Contraseña”
+Y luego el usuario hace click en el botón “Acceder” entonces el sistema asigna una sesión de usuario | 
+| HU002 | Registro del Arrendatario | Como Arrendatario, quiero registrarme dentro del aplicación para poder alquilar un auto según mi presupuesto. | Escenario 1: El arrendatario quiere crear una cuenta
+
+Dado que el arrendatario se encuentra en sección de "inicio"
+Cuando el arrendatario no se encuentra registrado en el aplicativo y al seleccionar “Crear una Cuenta”
+Entonces el sistema le redireccionará al registro.
+
+Escenario 2: El arrendatario rellena sus datos correctamente
+
+Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario"
+Cuando el arrendatario rellena todos los datos correctamente.
+Entonces el sistema registra los datos ingresados a la base de datos correctamente y mostrará "Usted se registró correctamente". |
 
 ### 3.3. **Impact Mapping**
 
