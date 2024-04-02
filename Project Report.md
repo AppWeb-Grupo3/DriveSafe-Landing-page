@@ -511,6 +511,6 @@ Arrendador
 | FEELING | Expectativa y anticipación por encontrar arrendatarios adecuados para maximizar la utilización de la flota de vehículos. | Confianza en la selección del arrendatario adecuado y cierta ansiedad por garantizar un proceso de reserva sin problemas. | Satisfacción al facilitar el uso del vehículo y cierta preocupación por la seguridad y el cuidado del mismo durante el período de alquiler. | Alivio al recibir el vehículo en buenas condiciones y cierta nostalgia al despedirse del arrendatario. |
 | THINKING | Evaluando las solicitudes y considerando la idoneidad de los arrendatarios potenciales.. | Evaluando la disponibilidad de los vehículos y confirmando la idoneidad del arrendatario. | Considerando aspectos logísticos y asegurando que el vehículo esté en condiciones adecuadas para el arrendatario. | Evaluando el estado del vehículo y asegurando que se cumplan todos los términos del contrato de alquiler. |
 
-
+# Capítulo III: Requirements Specification
 
 
