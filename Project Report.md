@@ -544,6 +544,7 @@ Arrendador
 | HU010 | Visualización de un sitio web de información de la aplicación. | Como un invitado, deseo visualizar una publicidad de la aplicación. | Escenario 1: Visualización de la landing page Dado que el invitado es nuevo y busca información de la aplicación Cuando ingrese al link de la landing page Entonces el sistema mostrará la landing page de la aplicación. |
 
 ### 3.3. **Impact Mapping**
+![foto_impact_mapping](https://github.com/AppWeb-Grupo3/informe/blob/415e070e37948856d81fcaa3181903a2c8f397c6/imagenes/Impact_Mapping.png)
 
 ### 3.4. **Product Backlog**
 
