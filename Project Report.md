@@ -21,7 +21,7 @@
 
 | Nombre                            | Código       |
 |-----------------------------------|--------------|
-|  | _________   |
+| Nelson Elías Serrano Ircañaupa | U202214733   |
 | Carlos Andres Rojas Ccama | _______ |
 | Jhan Clinton Antonio Salazar | U20201B312 |
 | Luis Enrique Aquije Quiroga       | U202114936   |
