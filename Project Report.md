@@ -512,5 +512,13 @@ Arrendador
 | THINKING | Evaluando las solicitudes y considerando la idoneidad de los arrendatarios potenciales.. | Evaluando la disponibilidad de los vehículos y confirmando la idoneidad del arrendatario. | Considerando aspectos logísticos y asegurando que el vehículo esté en condiciones adecuadas para el arrendatario. | Evaluando el estado del vehículo y asegurando que se cumplan todos los términos del contrato de alquiler. |
 
 # Capítulo III: Requirements Specification
+### 3.1. **To-Be Scenario Mapping**
+
+
+### 3.2. **User Stories**
+
+### 3.3. **Impact Mapping**
+
+### 3.4. **Product Backlog**
 
 
