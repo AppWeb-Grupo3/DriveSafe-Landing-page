@@ -25,7 +25,7 @@
 | Carlos Andres Rojas Ccama | U202114657 |
 | Jhan Clinton Antonio Salazar | U20201B312 |
 | Luis Enrique Aquije Quiroga       | U202114936   |
-| Leonel Alfaro Cumba         | u20201A930   |
+| Leonel Alfaro sdfdsfdCumba         | u20201A930   |
 
 
 ### Registro de Informes
