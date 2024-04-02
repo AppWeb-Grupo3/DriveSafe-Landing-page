@@ -513,7 +513,21 @@ Arrendador
 
 # Capítulo III: Requirements Specification
 ### 3.1. **To-Be Scenario Mapping**
+## **Usuario: Propietario**
 
+| STEPS | Encuentra arrendatarios que están interesados en el alquiler del auto | Se comunica con el arrendatario interesado | Se encuentra con el arrendatario en el lugar acordado | Entrega del auto | 
+| ------------- | ------ | ----- | ---- | - |
+| DOING | Abre la aplicación para ver si alguna persona consulto por el alquiler del auto| Ingreso de usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | Entregan el auto al arrendatario | 
+| THINKING | Se recibe solicitudes de arrendatarios interesados al alquiler del auto  | Fue rápido, directo y sencilla la comunicación con el arrendatario interesado en el alquiler | Conocer al arrendatario me da seguridad al saber a quien le estoy alquilando mi auto. | El contrato del auto fue fue sencillo, rapido y a un precio muy comodo | 
+| FEELING | Una emoción de alegría al ver que hay personas interesadas en alquilar un auto | Asombrado por la facilidad de comunicación | Alivio al ver que puede alquilar el auto sin tanto demora | Emocionado de ver que pudo conseguir arrendar sin gastar tiempo |
+
+## **Usuario: Arrendatario**
+
+| STEPS | Buscar un propietario que aquile un auto  | Se comunica con el propietario | Se encuentra con el propietario para ver el auto | Recojo del auto alquilado | 
+| ------------- | ------ | ----- | ---- | - |
+| DOING | Abre la aplicación para buscar un propietario que alquile un auto | Acuerdan la fecha y hora para ver el auto | Se encuentra con el propietario y le muestra el auto | Recojo del auto en la fecha establecida según el contrato | 
+| THINKING | Necesito alquilar un auto en un precio cómodo | Fue rapido, directo y sencillo la comunicación con el propietario | Conocer al propietario y ver el auto me da seguridad y confianza | El contrato del auto fue sencillo, rápido y a un precio cómodo | 
+| FEELING | Aliviado por encontrar fácilmente propietarios que alquilen autos | Aliviado por encontrar fácilmente un propietario que alquile su auto | Seguridad al ver el estado del auto y conocer al propietario | Aliviado a encontrar y arrendar un auto en buen precio |
 
 ### 3.2. **User Stories**
 | User Story ID | Titulo | Descripcion | Criterios de Aceptacion |
