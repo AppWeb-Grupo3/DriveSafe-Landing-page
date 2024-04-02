@@ -262,7 +262,11 @@ Con el objetivo de realizar una investigación exhaustiva sobre los segmentos ob
 
 **Segmento Arrendatarios: Personas mayores de 18 años con licencia de conducir interesadas en encontrar alquileres de automóviles a tarifas justas y transparentes, que se ajusten a su presupuesto.**
 
+![foto_user_story_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/user%20story%20arrendatario.png)
+
 **Segmento Arrendadores: Personas mayores de 18 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales.**
+
+![foto_user_story_2](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/user%20story%20arrendador.png)
 
 ### **2.2.3. User Task Matrix**
 
