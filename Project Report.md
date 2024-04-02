@@ -22,7 +22,7 @@
 | Nombre                            | Código       |
 |-----------------------------------|--------------|
 |  | _________   |
-| P____________ | _______ |
+| Carlos Andres Rojas Ccama | _______ |
 | Jhan Clinton Antonio Salazar | U20201B312 |
 | _______________        | ________   |
 | Leonel Alfaro Cumba         | u20201A930   |
