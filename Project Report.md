@@ -251,7 +251,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 - Personas mayores de 18 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales.
 
 
-
+# Capítulo II: Requirements Elicitation & Analysis
 
 
 ## **2.3. Needfinding**
@@ -270,65 +270,53 @@ En la redacción de los User Task matrix se toma en cuenta los segmentos antes m
 
 Arrendatario
 
-| User Task | Arrendatario |     |
-| --- | --- |     | --- |
-| Frecuencia | Importancia |
+| User Task : Arrendatario         | Frecuencia | Importancia |
 | --- | --- | --- |
-| Buscar un vehículo para alquilar | Siempre | Alta |
-| --- | --- | --- |
+| Buscar un vehículo para alquilar | Siempre    | Alta       |
 | Comunicarse con la empresa/persona encargada | Siempre | Alta |
-| --- | --- | --- |
 | Seleccionar un vehículo | Siempre | Alta |
-| --- | --- | --- |
 | Verificar disponibilidad | Seguido | Alta |
-| --- | --- | --- |
 | Reservar el vehículo | Siempre | Alta |
-| --- | --- | --- |
 | Recoger el vehículo | Siempre | Alta |
-| --- | --- | --- |
 | Hacer uso del vehículo | Siempre | Alta |
-| --- | --- | --- |
 | Devolver el vehículo | Siempre | Alta |
-| --- | --- | --- |
 | Finalizar alquiler | Siempre | Alta |
-| --- | --- | --- |
 | Proporcionar feedback | A veces | Media |
-| --- | --- | --- |
 
 Arrendador
 
-| User Task | Arrendador |     |
-| --- | --- |     | --- |
-| Frecuencia | Importancia |
+| User Task : Arrendador        | Frecuencia | Importancia |
 | --- | --- | --- |
-| Buscar alguien a quien alquilarle |     |     |
-| --- | --- | --- |
-| Comunicarse con la persona interesada |     |     |
-| --- | --- | --- |
-| Proporcionarle el vehículo que necesita |     |     |
-| --- | --- | --- |
-| Proporcionarle la disponibilidad del vehículo |     |     |
-| --- | --- | --- |
-| Realizar la transacción |     |     |
-| --- | --- | --- |
-| Entregar el auto a la persona |     |     |
-| --- | --- | --- |
-| Recibir información del estado y ubicación del vehículo |     |     |
-| --- | --- | --- |
-| Obtener de vuelta el auto |     |     |
-| --- | --- | --- |
-| Dar por finalizado el alquiler |     |     |
-| --- | --- | --- |
-| Analizar informes y métricas de rendimiento |     |     |
-| --- | --- | --- |
+| Buscar alguien a quien alquilarle | Seguido  | Media    |
+| Comunicarse con la persona interesada |   Seguido  | Alta    |
+| Proporcionarle el vehículo que necesita |  Siempre   | Alta    |
+| Proporcionarle la disponibilidad del vehículo |  Siempre | Alta    |
+| Realizar la transacción |   Siempre  | Alta    |
+| Entregar el auto a la persona |  Siempre   | Alta    |
+| Recibir información del estado y ubicación del vehículo |  Siempre   | Alta    |
+| Obtener de vuelta el auto |   Siempre  |  Alta   |
+| Dar por finalizado el alquiler |   Siempre  | Alta   |
+| Analizar informes y métricas de rendimiento |  A veces   |  Media   |
 
 ### **2.3.3. User Journey Mapping**
+
+**Segmento Arrendatario**
+
+![foto_user_journey_map_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendatario_userjourneymapping.jpeg)
+
+**Segmento Arrendador**
+
+![foto_user_journey_map_2](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendador_userjourneymapping.jpeg)
 
 ### 2.3.4. **Empathy Mapping**
 
 **Segmento Arrendatario**
 
-**Segmento Arrendadores**
+![foto_empahty_map_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendatario_empathy%20map.jpeg)
+
+**Segmento Arrendador**
+
+![foto_empahty_map_2](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendador_empathy%20map.jpeg)
 
 ### ***2.3.4. As-Is Scenario Mapping**
 
@@ -339,23 +327,16 @@ Maria Gonzales quiere buscar
 | FASES | Búsqueda | Reserva | Uso | Finalización |
 | --- | --- | --- | --- | --- |
 | DOING | Buscando y explorando opciones de vehículos disponibles. | Seleccionando un vehículo específico y completando el proceso de reserva en línea. | Dirigiéndose al lugar de recogida para obtener el vehículo alquilado y haciendo uso de él durante el período acordado. | Devolviendo el vehículo al lugar designado y completando el proceso de devolución. |
-| --- | --- | --- | --- | --- |
 | FEELING | Curiosidad por encontrar el vehículo adecuado y cierta anticipación por el próximo viaje. | Confianza al tomar decisiones de reserva y cierta ansiedad por confirmar la disponibilidad del vehículo deseado. | Emoción por empezar el viaje con el vehículo nuevo y cierto alivio al comprobar que todo está en orden. | Satisfacción al finalizar el viaje y motivación de recomendarlo a un conocido |
-| --- | --- | --- | --- | --- |
 | THINKING | Considerando las diferentes opciones disponibles y evaluando qué vehículo se adapta mejor a las necesidades y presupuesto. | Revisando los detalles de reserva y asegurándose de que todos los términos y condiciones sean comprendidos y aceptados. | Planificando el itinerario del viaje y considerando aspectos logísticos relacionados con el uso del vehículo. | Reflexionando sobre la experiencia de alquiler y considerando proporcionar comentarios para mejorar el servicio en el futuro. |
-| --- | --- | --- | --- | --- |
 
 Arrendador
 
 | FASES | Búsqueda | Reserva | Uso | Finalización |
 | --- | --- | --- | --- | --- |
 | DOING | Buscando activamente posibles arrendatarios para sus vehículos disponibles. | Comunicándose con los arrendatarios interesados y acordando los términos del alquiler. | Preparando el vehículo para su entrega al arrendatario en el lugar y momento acordados. | Recibiendo el vehículo de vuelta del arrendatario al final del período de alquiler. |
-| --- | --- | --- | --- | --- |
 | FEELING | Expectativa y anticipación por encontrar arrendatarios adecuados para maximizar la utilización de la flota de vehículos. | Confianza en la selección del arrendatario adecuado y cierta ansiedad por garantizar un proceso de reserva sin problemas. | Satisfacción al facilitar el uso del vehículo y cierta preocupación por la seguridad y el cuidado del mismo durante el período de alquiler. | Alivio al recibir el vehículo en buenas condiciones y cierta nostalgia al despedirse del arrendatario. |
-| --- | --- | --- | --- | --- |
 | THINKING | Evaluando las solicitudes y considerando la idoneidad de los arrendatarios potenciales.. | Evaluando la disponibilidad de los vehículos y confirmando la idoneidad del arrendatario. | Considerando aspectos logísticos y asegurando que el vehículo esté en condiciones adecuadas para el arrendatario. | Evaluando el estado del vehículo y asegurando que se cumplan todos los términos del contrato de alquiler. |
-| --- | --- | --- | --- | --- |
-
 
 
 
