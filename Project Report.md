@@ -562,3 +562,45 @@ Arrendador
 | 10 | HU010 | Visualización de un sitio web de información de la aplicación | Como un invitado, quiero visualizar una publicidad de la aplicación | 8 |
 
 
+# Capítulo IV: Product Design
+
+## 4.1 **Style Guidelines**
+
+**General Style Guidelines**
+
+Overview
+
+Nuestra misión es cautivar la atención del usuario
+
+Brand Name
+
+El nombre elegido a nuestra start up es 
+
+Typography
+
+Para la tipografía hemos elegido las fuentes
+
+Colors
+
+Los colores que predominaran en nuestro proyecto serán el azul y blanco.
+
+![colores](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/colors.jpeg)
+
+Spacing
+
+Los espacios establecidos oscilan entre px y px
+
+Button
+
+**Web Style Guidelines**
+
+## 4.2 **Information Architecture**
+
+## 4.3 **Landing Page UI Design**
+
+## 4.4 **Web Applications UX/UI Design**
+
+## 4.5 **Domain Driven Software Architecture**
+
+**Software Architecture Context Diagram**
+
