@@ -56,7 +56,7 @@
 
 | Criterio Específico | AccionesRealizadas | Conclusiones |
 |---------------------|--------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Leonel Alfaro Cumba <br>**TB1**<br>Completado del capítulo 1 del informe<br><br>Jhan Clinton Antonio Salazar<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe.<br>| **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro. |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Leonel Alfaro Cumba <br>**TB1**<br>Completado del capítulo 1 del informe<br><br>Jhan Clinton Antonio Salazar<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe.<br><br>Nelson Elías Serrano Ircañaupa<br>**TB1**<br> Completado del capítulo 2 del informe. <br><br> Carlos Andres Rojas Ccama <br>**TB1**<br> Ayude a completar el capitulo 2 con mi compañero. | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.|
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Leonel Alfaro Cumba<br>**TB1**<br>Completado del capítulo 1 del informe.<br><br>Jhan Clinton Antonio Salazar<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe.<br>  | <br>**TB1**<br>Aprendimos a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.<br>|
 
 
@@ -511,6 +511,54 @@ Arrendador
 | FEELING | Expectativa y anticipación por encontrar arrendatarios adecuados para maximizar la utilización de la flota de vehículos. | Confianza en la selección del arrendatario adecuado y cierta ansiedad por garantizar un proceso de reserva sin problemas. | Satisfacción al facilitar el uso del vehículo y cierta preocupación por la seguridad y el cuidado del mismo durante el período de alquiler. | Alivio al recibir el vehículo en buenas condiciones y cierta nostalgia al despedirse del arrendatario. |
 | THINKING | Evaluando las solicitudes y considerando la idoneidad de los arrendatarios potenciales.. | Evaluando la disponibilidad de los vehículos y confirmando la idoneidad del arrendatario. | Considerando aspectos logísticos y asegurando que el vehículo esté en condiciones adecuadas para el arrendatario. | Evaluando el estado del vehículo y asegurando que se cumplan todos los términos del contrato de alquiler. |
 
+# Capítulo III: Requirements Specification
+### 3.1. **To-Be Scenario Mapping**
+## **Usuario: Propietario**
 
+| STEPS | Encuentra arrendatarios que están interesados en el alquiler del auto | Se comunica con el arrendatario interesado | Se encuentra con el arrendatario en el lugar acordado | Entrega del auto | 
+| ------------- | ------ | ----- | ---- | - |
+| DOING | Abre la aplicación para ver si alguna persona consulto por el alquiler del auto| Ingreso de usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | Entregan el auto al arrendatario | 
+| THINKING | Se recibe solicitudes de arrendatarios interesados al alquiler del auto  | Fue rápido, directo y sencilla la comunicación con el arrendatario interesado en el alquiler | Conocer al arrendatario me da seguridad al saber a quien le estoy alquilando mi auto. | El contrato del auto fue fue sencillo, rapido y a un precio muy comodo | 
+| FEELING | Una emoción de alegría al ver que hay personas interesadas en alquilar un auto | Asombrado por la facilidad de comunicación | Alivio al ver que puede alquilar el auto sin tanto demora | Emocionado de ver que pudo conseguir arrendar sin gastar tiempo |
+
+## **Usuario: Arrendatario**
+
+| STEPS | Buscar un propietario que aquile un auto  | Se comunica con el propietario | Se encuentra con el propietario para ver el auto | Recojo del auto alquilado | 
+| ------------- | ------ | ----- | ---- | - |
+| DOING | Abre la aplicación para buscar un propietario que alquile un auto | Acuerdan la fecha y hora para ver el auto | Se encuentra con el propietario y le muestra el auto | Recojo del auto en la fecha establecida según el contrato | 
+| THINKING | Necesito alquilar un auto en un precio cómodo | Fue rapido, directo y sencillo la comunicación con el propietario | Conocer al propietario y ver el auto me da seguridad y confianza | El contrato del auto fue sencillo, rápido y a un precio cómodo | 
+| FEELING | Aliviado por encontrar fácilmente propietarios que alquilen autos | Aliviado por encontrar fácilmente un propietario que alquile su auto | Seguridad al ver el estado del auto y conocer al propietario | Aliviado a encontrar y arrendar un auto en buen precio |
+
+### 3.2. **User Stories**
+| User Story ID | Titulo | Descripcion | Criterios de Aceptacion |
+| ------------- | ------ | ----- | ---- |
+| HU001 | Ingreso de Usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | Escenario N°1: Usuario inicia sesión con sus datos personales Dado que el usuario necesitará registrarse para ingresar por primera vez a la aplicación, deberá completar su información personal básica Cuando el usuario coloca en los campos “Correo electrónico” y “Contraseña” Y luego el usuario hace click en el botón “Acceder” entonces el sistema asigna una sesión de usuario | 
+| HU002 | Registro del Arrendatario | Como Arrendatario, quiero registrarme dentro del aplicación para poder alquilar un auto según mi presupuesto. | Escenario°1: El arrendatario quiere crear una cuenta Dado que el arrendatario se encuentra en sección de "inicio" Cuando el arrendatario no se encuentra registrado en el aplicativo y al seleccionar “Crear una Cuenta” Entonces el sistema le redireccionará al registro.  Escenario N°2: El arrendatario rellena sus datos correctamente Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario" Cuando el arrendatario rellena todos los datos correctamente. Entonces el sistema registra los datos ingresados a la base de datos correctamente y mostrará "Usted se registró correctamente". |
+| HU003 | Registro del Propietario | Como Propietario quiero registrarme dentro de la aplicación para ofrecer en alquiler mi auto | Escenario 1: El propietario quiere crear una cuenta Dado que el Propietario se encuentra en sección de "inicio" Cuando el arrendador no se encuentra registrado en la aplicación Entonces al seleccionar “Crear Cuenta” el sistema le redireccionará al registro. Escenario 2: rellenado de datos correctamente. Dado que el Propietario se encuentra en la sección de registro y selecciona la sección "propietario" Cuando el propietario rellene todos los datos correctamente Entonces el sistema registra sus datos ingresados a la base de datos y mostrará "Usted se registro correctamente ". |
+| HU004 | Búsqueda de autos según características | Como Arrendatario quiero poder buscar autos según datos específicos para asi descartar otros tipos de autos | Escenario 1: El Arrendatario visualiza cuando existen datos específicos que desee Dado que el Arrendatario este en la sección "Buscar Autos" Cuando ingrese los datos en cada sección específica y encuentre información de estos. Entonces el sistema mostrará todos los autos que tenga estos en su informe. |
+| HU005 | Notificaciones via correo o sms | Como usuario del sistema, quiero poder configurar notificaciones, para luego ser notificado y no perderme ningún evento | Escenario N°1: Usuario busca configurar notificaciones Dado que el sistema mostrará opciones de notificaciones, el usuario podrá configurarlo Cuando el usuario cambie el tono y tiempo que desee que llegue la alarma Y de click en “guardar cambios” Entonces el sistema guardara automáticamente esas nuevas modificaciones |
+| HU006 | Interacción con los usuarios | Como administrador del sistema quiero poder comunicarme con los usuarios, para poder ofrecerles un servicio más personalizado. | Escenario N°1: Usuario recibe el servicio de atención al cliente Dado que el sistema muestra una sección de atención al cliente And este busca ayudar al usuario con algunas de sus consultas Cuando el usuario busca respuestas a sus consultas Entonces el sistema le enviara un asesor que le ayude en sus dudas de manera personalizada. |
+| HU007 | Publicación de anuncio de alquiler de auto | Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto. | Escenario 1: Publicación de anuncio correctamente Dado que el propietario se encuentre en sección "Registro de Vehículo" Cuando rellene los detalles del automóvil, las tarifas de alquiler y seleccione "Registrar"Entonces el sistema lo guardará en la base de datos y móstrara en pantalla el contrato de alquiler. |
+| HU008 | Autos disponibles en una área | Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona. | Escenario 1: Visualización de autos correctamente Dado que el arrendatario se encuentre en sección "Buscar auto" Cuando rellene la opción de "Ubicación" Entonces el sistema mostrará todos los autos disponibles de la areá seleccionada. |
+| HU009 | Solicitud de Alquiler de auto | Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto.| Escenario 1: Solicitud de contrato del auto correctamente Dado que el arrendatario se encuentre en sección "Buscar auto" Cuando firma el documento y seleccione "Solicitar alquiler" Entonces el sistema mandará un mensaje de envío correctamente y mandará la solicitud al propietario. | 
+| HU010 | Visualización de un sitio web de información de la aplicación. | Como un invitado, deseo visualizar una publicidad de la aplicación. | Escenario 1: Visualización de la landing page Dado que el invitado es nuevo y busca información de la aplicación Cuando ingrese al link de la landing page Entonces el sistema mostrará la landing page de la aplicación. |
+
+### 3.3. **Impact Mapping**
+![foto_impact_mapping](https://github.com/AppWeb-Grupo3/informe/blob/415e070e37948856d81fcaa3181903a2c8f397c6/imagenes/Impact_Mapping.png)
+
+### 3.4. **Product Backlog**
+
+| #Orden | User Story ID | Titulo | Descripción | Story Points |
+| ------------- | ------ | ----- | ---- | ----- |
+| 1 | HU001 | Ingreso de usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | 1 | 
+| 2 | HU002 | Registro del Arrendatario | Como Arrendatario, quiero registrarme dentro del aplicacion para poder alquilar un auto según mi presupuesto. | 3 |
+| 3 | HU003 | Registro del Propietario | Como Propietario quiero registrarme dentro de la aplicación para ofrecer en alquiler mi auto | 3 | 
+| 4 | HU004 | Búsqueda de autos según características | Como Arrendatario quiero poder buscar autos según datos específicos para asi descartar otros tipos de autos | 8 |
+| 5 | HU005 | Notificaciones via correo | Como usuario del sistema, quiero poder configurar notificaciones, para luego ser notificado y no perderme ningún evento | 5 | 
+| 6 | HU006 | Interacción con los usuarios | Como administrador del sistema quiero poder comunicarme con los usuarios, para poder ofrecerles un servicio más personalizado | 5 | 
+| 7 | HU007 | Publicación de anuncio de alquiler de auto | Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto | 8 |
+| 8 | HU008 | Autos disponibles en una área | Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona | 5 | 
+| 9 | HU009 | Solicitud de Alquiler de auto | Como arrendatario, quiero solicitar el alquiler del auto para asi poder utilizar el auto | 5 |
+| 10 | HU010 | Visualización de un sitio web de información de la aplicación | Como un invitado, quiero visualizar una publicidad de la aplicación | 8 |
 
 
