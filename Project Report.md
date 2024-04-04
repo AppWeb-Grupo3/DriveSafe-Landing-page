@@ -608,6 +608,7 @@ Button
 
 **Software Architecture Container Diagrams**
 
+![diagramcontainer](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContainerDiagram.png)
 
 **Software Architecture Components Diagrams**
 
