@@ -604,6 +604,7 @@ Button
 
 **Software Architecture Context Diagram**
 
+![diagramacontext](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContextDiagram.png)
 
 **Software Architecture Container Diagrams**
 
