@@ -601,239 +601,47 @@ Maria Gonzales quiere buscar
 | FEELING | Expectativa y anticipación por encontrar arrendatarios adecuados para maximizar la utilización de la flota de vehículos. | Confianza en la selección del arrendatario adecuado y cierta ansiedad por garantizar un proceso de reserva sin problemas. | Satisfacción al facilitar el uso del vehículo y cierta preocupación por la seguridad y el cuidado del mismo durante el período de alquiler. | Alivio al recibir el vehículo en buenas condiciones y cierta nostalgia al despedirse del arrendatario. |
 | THINKING | Evaluando las solicitudes y considerando la idoneidad de los arrendatarios potenciales.. | Evaluando la disponibilidad de los vehículos y confirmando la idoneidad del arrendatario. | Considerando aspectos logísticos y asegurando que el vehículo esté en condiciones adecuadas para el arrendatario. | Evaluando el estado del vehículo y asegurando que se cumplan todos los términos del contrato de alquiler. |
 
+<br> 
+
 # Capítulo III: Requirements Specification
 
 ## To-Be Scenario Mapping
 
 
 #### **Usuario: Propietario**
-![Propietario](https://imgur.com/vCcO43a.png)
+
+| STEPS | Encuentra arrendatarios que están interesados en el alquiler del auto | Se comunica con el arrendatario interesado | Se encuentra con el arrendatario en el lugar acordado | Entrega del auto | 
+| ------------- | ------ | ----- | ---- | - |
+| DOING | Abre la aplicación para ver si alguna persona consulto por el alquiler del auto| Ingreso de usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | Entregan el auto al arrendatario | 
+| THINKING | Se recibe solicitudes de arrendatarios interesados al alquiler del auto  | Fue rápido, directo y sencilla la comunicación con el arrendatario interesado en el alquiler | Conocer al arrendatario me da seguridad al saber a quien le estoy alquilando mi auto. | El contrato del auto fue fue sencillo, rapido y a un precio muy comodo | 
+| FEELING | Una emoción de alegría al ver que hay personas interesadas en alquilar un auto | Asombrado por la facilidad de comunicación | Alivio al ver que puede alquilar el auto sin tanto demora | Emocionado de ver que pudo conseguir arrendar sin gastar tiempo |
+
 
 #### **Usuario: Arrendatario**
-![Imgur](https://imgur.com/qy7Fts1.png)
+
+| STEPS | Buscar un propietario que aquile un auto  | Se comunica con el propietario | Se encuentra con el propietario para ver el auto | Recojo del auto alquilado | 
+| ------------- | ------ | ----- | ---- | - |
+| DOING | Abre la aplicación para buscar un propietario que alquile un auto | Acuerdan la fecha y hora para ver el auto | Se encuentra con el propietario y le muestra el auto | Recojo del auto en la fecha establecida según el contrato | 
+| THINKING | Necesito alquilar un auto en un precio cómodo | Fue rapido, directo y sencillo la comunicación con el propietario | Conocer al propietario y ver el auto me da seguridad y confianza | El contrato del auto fue sencillo, rápido y a un precio cómodo | 
+| FEELING | Aliviado por encontrar fácilmente propietarios que alquilen autos | Aliviado por encontrar fácilmente un propietario que alquile su auto | Seguridad al ver el estado del auto y conocer al propietario | Aliviado a encontrar y arrendar un auto en buen precio |
+
+<br>
 
 ### User Stories
-<table>
-  <tr>
-    <td align="center"><strong>Epic / Story ID</strong></td>
-    <td align="center"><strong>Título</strong></td>
-    <td align="center"><strong>Descripción</strong></td>
-    <td align="center"><strong>Criterios de Aceptación</strong></td>
-    <td align="center"><strong>Relacionado con (Epic ID)</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>US01</strong></td>
-    <td align="center">Registro del Arrendatario</td>
-    <td align="center">Como Arrendatario, deseo registrarme dentro del app para poder alquilar un auto según mi presupuesto.</td>
-    <td align="center">
-    Escenario 1: El arrendatario desea crear una cuenta <br>
-    Dado que el arrendatario se encuentra en sección de inicio <br>
-    Cuando el arrendatario no se encuentra registrado en el aplicativo y
-    al seleccionar “Crear una Cuenta” <br> 
-    Entonces el sistema le redireccionará al registro. <br>  
-    Escenario 2: El arrendatario rellena sus datos correctamente <br>
-    Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario" <br>
-    Cuando el arrendatario rellena todos los datos correctamente. <br>
-    Entonces el sistema registra los datos ingresados a la base de datos correctamente y mostrará "Usted se ha registrado de manera exitosa".
-    Escenario 3: El arrendatario rellena sus datos incorrectamente. <br>
-    Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario" <br>
-    Cuando el arrendatario ingresa los datos incorrectamente o no están completos, <br>
-    Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato.
+| User Story ID | Titulo | Descripcion | Criterios de Aceptacion |
+| ------------- | ------ | ----- | ---- |
+| HU001 | Ingreso de Usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | Escenario N°1: Usuario inicia sesión con sus datos personales Dado que el usuario necesitará registrarse para ingresar por primera vez a la aplicación, deberá completar su información personal básica Cuando el usuario coloca en los campos “Correo electrónico” y “Contraseña” Y luego el usuario hace click en el botón “Acceder” entonces el sistema asigna una sesión de usuario | 
+| HU002 | Registro del Arrendatario | Como Arrendatario, quiero registrarme dentro del aplicación para poder alquilar un auto según mi presupuesto. | Escenario°1: El arrendatario quiere crear una cuenta Dado que el arrendatario se encuentra en sección de "inicio" Cuando el arrendatario no se encuentra registrado en el aplicativo y al seleccionar “Crear una Cuenta” Entonces el sistema le redireccionará al registro.  Escenario N°2: El arrendatario rellena sus datos correctamente Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario" Cuando el arrendatario rellena todos los datos correctamente. Entonces el sistema registra los datos ingresados a la base de datos correctamente y mostrará "Usted se registró correctamente". |
+| HU003 | Registro del Propietario | Como Propietario quiero registrarme dentro de la aplicación para ofrecer en alquiler mi auto | Escenario 1: El propietario quiere crear una cuenta Dado que el Propietario se encuentra en sección de "inicio" Cuando el arrendador no se encuentra registrado en la aplicación Entonces al seleccionar “Crear Cuenta” el sistema le redireccionará al registro. Escenario 2: rellenado de datos correctamente. Dado que el Propietario se encuentra en la sección de registro y selecciona la sección "propietario" Cuando el propietario rellene todos los datos correctamente Entonces el sistema registra sus datos ingresados a la base de datos y mostrará "Usted se registro correctamente ". |
+| HU004 | Búsqueda de autos según características | Como Arrendatario quiero poder buscar autos según datos específicos para asi descartar otros tipos de autos | Escenario 1: El Arrendatario visualiza cuando existen datos específicos que desee Dado que el Arrendatario este en la sección "Buscar Autos" Cuando ingrese los datos en cada sección específica y encuentre información de estos. Entonces el sistema mostrará todos los autos que tenga estos en su informe. |
+| HU005 | Notificaciones via correo o sms | Como usuario del sistema, quiero poder configurar notificaciones, para luego ser notificado y no perderme ningún evento | Escenario N°1: Usuario busca configurar notificaciones Dado que el sistema mostrará opciones de notificaciones, el usuario podrá configurarlo Cuando el usuario cambie el tono y tiempo que desee que llegue la alarma Y de click en “guardar cambios” Entonces el sistema guardara automáticamente esas nuevas modificaciones |
+| HU006 | Interacción con los usuarios | Como administrador del sistema quiero poder comunicarme con los usuarios, para poder ofrecerles un servicio más personalizado. | Escenario N°1: Usuario recibe el servicio de atención al cliente Dado que el sistema muestra una sección de atención al cliente And este busca ayudar al usuario con algunas de sus consultas Cuando el usuario busca respuestas a sus consultas Entonces el sistema le enviara un asesor que le ayude en sus dudas de manera personalizada. |
+| HU007 | Publicación de anuncio de alquiler de auto | Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto. | Escenario 1: Publicación de anuncio correctamente Dado que el propietario se encuentre en sección "Registro de Vehículo" Cuando rellene los detalles del automóvil, las tarifas de alquiler y seleccione "Registrar"Entonces el sistema lo guardará en la base de datos y móstrara en pantalla el contrato de alquiler. |
+| HU008 | Autos disponibles en una área | Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona. | Escenario 1: Visualización de autos correctamente Dado que el arrendatario se encuentre en sección "Buscar auto" Cuando rellene la opción de "Ubicación" Entonces el sistema mostrará todos los autos disponibles de la areá seleccionada. |
+| HU009 | Solicitud de Alquiler de auto | Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto.| Escenario 1: Solicitud de contrato del auto correctamente Dado que el arrendatario se encuentre en sección "Buscar auto" Cuando firma el documento y seleccione "Solicitar alquiler" Entonces el sistema mandará un mensaje de envío correctamente y mandará la solicitud al propietario. | 
+| HU010 | Visualización de un sitio web de información de la aplicación. | Como un invitado, deseo visualizar una publicidad de la aplicación. | Escenario 1: Visualización de la landing page Dado que el invitado es nuevo y busca información de la aplicación Cuando ingrese al link de la landing page Entonces el sistema mostrará la landing page de la aplicación. |
 
-</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>US02</strong></td>
-    <td align="center">Registro del Propietario</td>
-    <td align="center">Como Propietario deseo registrarme dentro del app para ofrecer en alquiler mi auto </td>
-    <td align="center">
-        Escenario 1: crear una cuenta  <br>
-        Dado que el Propietario se encuentra en sección de "inicio" <br>
-        Cuando el arrendador no se encuentra registrado en la aplicación <br>
-        Entonces al seleccionar “Crear Cuenta” el sistema le redireccionará al registro. <br>
-        <br>
-        Escenario 2: rellenado de datos correctamente. <br>
-        Dado que el Propietario se encuentra en la sección de registro y selecciona la sección "propietario" <br>
-        Cuando el propietario rellene todos los datos correctamente <br>
-        Entonces el sistema registra sus datos ingresados a la base de datos y mostrará "Usted se ha registrado de manera exitosa". <br>
-        Escenario 3: rellenado de datos incorrectamente. <br>
-        Dado que el Propietario se encuentra en la sección de registro y selecciona la sección "propietario" <br>
-        Cuando el propietario ingresa los datos incorrectamente o no están completos <br>
-        Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato. <br>
-</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>US03</strong></td>
-    <td align="center">Actualización de datos</td>
-    <td align="center">Como Usuario deseo actualizar mis datos guardados en la aplicación para asi tener todo al día</td>
-    <td align="center">
-  Escenario 1: Acceso a pestaña Información Personal <br>
-  Dado que el usuario quiere actualizar sus datos <br>
-  Cuando el usuario seleccione el icono de su imag de perfil <br>
-  Entonces la aplicación le mostrará toda la Información Personal que ingreso al crear la cuenta <br>
-  <br>
-  Escenario 2: Actualización de los datos <br>
-  Dado que el usuario se encuentra en la sección información Personal <br>
-  Cuando el usuario haya actualizado todos los datos que desee <br>
-  Y el usuario al seleccionar el botón “Aceptar” <br>
-  Entonces la aplicación le muestra un mensaje indicando "Datos actualizados correctamente" <br>
-
-</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>US04</strong></td>
-    <td align="center">Búsqueda de autos según características</td>
-    <td align="center">Como Arrendatario deseo poder buscar autos según datos específicos para asi descartar otros tipos de autos/td>
-    <td align="center">
-Escenario 1: El Arrendatario visualiza cuando existen datos específicos que desee. <br>
-Dado que el Arrendatario este en la sección "Buscar Autos" <br>
-Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
-Entonces el sistema mostrará todos los autos que tenga estos en su informe. <br>
 <br>
-Escenario 2: El Arrendatario visualiza cuando no existen datos específicos que desee. <br>
-Dado que el Arrendatario este en la sección "Buscar Autos" <br>
-Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
-Entonces el sistema mostrará que "no hay contratos con esos datos". <br>
-</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>US05</strong></td>
-    <td align="center">Inicio de Sesión</td>
-    <td align="center">Como usuario registrado, quiero poder iniciar sesión en la aplicación con mi correo electrónico y contraseña.</td>
-    <td align="center">
-Escenario 1: Inicio de sesión correctamente<br>
-Dado que el usuario se encuentre en Inicio de Sesión <br>
-Cuando ingrese su correo y contraseña correctamente <br>
-Entonces el Sistema le mandará al inicio de la aplicación <br>
-<br>
-Escenario 2: Inicio de sesión incorrectamente  <br>
-Dado que el usuario se encuentre en Inicio de Sesión <br>
-Cuando ingrese su correo o contraseña incorrectamente <br>
-Entonces el Sistema debe mostrar un mensaje de error <br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US06</strong></td>
-    <td align="center">Publicación de anuncio de alquiler de auto</td>
-    <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
-    <td align="center">
-Escenario 1: Publicación de anuncio correctamente <br>
-Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
-Cuando rellene los detalles del automóvil, las tarifas de alquiler y seleccione "Registrar"<br>
-Entonces el sistema lo guardará en la base de datos y móstrara en pantalla el contrato de alquiler. <br>
-
-Escenario 1: Publicación de anuncio incorrectamente <br>
-Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
-Cuando no termina de rellenar los detalles del automóvil o las tarifas de alquiler <br>
-Entonces el sistema mostrara un mensaje de error <br>
-
-  </td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US07</strong></td>
-    <td align="center">Autos disponibles en una área</td>
-    <td align="center">Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
-    <td align="center">
-Escenario 1: Visualización de autos correctamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando rellene la opción de "Ubicación"<br>
-Entonces el sistema mostrará todos los autos disponibles de la areá seleccionada <br>
-
-Escenario 1: Visualización de autos incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando rellene la opción de "Ubicación" y no encuentre ningún auto en esa zona<br>
-Entonces el sistema mostrará un mensaje indicando que "no se encontró ningún auto en esa zona"<br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US08</strong></td>
-    <td align="center">Registro de mantenimientos del Auto</td>
-    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto</td>
-    <td align="center">
-Escenario 1: Registro de Mantenimiento correctamente <br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará "Se Registró correctamente" <br>
-
-Escenario 1: Registro de Mantenimiento incorrectamente<br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará un mensaje de error <br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US09</strong></td>
-    <td align="center">Visualización de registro de mantenimiento</td>
-    <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
-    <td align="center">
-Escenario 1: Visualización de registro de Mantenimiento correctamente <br>
-Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
-Cuando ingrese el auto que desea visualizar con el propietario<br>
-Entonces el sistema mostrará el registro de mantenimiento del auto elegido <br>
-
-Escenario 2: Visualización de registro de Mantenimiento incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
-Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente<br>
-Entonces el sistema mostrará un mensaje indicando "No se encontró el registro del auto seleccionado" <br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US10</strong></td>
-    <td align="center"> Solicitud de Alquiler de auto</td>
-    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
-    <td align="center">
-Escenario 1: Solicitud de contrato del auto correctamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando firma el documento y seleccione "Solicitar alquiler" <br>
-Entonces el sistema mandará un mensaje de envío correctamente y mandará la solicitud al propietario<br>
-
-Escenario 2: Solicitud de contrato del auto incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando no firma el documento y seleccione "Solicitar alquiler" <br>
-Entonces el sistema mandara un mensaje de error<br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US11</strong></td>
-    <td align="center">Visualización de solicitudes</td>
-    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
-    <td align="center">
-Escenario 1: Visualización de Solicitudes de auto existentes <br>
-Dado que el propietario se encuentre en sección "Solicitud" <br>
-Cuando seleccione una solicitud <br>
-Entonces el sistema mostrará la información del arrendatario interesado<br>
-
-Escenario 2: Visualización de Solicitudes de auto cuando no existe ni un solicitúd <br>
-Dado que el propietario se encuentre en sección "Solicitud" <br>
-Cuando sno existe ni un solicitúd existente<br>
-Entonces el sistema mostrará de fondo un mensaje indicando "No hay solicitúdes recibidas" <br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US12</strong></td>
-    <td align="center">Visualización de un sitio web de información de la aplicación</td>
-    <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
-    <td align="center">
-Escenario 1: Visualización de la lending page <br>
-Dado que el invitado es nuevo y busca información de la aplicación <br>
-Cuando ingrese al link de la lending page <br>
-Entonces el sistema mostrará la landing page de la aplicación<br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-</table>
 
 ### Impact Mapping
 
