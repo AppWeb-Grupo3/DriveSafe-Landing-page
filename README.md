@@ -7,45 +7,46 @@
 
 <h3>Curso: Aplicaciones Web</h3>
 <h3>Carrera: Ingeniería de Software (5to ciclo)</h3>
-<h3>Sección: WS52</h3>
+<h3>Sección: WX53</h3>
 <h3>Profesor: Naldo Reupo Musayon Gastulo</h3>
+<h3>Ciclo: 2024-1</h3>
+<strong>Startup:</strong>  ARSAA
 
-<strong>Startup:</strong> TechVerse
-
-<strong>Producto:</strong> AutoYa!
+<strong>Producto:</strong>  DriveSafe
 
 <h3>Integrantes:</h3>
 
-<ul>
-  <li>Alonso Fernando Robles Astuñaupa (u202112662)</li>
-  <li>Erick Gabriel Urbizagasteui Alvarez (u20201e465)</li>
-  <li>Johan Raúl Moreno Vergara (u20201c105)</li>
-  <li>Luis Fernando Isla Quispe (u202124146)</li>
-  <li>Nicolás Zagal Vallejo (u20201c429)</li>
-  <li>Jhan Clinton Antonio Salazar (u20201b312)</li>
-</ul>
 
-**<h3>Noviembre, 2023</h3>**
+| Nombre                            | Código     |
+|-----------------------------------|------------|
+| Nelson Elías Serrano Ircañaupa | U202214733 |
+| Carlos Andres Rojas Ccama | U202114657 |
+| Jhan Clinton Antonio Salazar | U20201B312 |
+| Luis Enrique Aquije Quiroga       | U202114936 |
+| Leonel Alfaro sdfdsfdCumba         | U20201A930 |
+
+
 
 # Registro de Versiones del Informe
+### Registro de Informes
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|--------------|--------------|--------------|--------------|
-| Entrega 1 (TB1)      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
-| Entrega 2 (TP)      | 29/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | -Se actualizó la documentación correspondiente al proyecto. <br> -Se diseñó el Frontend de nuestro proyecto utilizando el Framework Vue 3 y la librería PrimeVue. |
-| Entrega 3 (TB2)      | 03/11/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo<br>- Jhan Clinton Antonio Salazar   | -Se actualizó la documentación correspondiente al proyecto. <br> -Se corrigió algunos errores del FrontEnd del entregable anterior y se desarrolló la primera versión del Backend. |
-| Entrega 4 (TF1)      | 23/11/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo<br>- Jhan Clinton Antonio Salazar   | -Se actualizó la documentación correspondiente al proyecto. <br> -Se hizo la integración entre FrontEnd y Backend<br> -Se reliazó el security <br> -Se realizó los testeos <br> -Se culminó con los controllers principales |
+| Versión | Fecha | Autor                                                                                                                                                                  | Descripción de modificación                                                                                 |
+|--------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Entrega 1 (TB1)      | 30/03/2024      | - Leonel Alfaro Cumba<br> - Luis Enrique Aquije Quiroga<br>  - Jhan Clinton Antonio Salazar<br>  - Carlos Andres Rojas Ccama<br>  - Nelson Elías Serrano Ircañaupa<br> | - Se creó la estructura del informe junto a los primeros cuatro capítulos y la elaboración del landing page |
+| Entrega 2  (TP)      |       |                                                                                                                                                                        |                                                                                                             |
+| Entrega 3 (TB2)      |    |                                                                                                                                                                        |                                                                                                             |
+| Entrega 4 (TF1)      |      |                                                                                                                                                                        |                                                                                                             |
 
 # Project Report Collaboration Insights
 
 
-Cada integrante del equipo creó su porpia rama donde realizó sus modificaciones para posteriormente hacer merge con la rama main. A continuación, se presentan als evidencias.
+
 ## URL del repositorio del Project Report
-[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report)
+https://github.com/AppWeb-Grupo3/informe/tree/main
 
 ## Insights
 
-![Imgur](https://i.imgur.com/2P39RPM.png)
+
 
 # Contenido
 
@@ -133,54 +134,16 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
             - [Services Documentation Evidence for Sprint 1 Review](#services-documentation-evidence-for-sprint-1-review)
             - [Software Deployment Evidence for Sprint 1 Review](#software-deployment-evidence-for-sprint-1-review)
             - [Team Collaboration Insights during Sprint 1](#team-collaboration-insights-during-sprint-1)
-        - [Sprint 2](#sprint-2)
-            - [Sprint Planning 2](#sprint-planning-2)
-            - [Sprint Backlog 2](#sprint-backlog-2)
-            - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
-            - [Testing Suite Evidence for Sprint 2 Review.](#testing-suite-evidence-for-sprint-2-review)
-            - [Execution Evidence for Sprint 2 Review](#execution-evidence-for-sprint-2-review)
-            - [Services Documentation Evidence for Sprint 2 Review](#services-documentation-evidence-for-sprint-2-review)
-            - [Software Deployment Evidence for Sprint 2 Review](#software-deployment-evidence-for-sprint-2-review)
-            - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
-        - [Sprint 3](#sprint-3)
-            - [Sprint Planning 3](#sprint-planning-3)
-            - [Sprint Backlog 3](#sprint-backlog-3)
-            - [Development Evidence for Sprint 4 Review](#development-evidence-for-sprint-review-1)
-            - [Testing Suite Evidence for Sprint 4 Reviews](#testing-suite-evidence-for-sprint-reviews)
-            - [Execution Evidence for Sprint 3 Review](#execution-evidence-for-sprint-3-review)
-            - [Services Documentation Evidence for Sprint 3 Review](#services-documentation-evidence-for-sprint-3-review)
-            - [Software Deployment Evidence for Sprint 3 Review](#software-deployment-evidence-for-sprint-3-review)
-            - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
-        - [Sprint 4](#sprint-4)
-            - [Sprint Planning 4](#sprint-planning-4)
-            - [Sprint Backlog 4](#sprint-backlog-4)
-            - [Development Evidence for Sprint 4 Review](#development-evidence-for-sprint-4-review)
-            - [Testing Suite Evidence for Sprint 4 Reviews](#testing-suite-evidence-for-sprint-4-reviews)
-            - [Execution Evidence for Sprint 4 Review](#execution-evidence-for-sprint-4-review)
-            - [Services Documentation Evidence for Sprint 4 Review](#services-documentation-evidence-for-sprint-4-review)
-            - [Software Deployment Evidence for Sprint 4 Review](#software-deployment-evidence-for-sprint-4-review)
-            - [Team Collaboration Insights during Sprint 4](#team-collaboration-insights-during-sprint-4)
-    - [Validation Interviews](#validation-interviews)
-        - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
-            - [Datos personales del usuario:](#datos-personales-del-usuario)
-            - [Preguntas realizadas luego de culminar con la tarea asignada:](#preguntas-realizadas-luego-de-culminar-con-la-tarea-asignada)
-        - [Registro de Entrevistas](#registro-de-entrevistas-1)
-        - [Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
-        - [Tabla Resumen:](#tabla-resumen)
-        - [Descripción de problemas:](#descripción-de-problemas)
-    - [Video About-the-Product](#video-about-the-product)
-- [Conclusiones](#conclusiones)
-    - [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+        
 
 # Student Outcome
 
 
 | Criterio Específico | AccionesRealizadas | Conclusiones |
 |---------------------|--------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br>**TP1**<br>Mi desenvolvimiento dentro del desarrollo fue preciso y fácil de entender, ya sea en la parte de programación como en la comunicación.<br>**TB2**<br> En esta entrega me engargué de los Entities en la parte del backend.<br>**TF**<br>Coordiné la colaboración interdisciplinaria durante la revisión de lanzamiento, asegurando una distribución equitativa de responsabilidades. Implementé prácticas ágiles para mejorar la eficiencia en la gestión de la entrega del producto final.<br><br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br>**TP1**<br>Me reuní con mi equipo en distintas ocasiones para realizar el desarrollo del frontend de nuestro proyecto.<br>**TB2**<br> En este sprint 3 me encargué de la Database.<br>**TF**<br>Lideré la sección que detalla la colaboración multidisciplinaria, destacando la eficacia y eficiencia del equipo en el desarrollo del proyecto. Contribuí a la versión actualizada de la Sección Student Outcome, resaltando cómo las actividades del proyecto fortalecieron las habilidades de trabajo en equipo.<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br> Fui capaz de participar de manera efectiva, eficiente y objetiva junto a mi equipo en el desarrollo de nuestro Frontend aplicando conocimientos de ingeniería de software.<br>**TB2**<br> Participé junto a mi grupo en la elboración del Sprint 3 siendo mi principal labor las entrevistas de validación y el informe.<br>**TF**<br>Participé activamente en la preparación y presentación de la keynote, destacando la colaboración multidisciplinaria como elemento clave del éxito del proyecto. Destaqué en la presentación cómo la eficacia y objetividad en el trabajo en equipo influyeron directamente en los resultados finales del proyecto.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe*<br>**TP1**<br>Trabaje de manera eficiente, practica y acertiva con mi grupo en el desarrollo del frotend<br>**TB2**<br>Para esta entrega junto a mi grupo nos encargamos del Repositories el cual me permitió comprender nuevos temas.<br>**TF**<br>Proporcioné aportes significativos a mi evaluación de desempeño individual, resaltando logros y áreas de mejora en términos de colaboración en equipos multidisciplinarios. Contribuí a la sección Collaboration Insights, resaltando aprendizajes específicos sobre cómo la colaboración multidisciplinaria impactó positivamente en el desarrollo del proyecto.<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe<br>**TP**<br>Me comunique de manera efectiva con mi equipo de manera constante en función de desarrollar y optimizar el desarrollo del Frontend aplicando los conocimientos aprendidos en clase<br>**TB2**<br>En esta entrega me encargué de los Services en el backend.<br>**TF**<br>Incluí documentos que evidencian mi participación activa y eficiente en el desarrollo del proyecto. Aseguré que el archivo .zip refleje de manera clara y objetiva mi contribución a través de archivos de proyectos, documentos y evidencias de trabajo en equipo. <br><br>Jhan Clinton Antonio Salazar<br>**TB2**<br>En esta entrega me encargué de desarrollar los controllers del backend. <br>**TF**<br>Mejoré la versión final del Registro de Versiones del Informe, destacando las iteraciones que reflejan la evolución y eficacia del trabajo en equipo. Participé en sesiones de retroalimentación para comprender cómo mi contribución afectó positivamente la eficacia del equipo. | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.<br>**TP1**<br>Nos reunimos como equipo en distintas ocasiones para ir completando las metas propuestas para este sprint, lo cual ayudó a mejorar nuestra relación de compañerismo.<br>**TB2**<br> Hemos logrado completar gran parte del backend de nuestra api web para nuestro proyecto, AutoYa! Durante este tercer sprint se implementaron los entities, repositories, services, controllers y database haciendo uso de Jetbrians Rider.<br>**TF**<br>El equipo logró una colaboración multidisciplinaria efectiva, distribuyendo responsabilidades equitativamente y aplicando prácticas ágiles para mejorar la eficiencia. La comunicación efectiva y la integración de habilidades técnicas y no técnicas fueron prioritarias. Las retrospectivas al final de cada sprint permitieron mejoras continuas, destacando el compromiso del equipo con la eficacia y objetividad en todo momento.<br>|
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br>**TP1**<br>Tengo la capacidad de utilizar conocimientos previos relacionado a la carrera, con la finalidad de desarrollar proyectos en su mejor forma.<br>**TB2**<br> En esta entrega me engargué de los Entities en la parte del backend aplicando conocimientos de ingeniería a los diferentes problemas presentados.<br>**TF**<br>Aplicación de conocimientos específicos del sector durante la revisión de lanzamiento, asegurando la alineación del producto con las necesidades del mercado. Destacé en la presentación cómo la comprensión del dominio de aplicación influyó directamente en las decisiones de desarrollo.<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br>**TP1**<br>Aprendí a usar Vue para desarrollar las páginas web que formarán parte de la solución de mi equipo.<br>**TB2**<br> Gracias a los conocimientos en ingeniería en este sprint 3 me encargué de la Database.<br>**TF**<br>Contribuí a la sección que aborda el conocimiento del sector empresarial, proporcionando análisis detallados y recomendaciones basadas en mi comprensión del dominio de aplicación.<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br>Soy capaz de aplicar mis conocimientos y habilidades en ingeniería de software en el contexto de equipos multidisciplinarios, asegurando la eficacia y eficiencia en la ejecución de proyectos.<br>**TB2**<br> Logré aplicar conocimientos de ingeniería de software en este Sprint 3, aprendí lo esencial sobre este primer desarrollo del backend.<br>**TF**<br> Mejoré la versión final de la Bibliografía, asegurando que refleje fuentes específicas que informaron mi comprensión del sector empresarial. Enfaticé en la presentación cómo la comprensión del sector empresarial contribuyó a la eficacia y eficiencia del equipo en la entrega de soluciones de software.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br>**TP1**<br>En este proyecto, se pusieron en práctica los conocimientos adquiridos durante el proceso de formación, los cuales fueron impartidos a través de clases teóricas y prácticas. Estos conocimientos abarcan una amplia gama de disciplinas relacionadas con el desarrollo web.<br>**TB2**<br>Con los conocimientos aprendidos en clase en esta entrega junto a mi grupo nos encargamos del Repositories el cual me permitió comprender nuevos temas.<br>**TF**<br>Destaqué casos específicos del sector empresarial durante la presentación, demostrando cómo el conocimiento profundo del dominio de aplicación informó decisiones estratégicas. Participé en sesiones de retroalimentación para comprender cómo mi comprensión del sector empresarial mejoró la colaboración en el equipo multidisciplinario.<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe <br>**TP**<br>Reforce y aplique los temas vistos en clase de manera que pude aportar al equipo de una manera efectiva, de esta manera se consiguio un desarrollo optimo del proyecto<br>**TB2**<br> En esta entrega me encargué de los Services en el backend.<br>**TF**<br> Reflexioné sobre cómo mi conocimiento del sector impactó positivamente en mi desempeño individual, destacando contribuciones significativas basadas en el dominio de aplicación. Aseguré que el archivo .zip refleje de manera clara y objetiva mi experiencia en el sector empresarial a través de archivos complementarios pertinentes.<br><br>Jhan Clinton Antonio Salazar<br>**TB2**<br>En esta entrega me encargué de desarrollar los controllers del backend.<br>**TF**<br> Aseguré que la Sección Student Outcome reflejara cómo mi conocimiento del sector contribuyó a la eficiencia y objetividad en el desarrollo del proyecto. Contribuí a la sección de Conclusiones, resaltando cómo el conocimiento del dominio de aplicación fue crucial para el éxito global del proyecto. | <br>**TB1**<br>Aprendimos y nos enseñanos unos a otros a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.<br>**TP1**<br>Aprendimos a usar distintos componentes de Vue para desarrollar la parte del frontend de nuestra solución web.<br>**TB2**<br> Durante el tercer sprint nos reunimos para definir cómo se desarrollaría el backend de AutoYa! Durante esas reuniones se repartieron las tareas para cada integrante. De esta forma logramos tener un avance sustancial para el fin del sprint. Asimismo, aprendimos a cómo modelar mejor el backend de una aplicación web.<br>**TF**<br> Cada miembro del equipo demostró un profundo conocimiento del sector asignado, reflejado en decisiones estratégicas y tácticas durante el proyecto. La presentación y revisión de lanzamiento resaltaron casos específicos del sector, evidenciando cómo este conocimiento informó las soluciones propuestas. Las contribuciones individuales reflejaron una comprensión detallada de las necesidades y desafíos del sector, asegurando la relevancia y eficacia de las soluciones de software. En resumen, cada miembro integró de manera efectiva su comprensión sectorial en el desarrollo del proyecto.<br> |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Leonel Alfaro Cumba <br>**TB1**<br>Completado del capítulo 1 del informe<br><br>Jhan Clinton Antonio Salazar<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe.<br><br>Nelson Elías Serrano Ircañaupa<br>**TB1**<br> Completado del capítulo 2 del informe. <br><br> Carlos Andres Rojas Ccama <br>**TB1**<br> Ayude a completar el capitulo 2 con mi compañero. | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.|
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Leonel Alfaro Cumba<br>**TB1**<br>Completado del capítulo 1 del informe.<br><br>Jhan Clinton Antonio Salazar<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe.<br>  | <br>**TB1**<br>Aprendimos a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.<br>|
+
 
 
 # Capítulo I: Introducción
@@ -189,15 +152,14 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
 
 ### Descripción de la Startup
 
-AutoYa! es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Nuestras características, como la retención del pago, el seguimiento por GPS, una amplia selección de autos y un servicio al cliente de calidad, ayudan a los clientes a sentirse seguros, protegidos, cómodos y ahorradores. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
+Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la industria de alquiler de vehículos mediante el empleo de soluciones tecnológicas innovadoras, nos destacamos por características distintivas como la retención de pagos, seguimiento GPS, una amplia selección de vehículos y un servicio al cliente de primera calidad. Estas características no solo garantizan la seguridad y protección de nuestros clientes, sino que también les proporcionan comodidad y ahorro. Fundada por estudiantes universitarios que tiene el propósito de transformar la experiencia de alquiler de autos a través de la aplicación de tecnología en una experiencia agradable y enfocado en el cliente.
 
 **Misión**
 
-Nuestra misión es ayudar a las personas a reducir los contratiempos que puedan tener al momento de rentar o poner en renta un auto para que estas puedan hacerlo de forma sencilla y segura. Pensamos lograr esto mediante el lanzamiento de aplicaciones web que se enfoquen en atacar dichos contratiempos.
+- Nuestra misión es ayudar a las personas a reducir los contratiempos que puedan tener al momento de rentar o poner en renta un auto para que estas puedan hacerlo de forma sencilla y segura. Pensamos lograr esto mediante el lanzamiento de aplicaciones web que se enfoquen en atacar dichos contratiempos.
 
 **Visión**
-
-Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos que se encuentre en el top 10 de dicho nicho en Perú. Asimismo, planeamos expandir nuestros productos a nivel latinoamérica para que más personas puedan disfrutar de estos.
+- Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos que se encuentre en el top 10 de dicho nicho en Perú. Asimismo, planeamos expandir nuestros productos a nivel latinoamérica para que más personas puedan disfrutar de estos.
 
 ### Perfiles de integrantes del equipo
 
