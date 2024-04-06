@@ -507,67 +507,23 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 **Arrendatarios**
 
-![Imgur](https://i.imgur.com/VNfnRNd.png)
-
-![Imgur](https://i.imgur.com/V7P9MnF.png)
-
-![Imgur](https://i.imgur.com/49tHN92.png)
-
-![Imgur](https://i.imgur.com/O8r1FU5.png)
-
-![Imgur](https://i.imgur.com/3GqCISz.png)
-
-![Imgur](https://i.imgur.com/lkbHpjV.png)
-
-![Imgur](https://i.imgur.com/xCPpACX.png)
-
-![Imgur](https://i.imgur.com/KoKnhe5.png)
-
-![Imgur](https://i.imgur.com/VFrDq3d.png)
-
-![Imgur](https://i.imgur.com/40CyBOx.png)
-
-![Imgur](https://i.imgur.com/jy6nlso.png)
-
-![Imgur](https://i.imgur.com/xqOoZoO.png)
 
 **Arrendadores**
 
-![Imgur](https://i.imgur.com/Ypv6LqW.png)
-
-![Imgur](https://i.imgur.com/TNdxgHL.png)
-
-![Imgur](https://i.imgur.com/JBJjwCE.png)
-
-![Imgur](https://i.imgur.com/7giPx1g.png)
-
-![Imgur](https://i.imgur.com/WbfDNg7.png)
-
-![Imgur](https://i.imgur.com/ouXM2GW.png)
-
-![Imgur](https://i.imgur.com/eSHY2cw.png)
-
-![Imgur](https://i.imgur.com/eSHY2cw.png)
-
-![Imgur](https://i.imgur.com/SExuZWq.png)
-
-![Imgur](https://i.imgur.com/PTEW9bf.png)
-
-![Imgur](https://i.imgur.com/7pJWRYf.png)
 
 ## Needfinding
 
 ### User Personas
 
-A continuación se presentarán los User Persona elaborados en base al análisis de las entrevistas. Se ideó un User Persona por segmento objetivo.
+Con el objetivo de realizar una investigación exhaustiva sobre los segmentos objetivo al cual estará dirigido nuestra e-commerce, se llevó a cabo un proceso el cual acaba en los User Persona que representan a estos individuos.
 
-**Arrendatario**
+**Segmento Arrendatarios: Personas mayores de 18 años con licencia de conducir interesadas en encontrar alquileres de automóviles a tarifas justas y transparentes, que se ajusten a su presupuesto.**
 
-![Imgur](https://i.imgur.com/tuLamiF.png)
+![foto_user_story_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/user%20story%20arrendatario.png)
 
-**Arrendador**
+**Segmento Arrendadores: Personas mayores de 18 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales.**
 
-![Imgur](https://i.imgur.com/2gIrr7u.png)
+![foto_user_story_2](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/user%20story%20arrendador.png)
 
 
 ### User Task Matrix
