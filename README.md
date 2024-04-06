@@ -1432,11 +1432,11 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Software Architecture Container Diagrams
 
-![Imgur](https://i.imgur.com/CwMYSiU.png)
+![diagramcontainer](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContainerDiagram.png)
 
 ### Software Architecture Components Diagrams
 
-![Imgur](https://i.imgur.com/rHUOdiX.png)
+
 
 ## Software Object-Oriented Design
 
