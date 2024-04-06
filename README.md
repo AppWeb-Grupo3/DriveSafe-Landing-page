@@ -713,7 +713,7 @@ Los colores que predominaran en nuestro proyecto serán el azul y blanco.
 
 **Spacing:**
 <div style="text-align: justify;">
-Hemos establecido niveles de espacio que van desde 8px hasta 96px para garantizar un diseño equilibrado y una experiencia visual agradable.
+Los espacios establecidos oscilan entre px y px
 </div>
 
 <p align="center">
@@ -1428,7 +1428,7 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Software Architecture Context Diagram
 
-![Imgur](https://i.imgur.com/0PttzRE.png)
+![diagramacontext](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContextDiagram.png)
 
 ### Software Architecture Container Diagrams
 
