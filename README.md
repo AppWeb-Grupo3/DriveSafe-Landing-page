@@ -628,6 +628,7 @@ Maria Gonzales quiere buscar
 <br>
 
 ### User Stories
+
 | User Story ID | Titulo | Descripcion | Criterios de Aceptacion |
 | ------------- | ------ | ----- | ---- |
 | HU001 | Ingreso de Usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | Escenario N°1: Usuario inicia sesión con sus datos personales Dado que el usuario necesitará registrarse para ingresar por primera vez a la aplicación, deberá completar su información personal básica Cuando el usuario coloca en los campos “Correo electrónico” y “Contraseña” Y luego el usuario hace click en el botón “Acceder” entonces el sistema asigna una sesión de usuario | 
@@ -645,7 +646,7 @@ Maria Gonzales quiere buscar
 
 ### Impact Mapping
 
-![Imgur](https://imgur.com/a4cGTDw.png)
+![foto_impact_mapping](https://github.com/AppWeb-Grupo3/informe/blob/415e070e37948856d81fcaa3181903a2c8f397c6/imagenes/Impact_Mapping.png)
 
 ### Product Backlog
 
