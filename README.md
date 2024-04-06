@@ -250,33 +250,78 @@ El alquiler de automóviles conlleva diversos riesgos tanto para el arrendatario
 
 #### Lean UX Hypothesis Statements
 
-**Hipótesis 1**  
-Creemos que las personas estarán interesadas en una aplicación web que permita rentar y poner a la renta autos por precios más bajos que los de la competencia. Sabremos que esto si la cantidad de usuarios de nuestro producto aumenta en 5% semanalmente durante los primeros 4 meses desde su lanzamiento.
+**Hipótesis 1**
 
-**Hipótesis 2**  
-Creemos que AutoYa! tendrá problemas luego de su lanzamiento. Sabremos que esto es cierto cuando su cantidad de usuarios empiece a decrecer en 8% semanalmente.
+Creemos que las personas estarán interesadas en una aplicación web que permite alquilar y poner en alquiler autos a precios más bajos que los de la competencia. Confirmaremos esto si la cantidad de usuarios de nuestro producto aumenta en un 5% semanal durante los primeros 4 meses después de su lanzamiento.
 
-**Hipótesis 3**  
-Creemos que la visualización de la documentación de los vehículos en la aplicación será un agregado importante. Sabremos que esto es cierto si el 65% de las reseñas de autos en esta son positivas.
+**Hipótesis 2**
+
+Creemos que nuestro producto enfrentará problemas después de su lanzamiento. Confirmaremos esto si la cantidad de usuarios comienza a disminuir en un 8% semanal.
+
+**Hipótesis 3**
+
+Creemos que la visualización de la documentación de los vehículos en la aplicación será un valor agregado importante. Confirmaremos esto si el 65% de las reseñas de vehículos en la aplicación son positivas.
+
+**Hipótesis 4**
+
+Creemos que la prestación de un servicio al cliente rápido y efectivo mejorará la reputación del producto y fomentará la lealtad de los usuarios. Confirmaremos esto si observamos un aumento del 20% en las calificaciones positivas del servicio al cliente en las reseñas del aplicativo.
+
+**Hipótesis 5**
+
+Creemos que la transparencia en las políticas de precios y condiciones de alquiler aumentará la confianza del cliente en la plataforma. Confirmaremos esto si observamos un aumento del 15% en las reseñas positivas.
 
 #### Lean UX Canvas
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Business Problem</strong><br>- Precios mayores a los deseados<br>- Estafas en el proceso de renta<br>- Tarifas ocultas<br>- Falta de transparencia del estado del auto</td>
-    <td align="center" rowspan="2"><strong>Solution Ideas</strong><br>- Precios menores a los de la competencia<br>- Inclusión de la documentación actualizada del auto<br>- Seguimiento del auto vía GPS<br>- Retención del pago hasta finalizado el servicio</td>
-    <td align="center"><strong>Business Outcomes</strong><br>- Alto número de usuarios<br>- Reseñas mayormente positivas en la aplicación<br>- AutoYa! se vuelve una de las aplicaciones de alquiler de auto más usadas en Perú</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Users and Customers</strong><br>- Personas hispanohablantes mayores de edad que se encuentren en Perú y deseen rentar un auto.<br>- Personas hisponohablantes mayores de edad que se encuentren en Perú, cuenten con uno o más autos y deseen poner en renta uno o más de uno.</td>
-    <td align="center"><strong>User Benefits</strong><br>- Costos menores<br>- Garantía del buen estado del auto<br>- Sistema antifraudes<br>- Acceso a la información del arrendatario</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Hypothesis</strong><br>- Creemos que las personas estarán interesadas en una aplicación web que permita rentar y poner a la renta autos por precios más bajos que los de la competencia. Sabremos que esto si la cantidad de usuarios de nuestro producto aumenta en 5% semanalmente durante los primeros 4 meses desde su lanzamiento.<br>- Creemos que AutoYa! tendrá problemas luego de su lanzamiento. Sabremos que esto es cierto cuando su cantidad de usuarios empiece a decrecer en 8% semanalmente.<br>- Creemos que la visualización de la documentación de los vehículos en la aplicación será un agregado importante. Sabremos que esto es cierto si el 65% de las reseñas de autos en esta son positivas.</td>
-    <td align="center"><strong>What’s the most important thing we need to learn first?</strong><br>- Las características que el usuario realmente quiere en la aplicación<br>- La cantidad de personas que estarían dispuestas a poner en renta su auto por una aplicación web<br>- Los costos y beneficios que ofrece la competencia</td>
-    <td align="center"><strong>What's the least amount of work we need to do to learn the next most important thing?</strong><br>- Realizar entrevistas a personas que se encuentren dentro de los segmentos objetivos de AutoYa!<br>- Enviar formularios con preguntas sencillas, pero que contengan preguntas clave a nuestros segmentos objetivos<br>- Tomar en cuenta el feedback que se reciba y aplicarlo en AutoYa!</td>
-  </tr>
-</table>
+<table>
+            <tr>
+              <td valign="top"><p><b>Business Problem</b></p>
+                <p>•	Estafas en la renta de autos </p>
+                <p>•	Precios altos</p>
+                <p>•	Falta de transparencia en el estado del auto</p> 
+                <p>•	Tarifas ocultas</p>
+               </td>
+              <td rowspan="2" valign="top"><p><b>Solution Ideas</b></p>
+                <p>•	Precios competitivos</p>
+                <p>•	Inclusión de documentación actualizada del auto</p>
+                <p>•	Seguimiento vía GPS</p>
+                <p>•	Retención del pago hasta finalizar el servicio </p></td>
+              <td valign="top"><p><b>Business Outcomes</b></p>
+              <p>•	Gran cantidad de usuarios</p>
+              <p>•	Reseñas mayormente positivas</p>
+              <p>•	Se convierte en una de las aplicaciones más utilizadas en Perú para alquiler de autos</p>
+            </td>
+            </tr>
+            <tr>
+              <td valign="top"><p><b>Users and Customers</b></p>
+                <p>•	Hispanohablantes adultos en Perú que buscan alquilar un auto.</p>
+                <p>•    Hispanohablantes adultos en Perú que cuenten con un auto y deseen ponerlo en alquiler.</p>
+                </td>
+              <td valign="top"><p><b>User Benefits</b></p>
+                <p>•	Costos más bajos</p>
+                <p>•	Garantía del estado del auto</p>
+                <p>•	Prevención de fraudes</p>
+                <p>•	Acceso a la información del arrendatario</p>
+                </td>
+            </tr>
+            <tr><td valign="top"><p><b>Hypothesis</b></p>
+                <p> •	Creemos que nuestro producto enfrentará problemas después de su lanzamiento. Confirmaremos esto si la cantidad de usuarios comienza a disminuir en un 8% semanal.</p>
+                <p>•	Creemos que nuestro producto enfrentará problemas después de su lanzamiento. Confirmaremos esto si la cantidad de usuarios comienza a disminuir en un 8% semanal.</p>
+                <p>•	Creemos que la visualización de la documentación de los vehículos en la aplicación será un valor agregado importante. Confirmaremos esto si el 65% de las reseñas de vehículos en la aplicación son positivas.</p>
+            </td>
+              <td valign="top"><p><b>What’s the most important thing we need to learn first?</b></p>
+                <p>•	Necesidades reales de los usuarios</p> 
+                <p>•	Disposición para alquilar autos vía aplicación</p>
+                <p>•	Análisis de costos y beneficios de la competencia</p>
+                </td>
+              <td valign="top"><p><b>What's the least amount of work we need to do to learn the next most important thing?</b></p>
+                <p>•	Entrevistas a los segmentos objetivos
+                </p>      
+                <p>•	Envío de formularios clave a los segmentos objetivos</p>
+                <p>•	Implementación de feedback en el aplicativo</p></td></tr>
+          </table>
+
+<br><br>
+
 
 ## Segmentos objetivo
 
