@@ -325,10 +325,12 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 ## Segmentos objetivo
 
-Se han identificado dos segmentos objetivos.
+**Se identificaron dos  segmentos objetivos**
 
-1. Personas mayores de 18 años que cuenten con licencia de conducir y deseen alquilar uno o más autos de forma segura y a un menor precio que los servicios de alquiler de autos más populares.
-2. Personas mayores de 18 años que posean uno o más autos en regla junto con todos los documentos que esto conlleva y deseen poner en alquiler estos mismos de forma segura mediante plataformas digitales.
+
+- Personas mayores de 18 años con licencia de conducir interesadas en encontrar alquileres de automóviles a tarifas justas y transparentes, que se ajusten a su presupuesto.
+
+- Personas mayores de 18 años que tengan por lo menos un vehículo legalmente registrado y documentado, y deseen alquilarlo de forma segura a través de plataformas digitales.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -345,109 +347,108 @@ Se han identificado dos segmentos objetivos.
   <tbody>
     <tr>
       <td rowspan="1" style="text-align:center;">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5" style="text-align:center;">¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?</td>
+      <td colspan="5" style="text-align:center;">El objetivo de este análisis es comprender el posicionamiento de nuestra startup, DriveShare, en comparación con sus competidores principales en la industria de alquiler de vehículos.</td>
     </tr>
     <tr>
       <td colspan="2" style="text-align:center;">Competidores</td>
-      <td style="text-align:center;">AutoYa!</td>
-      <td style="text-align:center;">Budget Car Rental</td>
-      <td style="text-align:center;">Rento</td>
-      <td style="text-align:center;">Hertz</td>
+      <td style="text-align:center;">DriveShare</td>
+      <td style="text-align:center;">Turo</td>
+      <td style="text-align:center;">Zipcar</td>
+      <td style="text-align:center;">Getaround</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil</td>
       <td style="text-align:center;">Overview</td>
-      <td style="text-align:center;">Servicio peruano que permite rentar y poner en renta autos a personas naturales</td>
-      <td style="text-align:center;">Empresa peruana que posee presencia global y opera en más de 3,200 puntos de atención en 120 países</td>
-      <td style="text-align:center;">Aplicación de renta de autos en Perú que funciona como intermediario tanto para arrendatarios como para arrendadores</td>
-      <td style="text-align:center;">Servicio de alquiler de autos más grande a nivel global</td>
+      <td style="text-align:center;">Plataforma de alquiler de vehículos con un enfoque centrado en la tecnología y la comodidad del cliente</td>
+      <td style="text-align:center;">Plataforma de alquiler de vehículos que se destaca por su gran comunidad de usuarios y su enfoque en la conveniencia y la accesibilidad.</td>
+      <td style="text-align:center;">Servicio de alquiler de coches que se enfoca en la movilidad urbana y la flexibilidad</td>
+      <td style="text-align:center;">Plataforma de alquiler de coches que se destaca por su presencia global y su enfoque en la comunidad de alquiler de vehículos compartidos.s</td>
     </tr>
     <tr>
       <td style="text-align:center;">Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
-      <td style="text-align:center;">Transparencia con el cliente; precios bajos y seguridad</td>
-      <td style="text-align:center;">Se puede recoger el auto en el aeropuerto Jorge Chávez</td>
-      <td style="text-align:center;">Ofrece poner en renta un auto propio</td>
-      <td style="text-align:center;">Ofrece sus servicios también fuera de Lima (Arequipa y Cusco) y se puede entregar el auto en una sucursal distinta de donde se recogió</td>
+      <td style="text-align:center;">Retención de pagos, seguimiento GPS, amplia selección de vehículos, servicio al cliente de primera calidad</td>
+      <td style="text-align:center;">Plataforma de alquiler de vehículos entre particulares</td>
+      <td style="text-align:center;">Servicio de alquiler de coches por horas o días</td>
+      <td style="text-align:center;">Mercado de alquiler de coches entre particulares</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil de Marketing</td>
       <td style="text-align:center;">Mercado objetivo</td>
-      <td style="text-align:center;">Personas en Perú mayores de 18 años que deseen rentar o poner en renta autos</td>
-      <td style="text-align:center;">Personas mayores de 21 años que cuenten con una licencia de conducir vigente deseen alquilar un auto</td>
-      <td style="text-align:center;">Personas que quieran alquilar un auto y personas que quieran poner en alquiler su auto</td>
-      <td style="text-align:center;">Personas mayores de 18 años que deseen alquilar un auto</td>
+      <td style="text-align:center;">Personas mayores de edad y conductores con licencia en regla</td>
+      <td style="text-align:center;">Personas que buscan alquilar vehículos de particulares</td>
+      <td style="text-align:center;">Usuarios urbanos que necesitan un coche por horas</td>
+      <td style="text-align:center;">Viajeros y propietarios de vehículos que desean alquilarlos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Estrategias de marketing</td>
-      <td style="text-align:center;">Comunicar que el servicio permite, además de alquilar un auto, poner en alquiler un auto propio de forma segura</td>
-      <td style="text-align:center;">Anunciar su posesión de la flota de alquiler de vehículos más variada de Perú</td>
-      <td style="text-align:center;">Mencionar siempre que están respaldados por Rimac Seguros y que es un servicio seguro</td>
-      <td style="text-align:center;">Alta gama de vehículos para poder reducir los precios</td>
+      <td style="text-align:center;">Marketing digital enfocado en las experiencias de usuario, informando las ventjas y seguridad del servicio</td>
+      <td style="text-align:center;">Marketing digital, promoción entre comunidades locales</td>
+      <td style="text-align:center;">Publicidad en medios urbanos, marketing digital</td>
+      <td style="text-align:center;">Marketing digital, promoción en redes sociales</td>
     </tr>
     <tr>
-      <td rowspan="3" style="text-align:center;">Perfil de Producto</td>
+      <td rowspan="3" style="text-align:center;">Perfil de producto</td>
       <td style="text-align:center;">Productos & Servicios</td>
-      <td style="text-align:center;">- Alquilar autos<br>- Poner en alquiler autos</td>
-      <td style="text-align:center;">- Alquiler de Autos<br>- Alquiler de Autos para Empresas<br>- Venta de Autos Usados Expertos en Viajes<br>- Reservas Internacionales<br>- Servicio de Chofer</td>
-      <td style="text-align:center;">- Alquiler de autos<br>- Poner en alquiler autos</td>
-      <td style="text-align:center;">- Alquiler de autos</td>
+      <td style="text-align:center;">Alquiler de vehículos y la funcionalidad de disponer vehículos en alquiler</td>
+      <td style="text-align:center;">Plataforma de alquiler entre particulares</td>
+      <td style="text-align:center;">Servicio de alquiler de coches por horas o días</td>
+      <td style="text-align:center;">Plataforma de alquiler de coches entre particulares</td>
     </tr>
     <tr>
       <td style="text-align:center;">Precios & Costos</td>
-      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- Desde S/100 por día de uso del auto</td>
-      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- De S/96 a S/561 por día de uso del auto</td>
-      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- Desde S/100 por día de uso del auto</td>
-      <td style="text-align:center;">- Uso gratuito de la apliacación<br>- Desde S/63 soles por día de uso del auto(sin incluir protecciones y servicios adicionales)</td>
+      <td style="text-align:center;">Plataforma gratuita, y desde S/100 por día de alquiler</td>
+      <td style="text-align:center;">Determinados por los propietarios de los vehículos, el mínimo encontrado es S/120</td>
+      <td style="text-align:center;">Tarifas por horas o días, desde S/20 la hora o S/110 el día</td>
+      <td style="text-align:center;">Varían según el vehículo y la ubicación, desde S/240</td>
     </tr>
     <tr>
       <td style="text-align:center;">Canales de distribución<br>(Web y/o Móvil)</td>
-      <td style="text-align:center;">Web</td>
-      <td style="text-align:center;">Web y móvil</td>
-      <td style="text-align:center;">Móvil</td>
-      <td style="text-align:center;">Web y móvil</td>
+      <td style="text-align:center;">Plataforma web y aplicación móvil</td>
+      <td style="text-align:center;">Plataforma web y aplicación móvil</td>
+      <td style="text-align:center;">Aplicación móvil y ubicaciones físicas</td>
+      <td style="text-align:center;">Plataforma web y aplicación móvil</td>
     </tr>
     <tr>
-      <td rowspan="4" style="text-align:center;">Perfil de Producto</td>
+      <td rowspan="4" style="text-align:center;">Análisis SWOT</td>
       <td style="text-align:center;">Fortalezas</td>
-      <td style="text-align:center;">- Flota variada<br>- Opción de poner en renta autos<br>- Gran cantidad de clientes potenciales</td>
-      <td style="text-align:center;">- Marca reconocida<br>- Programa de lealtad<br>- Variedad de autos<br>- Oficina en un aeropuerto internacional</td>
-      <td style="text-align:center;">- Interfaz amigable<br>- Aliado con Rimac Seguros<br>- Permite poner en alquiler autos propios<br>- Presencia en cualquier lugar del país</td>
-      <td style="text-align:center;">- Marca reconocida<br>-Cuenta con promociones<br>- Presencia de oficinas fuera de Lima<br>- Flota variada de vehículos</td>
+      <td style="text-align:center;">Tecnología avanzada, amplia selección de vehículos</td>
+      <td style="text-align:center;">Gran comunidad de usuarios, conveniencia</td>
+      <td style="text-align:center;">Acceso inmediato a vehículos, flexibilidad en el alquiler</td>
+      <td style="text-align:center;">Variedad de vehículos disponibles, presencia global</td>
     </tr>
     <tr>
       <td style="text-align:center;">Debilidades</td>
-      <td style="text-align:center;">- Marca no conocida<br>- Pocos recursos<br>- Nueva en el mercado de la renta de autos</td>
-      <td style="text-align:center;">- Depende del turismo<br>- Debe pagar costos de varias oficinas<br>- Personas entre 18 y 20 años deben pagar un costo adicional</td>
-      <td style="text-align:center;">- Mala opiniones en las tiendas de aplicaciones<br>- Depende de la situación económica local<br>- Depende de la honestidad del arrendador</td>
-      <td style="text-align:center;">- Dependencia del turismo<br>- Malas opiniones en las tiendas de aplicaciones<br>- Interfaz del sitio web poco amigable<br>- Reputación cuestionada</td>
+      <td style="text-align:center;">Dependencia de la tecnología, posible resistencia al cambio</td>
+      <td style="text-align:center;">Dependencia de los propietarios de vehículos, regulaciones locales</td>
+      <td style="text-align:center;">Limitación geográfica, posible competencia de transporte público</td>
+      <td style="text-align:center;">Dependencia de la confiabilidad del arrendador y del arrendatario</td>
     </tr>
     <tr>
       <td style="text-align:center;">Oportunidades</td>
-      <td style="text-align:center;">- Pocos servicios para poner en renta autos propios<br>- Bajo porcentaje de hogares peruanos cuentan con auto propio<br>- Constante necesidad de contar con un auto</td>
-      <td style="text-align:center;">- Implementar alquiler de otros tipos de vehículos<br>- Aumentar su cantidad de oficinas en Perú<br>- Incluir servicios turísticos</td>
-      <td style="text-align:center;">- Aumento del turismo<br>- Aumento de las zonas urbanas<br>- Inclusión de programas de lealtad</td>
-      <td style="text-align:center;">- Creación de oficinas en más provincias de Perú<br>- Implementar alquiler de otros tipos de vehículos<br>- Incluir servicios turísticos</td>
+      <td style="text-align:center;">Expansión a nuevos mercados, colaboraciones estratégicas</td>
+      <td style="text-align:center;">Crecimiento del mercado de alquiler entre particulares, internacionalización</td>
+      <td style="text-align:center;">Innovación tecnológica, expansión a áreas suburbanas</td>
+      <td style="text-align:center;">Crecimiento del mercado de alquiler de vehículos compartidos, alianzas con empresas de viajes</td>
     </tr>
     <tr>
       <td style="text-align:center;">Amenazas</td>
-      <td style="text-align:center;">-Otras aplicaciones de renta de auto más conocidas<br>- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
-      <td style="text-align:center;">- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
-      <td style="text-align:center;">- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
-      <td style="text-align:center;">- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
+      <td style="text-align:center;">Competencia de grandes empresas de alquiler de vehículos, cambios en regulaciones gubernamentales</td>
+      <td style="text-align:center;">Competencia de empresas establecidas, cambios en la percepción de compartir vehículos</td>
+      <td style="text-align:center;">Entrada de nuevos competidores, cambios en las preferencias de movilidad</td>
+      <td style="text-align:center;">Regulaciones gubernamentales, percepción negativa sobre el alquiler de vehículos compartidos</td>
     </tr>
   </tbody>
 </table>
 
 ### Estrategias y tácticas frente a competidores
 
-**Costos**  
-Sabemos que el alquiler de autos no necesariamente en un negocio barato, por eso hemos estudiado a la competencia y comparado precios para poder llegar a un precio de alquiler que se sitúe entre los bajos de nuestra competencia, para así poder satisfacer al cliente y generar ingresos.
+- Continuar innovando en características distintivas como la retención de pagos, seguimiento GPS y servicio al cliente de primera calidad para destacar la propuesta de valor única de DriveShare en comparación con sus competidores.
+- Priorizar la satisfacción del cliente a través de un servicio personalizado, atención al cliente ágil y resolución rápida de problemas.
+- Desarrollar campañas de marketing que resalten las fortalezas de DriveShare en medios audiovisuales de corta duración para atraer a clientes potenciales familiarizados con estos medios.
+- Realizar investigaciones de mercado y recopilar comentarios de los usuarios para identificar áreas de mejora en la plataforma y desarrollar nuevas características que satisfagan las necesidades y expectativas de los clientes.
+- Incentivar a los usuarios a referir a amigos y familiares mediante programas de referidos que ofrezcan descuentos o créditos en el servicio a cambio de nuevas inscripciones exitosas.
+- Continuar mejorando la interfaz de usuario de la plataforma, simplificando el proceso de reserva y garantizando una experiencia fluida y sin problemas para los usuarios en todas las etapas del viaje de alquiler de vehículos.
 
-**Estrategia de diferenciación**  
-Aprovecharemos la falta de servicios para poner en alquiler un auto propio para atacar ese nicho. Creemos que dando la suficiente publicidad a esta característica llamaremos la atención de una buena cantidad de clientes potenciales.
-
-**Remuneración**  
-Somos consciente de que tener demasiada publicidad en una pantalla resulta molestoso, debido a eso, solo se incluirá una cantidad razonable de estos. Además, contaremos con comisiones del 35% por cada pago por alquiler que se haga usando nuestros servicios.
 
 
 ## Entrevistas
