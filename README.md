@@ -695,7 +695,7 @@ Para la tipografía hemos elegido las fuentes
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/8ZxwwMY.png" alt="Descripción de la imagen" width="400" />
+  <img src="" alt="Descripción de la imagen" width="400" />
 </p>
 
 
@@ -707,7 +707,7 @@ Los colores que predominaran en nuestro proyecto serán el azul y blanco.
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/ZWTukKZ.png" alt="Descripción de la imagen" width="400" />
+  <img src="" alt="Descripción de la imagen" width="400" />
 </p>
 <br>
 
@@ -717,7 +717,7 @@ Los espacios establecidos oscilan entre px y px
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/ObHFAYj.png" alt="Descripción de la imagen" width="400" />
+  <img src="" alt="Descripción de la imagen" width="400" />
 </p>
 
 <br>
@@ -725,7 +725,7 @@ Los espacios establecidos oscilan entre px y px
 **Botton:**
 
 <p align="center">
-  <img src="https://i.imgur.com/DEJfdYw.png" alt="Descripción de la imagen" width="400" />
+  <img src="" alt="Descripción de la imagen" width="400" />
 </p>
 
 <br>
@@ -733,26 +733,7 @@ Los espacios establecidos oscilan entre px y px
 
 ### Web Style Guidelines
 
-<div style="text-align: justify;">
-AutoYa! se desarrollará tanto para plataforma web, por lo tanto, implementaremos un diseño adaptable (Web Responsive Design) que tiene como finalidad mostrar la información de manera óptima en cualquier tipo de dispositivo, garantizando que el contenido se mantenga intacto para mejorar la experiencia del usuario.
-</div>
 
-<p align="center">
-  <img src="https://i.imgur.com/5dYo2Df.png" alt="AutoYa! Responsive Design" width="400">
-</p>
-
-<br>
-
-<div style="text-align: justify;">
-Además, como equipo, hemos optado por emplear el patrón de diseño en forma de Z en el sitio web de AutoYa!, ya que esta técnica de diseño web resulta efectiva para mejorar la experiencia del usuario al dirigir su atención hacia los elementos clave y potenciar la eficacia del contenido en la página. Normalmente, se coloca el logotipo de AutoYa! en la esquina superior izquierda para que sea lo primero que capte la atención del usuario. Justo en frente, en la esquina superior derecha, se ubica el menú de navegación, acompañado de un llamado a la acción que se destaca.
-</div>
-
-<p align="center">
-  <img src="https://i.imgur.com/2WiPvic.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
-</p>
-
-<br>
-<br>
 
 ## Information Architecture
 
@@ -792,69 +773,8 @@ La organización matricial se empleará para mostrar comparaciones entre diferen
 
 ### Labeling Systems
 
-<div style="text-align: justify;">
-En el contexto de AutoYa!, los sistemas de etiquetado juegan un papel fundamental en la organización y accesibilidad de la información en nuestra plataforma. Estos nombres se encuentran en enlaces, menús y pie de página, así como en encabezados que indican la jerarquía de la información. Son esenciales para permitir a los usuarios navegar fácilmente por nuestro sitio web y encontrar la información que necesitan. 
-<br>
-
-Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, lo que significa que deben cumplir con los siguientes objetivos:
-</div>
-
-
-* **Nivel de Experiencia de Usuario (UX):** Las etiquetas proporcionarán información y contexto claros para que los usuarios comprendan la función de los elementos etiquetados.
-
-
-* **Nivel SEO:** Utilizaremos el etiquetado interno para enlazar las páginas de AutoYa! de manera que tengan sentido entre sí, mejorando así la optimización de motores de búsqueda.
-
-
-* **Palabras Clave y Etiquetado Adecuado:** Cada página de AutoYa! contendrá palabras clave relevantes y un etiquetado apropiado para distribuir los términos de manera efectiva y evitar la competencia interna entre páginas.
-
-
-* **Impacto de las Etiquetas en Menús y Bloques Estáticos:** Reconocemos que las palabras clave contenidas en los menús y en los bloques estáticos tienen un mayor impacto en la navegación y visibilidad de AutoYa!.
-
-<br>
-
-**Tipos de Etiquetas:**
-
-**Etiquetas Contextuales:** Estas etiquetas describen los enlaces en AutoYa! y son cruciales para conectar diferentes partes de la plataforma. Sin embargo, elegiremos cuidadosamente las palabras para estas etiquetas para evitar ambigüedades y garantizar que los usuarios comprendan el contenido al hacer clic en ellas.
-
-<p align="center">
-  <img src="https://i.imgur.com/gVElAiD.png" alt="AutoYa! Responsive Design" width="200">
-</p>
-
-**Etiquetas de Encabezado:** Las etiquetas de encabezado serán utilizadas para indicar la temática y jerarquía de contenido en AutoYa!. Al igual que en un libro, los encabezados ayudan a diferenciar las secciones del contenido y su importancia relativa.
-
-<p align="center">
-  <img src="https://i.imgur.com/9lZXkd3.png" alt="AutoYa! Responsive Design" width="200">
-</p>
-
-**Etiquetas con Parámetro ALT:** En AutoYa!, las etiquetas con parámetro ALT se emplearán para proporcionar descripciones alternativas a las imágenes en nuestra plataforma. Estas descripciones son esenciales para la accesibilidad web, ya que permiten a usuarios con tecnologías de asistencia, como lectores de pantalla, comprender el contenido de las imágenes cuando estas no se pueden cargar o visualizar.
-
-<p align="center">
-  <img src="https://i.imgur.com/5qtcOxH.png" alt="AutoYa! Responsive Design" width="300">
-</p>
-
-<br>
-<br>
 
 ### SEO Tags and Meta Tags
-
-<div style="text-align: justify;">
-En AutoYa!, comprendemos la importancia de optimizar nuestras páginas tanto en la Landing Page como en la Web Application para mejorar la visibilidad en los motores de búsqueda y brindar una experiencia de usuario de alta calidad. A continuación, se detallan los principales SEO Tags y Meta Tags que utilizaremos, junto con los valores asignados:
-</div>
-
-<br>
-
-**Title (Título):** El título de una página es crucial tanto para los motores de búsqueda como para los usuarios. Utilizaremos títulos descriptivos y atractivos para cada página, que reflejen claramente su contenido y propósito.
-
-<p align="center">
-  <img src="https://i.imgur.com/V19qCBQ.png" alt="AutoYa! Responsive Design" width="300">
-</p>
-
-**Meta Tags de Descripción (Meta Description):** Las meta descripciones son breves resúmenes que aparecen en los resultados de búsqueda. Utilizaremos meta descripciones claras y concisas que inviten a los usuarios a hacer clic en nuestro sitio. La meta descripción es "Descubre una amplia gama de autos disponibles para alquilar en AutoYa! y planifica tu próximo viaje con facilidad."
-
-**Meta Tags de Palabras Clave (Keywords):** Aunque el enfoque en las palabras clave ha evolucionado en el SEO, aún consideraremos palabras clave relevantes para cada página y las incluiremos en los meta tags de keywords cuando sea apropiado. Esto ayudará a los motores de búsqueda a entender mejor el contenido de nuestras páginas.
-
-**Meta Tag de Autor (Author):** Utilizaremos el meta tag de autor para identificar al creador o autor del contenido, lo que puede ayudar a establecer credibilidad y autoridad en la industria.
 
 
 <br>
@@ -862,19 +782,6 @@ En AutoYa!, comprendemos la importancia de optimizar nuestras páginas tanto en 
 
 ### Searching Systems
 
-<div style="text-align: justify;">
-En AutoYa!, hemos desarrollado un sistema de búsqueda integral para ayudar a los usuarios a encontrar de manera eficiente el vehículo de alquiler que mejor se adapte a sus necesidades. A continuación, explicamos cómo hemos diseñado nuestro sistema de búsqueda para evitar que los usuarios se sientan abrumados por la cantidad de información y cómo lucirán los datos después de la búsqueda:
-</div>
-
-<br>
-
-**Opciones de Búsqueda:**
-
-Ofrecemos a nuestros usuarios una amplia gama de opciones de búsqueda para personalizar su experiencia. Estas opciones incluyen la ubicación de recogida, el precio deseado, la duración del alquiler, la marca del vehículo, el modelo, la clase y la transmisión. Esto permite a los usuarios refinar su búsqueda según sus preferencias específicas.
-
-<p align="center">
-  <img src="https://i.imgur.com/3T5SjK8.png" alt="AutoYa! Responsive Design" width="400">
-</p>
 
 
 <br>
@@ -882,40 +789,7 @@ Ofrecemos a nuestros usuarios una amplia gama de opciones de búsqueda para pers
 
 ### Navigation Systems
 
-<div style="text-align: justify;">
-En AutoYa!, hemos diseñado un sistema de navegación intuitivo y eficiente que guía a nuestros usuarios a través de nuestro Landing Page y aplicaciones, permitiéndoles alcanzar sus metas y interactuar satisfactoriamente con nuestro producto. A continuación, explicamos cómo los usuarios navegarán por nuestro contenido:
-</div>
 
-<br>
-
-**Barra de Navegación**
-
-Hemos implementado una barra de navegación en la parte superior de nuestra plataforma que ofrece tres opciones principales:
-
-* **Inicio** Esta opción llevará a los usuarios de regreso a la página de inicio, donde podrán comenzar su experiencia en AutoYa! o volver a explorar las opciones disponibles.
-
-
-* **Buscar Autos:** Los usuarios pueden hacer clic en esta opción para acceder a nuestro sistema de búsqueda integral, donde podrán especificar sus preferencias y encontrar el vehículo de alquiler perfecto.
-
-
-* **Mantenimiento:** Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimiento de tareas de mantenimiento.
-
-
-* **Alquiler:** Esta opción permite a los usuarios explorar opciones de alquiler de vehículos, ver detalles y realizar reservas.
-
-
-* **Solicitudes:** En esta sección, los usuarios pueden acceder a sus solicitudes de alquiler y realizar un seguimiento de los detalles importantes relacionados con sus reservas.
-
-
-<p align="center">
-  <img src="https://i.imgur.com/347yHxf.png" alt="AutoYa! Responsive Design" width="400">
-</p>
-
-<br>
-
-<div style="text-align: justify;">
-Nuestro sistema de navegación en AutoYa! se ha diseñado pensando en la comodidad y la eficiencia del usuario. Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea buscar un auto, programar un servicio de mantenimiento, hacer una reserva o realizar un seguimiento de sus solicitudes de alquiler, y nuestro sistema de navegación les brinda las herramientas para hacerlo de manera efectiva.
-</div>
 
 <br>
 <br>
@@ -924,504 +798,38 @@ Nuestro sistema de navegación en AutoYa! se ha diseñado pensando en la comodid
 
 ### Landing Page Wireframe
 
-<div style="text-align: justify;">
-Hemos creado una representación inicial en forma de bosquejo de baja fidelidad para la página de inicio de AutoYa!:
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://i.imgur.com/oLhVxSQ.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
-</p>
 
 <br>
 <br>
 
 ### Landing Page Mock-up
 
-<div style="text-align: justify;">
-El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://i.imgur.com/AkW3hUg.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
-</p>
 
 ## Web Applications UX/UI Design
 
 ### Web Applications Wireframes
 
-**NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:**
-
-**ARRENDATARIO (Persona que va a alquilar un auto):**
-
-
-**PERFIL DE USUARIO:** El usuario puede visualizar sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Alquilados . El usuario podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
-
-![Imgur](https://i.imgur.com/WNjzZlu.png)
-![Imgur](https://i.imgur.com/ANZ7UwM.png)
-![Imgur](https://i.imgur.com/6tUq8uT.png)
-![Imgur](https://i.imgur.com/HIDEaTG.png)
-![Imgur](https://i.imgur.com/C4INMwh.png)
-
-La opcion mas importante en esta sección es el botón de **Subir documentos de Antecendente Penales**. Podra subir desde su ordenador los documentos necesarios para validar sus datos. Luego el boton cambiará a **Actualizar documentos de Antecendente Penales**.
-
-![Imgur](https://i.imgur.com/3hISSGk.png)
-![Imgur](https://i.imgur.com/W1ipYVi.png)
-![Imgur](https://i.imgur.com/c4toYOp.png)
-![Imgur](https://i.imgur.com/lMnbkE6.png)
-
-
-**LOGIN:** El usuario debera iniciar sesión presionando el boton **Iniciar Sesion** , si no esta registrado, debera presionar el botón **CREAR UNA CUENTA**.
-![Imgur](https://i.imgur.com/i0xLx8l.png)
-![Imgur](https://i.imgur.com/T8wpnV1.png)
-![Imgur](https://i.imgur.com/yBtKk5S.png)
-![Imgur](https://i.imgur.com/hL9oFpO.png)
-![Imgur](https://i.imgur.com/RrVGy7o.png)
-![Imgur](https://i.imgur.com/DqYKE7B.png)
-![Imgur](https://i.imgur.com/A90hhE5.png)
-
-**REGISTRO:** Aqui el usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse como arrendatario**.
-
-![Imgur](https://i.imgur.com/F3vpT5t.png)
-
-**INICIO:** El usuario  encontrara toda las opciones de la plataforma . Dentro de esta ventana estará la opcion de **Buscar coche** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Buscar Auto** , **Mantenimiento** , **Alquilar**.
-
-![Imgur](https://i.imgur.com/o2dP53A.png)
-
-**BUSCAR AUTOS:** El usuario podra filtrar segun sus deseos que tipo de auto desea alquilar.Los datos a ingresar son ubicacion, precio , tiempo de alquiler,marca, modelo, clase y transmisión. El usuario debera presionar el botón **Buscar** para iniciar con la búsqueda, luego aparecerá el resultado de la búsqueda  como datos del vehiculo  , datos del propietario del vehículo y el estatus de la publicacion ya sea Disponible o No Disponible. Dentro de la busqueda estará el botón de **Ver contrato de alquiler**.
-
-![Imgur](https://i.imgur.com/71XseEj.png)
-
-EL usuario debe verificar el contrato de Alquiler  que el propietario del vehículo ha publicado.Luego de verificarlo , si desea proceder con el alquiler deberá generar una firma digital presionando el botón **Generar firma digital** y luego presionar el botón **Solicitar Alquiler** para que se envie una solicitud al propietario del vehículo .
-
-![Imgur](https://i.imgur.com/u5vcX0A.png)
-![Imgur](https://i.imgur.com/KjZ4Mni.png)
-![Imgur](https://i.imgur.com/nWvvaJV.png)
-
-
-**MANTENIMIENTO:** El el usuario podra enviar un mensaje directamente al correo electrónico del propietario del vehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de **Buscar** , tambien se puede agregar fotos presionando el botón **Agregar fotos** luego se debera ingresar los datos necesarios y presionar el botón **Enviar**.
-
-![Imgur](https://i.imgur.com/wOrTzjL.png)
-![Imgur](https://i.imgur.com/ESobBTN.png)
-![Imgur](https://i.imgur.com/3V78mYw.png)
-![Imgur](https://i.imgur.com/hrIv1Cx.png)
-![Imgur](https://i.imgur.com/ypDQZGe.png)
-
-**SOLICITUDES:** El usuario podra ver si la solicitud de alquiler esta en espero o si han sido aceptadas o rechazadas por el propietario del vehículo.Si la solicitud ha sido aceptada puedes presionar el botón de **Pagar**.
-
-![Imgur](https://i.imgur.com/cAjh9o8.png)
-![Imgur](https://i.imgur.com/oWzEFOe.png)
-
-**ALQUILER:** El usuario podra ver  toda la información de los procesos de alquiler que se hayan realizado. Dentro se podra ver cada vehículo que se haya solicitado y si fue aceptada podrá presionar el botón de **Pagar**.También se puede agregar otro vehículo presionando el botón **Agregar otro vehículo**.
-
-![Imgur](https://i.imgur.com/osBFcYY.png)
-![Imgur](https://i.imgur.com/QoTZUnL.png)
-![Imgur](https://i.imgur.com/KwGYHVW.png)
-
-Al presionar el botón **Pagar** se abrira otra ventana para realizar el pago , se encontrara 2 opciones de pago : EFECTIVO y ONLINE. Dentro de esta ventana estaran los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
-
-![Imgur](https://i.imgur.com/kDtoxPj.png)
-
-Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana para realizar un pago de confirmacion , que es de 5 soles, por uso de la aplicacion. Luego de pagar saldra una ventana de  confirmacion de hora y fecha de alquiler
-
-![Imgur](https://i.imgur.com/1Bd1cbk.png)
-![Imgur](https://i.imgur.com/8UmL4DB.png)
-![Imgur](https://i.imgur.com/9y8E97R.png)
-![Imgur](https://i.imgur.com/jAjgzTy.png)
-![Imgur](https://i.imgur.com/Fb8MCo8.png)
-
----------------------------------------------------------
-**PROPIETARIO (Persona que comparte su auto para alquiler):**
-
-**PERFIL DE USUARIO:** El usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario  podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra actualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
-
-![Imgur](https://i.imgur.com/RpimPPW.png)
-![Imgur](https://i.imgur.com/3HIHggx.png)
-![Imgur](https://i.imgur.com/N9XJQg7.png)
-![Imgur](https://i.imgur.com/S1ucSgc.png)
-![Imgur](https://i.imgur.com/giHqx7V.png)
-
-
-**LOGIN:** Aqui el usuario debera iniciar sesión presionando el boton **Iniciar Sesion** , si no esta registrado, debera presionar el botón **CREAR UNA CUENTA**.
-
-![Imgur](https://i.imgur.com/VzbB9rT.png)
-![Imgur](https://i.imgur.com/hr2975P.png)
-![Imgur](https://i.imgur.com/brBWUsF.png)
-![Imgur](https://i.imgur.com/hPuk7OB.png)
-![Imgur](https://i.imgur.com/NOFRsCc.png)
-![Imgur](https://i.imgur.com/i2R6Mts.png)
-![Imgur](https://i.imgur.com/XTVNrvb.png)
-![Imgur](https://i.imgur.com/YBpS8XA.png)
-
-**REGISTRO:** El usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse**.
-
-![Imgur](https://i.imgur.com/kXeCYtb.png)
-
-**INICIO:** El usuario  encontrara toda las opciones posibles de la plataforma , tambien podra visualizar notificaciones recientes. Dentro de esta ventana estará la opcion de **Compartir tu auto** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Registro vehicular* , **Notificaciones** , **Alquiler**.
-
-![Imgur](https://i.imgur.com/0gu7BrI.png)
-
-**REGISTRO DE VEHÍCULO :** El usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón **Crear contrato de alquiler** para poder activar el botón de **Registrar**.
-
-![Imgur](https://i.imgur.com/hw4oXFc.png)
-![Imgur](https://i.imgur.com/YjVgGru.png)
-
-Al presionar el botón **Crear contrato de alquiler** aparecerá otra ventana en la cual el usuario podrá presionar el botón **Generar contrato predeterminado** y **Subir contrato manual en PDF**.
-Al presionar  **Generar contrato predeterminado** se generara automáticamente un contrato preestablecido con condiciones generales .Luego de generarlo se presionara el botón **Subir contrato**.
-
-![Imgur](https://i.imgur.com/WCJ8hXV.png)
-![Imgur](https://i.imgur.com/aoDLVU2.png)
-![Imgur](https://i.imgur.com/QtRWVsT.png)
-
-
-Al presionar **Subir contrato manual en PDF** aparecera una ventana para subir los documentos en PDF , luego de seleccionarlo se subira automáticamente un contrato.Luego de generado deberá presionar el botón **Subir contrato**.
-
-![Imgur](https://i.imgur.com/QbJfRFd.png)
-![Imgur](https://i.imgur.com/Mr898EU.png)
-![Imgur](https://i.imgur.com/YEgAQAl.png)
-
-
-Luego de seleccionar cualquiera de las 2 opciones aparecera una ventana , dentro de ella aparecerá un botón de **Regresar al registo** , que sirve como redireccionamiento para la ventana principal del REGISTO DEL VEHÍCULO.
-
-![Imgur](https://i.imgur.com/yiV0YW2.png)
-
-
-
-**NOTIFICACIONES:** El usuario podra ver las notificaciones de solicitudes que los arrendatarias hayan generado.En la notificación predeterminada aparecerá los datos de la solicitud.
-
-![Imgur](https://i.imgur.com/K3gc7GX.png)
-
-**ALQUILER:** En esta ventana estarán todos los autos que se hayan compartido para alquiler,también se podrá ver el estatus del alquiler. Dentro de esta ventana  estará disponible  el botón de **Afiliar cuenta Banco con MODO** , con esta opción el usuario podrá tener una cuenta afiliada y la forma de verificación de pago será más sencilla.
-
-![Imgur](https://i.imgur.com/Up3sBlt.png)
-![Imgur](https://i.imgur.com/f9MOnmt.png)
-
-Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para es auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud  aparecerá los datos de la persona que quiere alquilar el auto .Dentro de esta ventana el usuario que es el propietario del vehículo podrá ver los antecedente penales del arrendatario presionando el botón **Verificar Antecedente penales**, al ser verificado aparecerá al costado del botón si el documento fue Aceptado o Rechazado.
-
-![Imgur](https://i.imgur.com/00dfSrT.png)
-![Imgur](https://i.imgur.com/zBfTyil.png)
-![Imgur](https://i.imgur.com/Fw0AhL6.png)
-
-En esta ventana también estará disponible los boton de **Aceptar Alquiler** y **Rechazar Alquiler**, en donde el usuario podra seleccionar de acuerdo a la verificación hecha si desea o no alquilar el vehículo a esa persona.Si el alquiler es aceptado ,al presionas el botón **Aceptar Alquiler** aparecerá el mensaje de Estado de Pago pendiente, esto quiere decir que el arrendatario aun no ha realizado el pagado, pero si aparece como Estado de Pago Pagado quiere decir que el arrendatario ya ha realizado el pago el alquiler.
-
-![Imgur](https://i.imgur.com/IPuk5Sr.png)
-![Imgur](https://i.imgur.com/Ic5dFSX.png)
-![Imgur](https://i.imgur.com/WiOTv9c.png)
 
 
 ### Web Applications Wireflow Diagrams
 
-Link de Wireflow Diagrams en Figma para una mejor observación:
-
-[[Clic al link](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)
-
-Link de Prototipo Interactivo en Figma:
-
-[[Clic al link](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)
 
 ### Web Applications Mock-ups
 
-**Mock-up de interfaz de usuario arrendatario**
 
-**LOGIN**
-![Imgur](https://i.imgur.com/m2DwuOZ.png)
-![Imgur](https://i.imgur.com/tgoQabh.png)
-![Imgur](https://i.imgur.com/nDxkNsX.png)
-![Imgur](https://i.imgur.com/s1BLwbQ.png)
-![Imgur](https://i.imgur.com/yuILUj0.png)
-![Imgur](https://i.imgur.com/5ZrpWYy.png)
+------------------------------------------------------------------------------------------------
 
-**REGISTRO**
-
-![Imgur](https://i.imgur.com/rAaDWM1.png)
-![Imgur](https://i.imgur.com/BwCEm19.png)
-
-**INICIO**
-
-![Imgur](https://i.imgur.com/YFj7O2V.png)
-
-**BUSCAR AUTOS**
-
-![Imgur](https://i.imgur.com/3bREzrV.png)
-![Imgur](https://i.imgur.com/d5n7CNy.png)
-![Imgur](https://i.imgur.com/ezmsGlW.png)
-![Imgur](https://i.imgur.com/jN56fSs.png)
-![Imgur](https://i.imgur.com/ujSjX38.png)
-![Imgur](https://i.imgur.com/ehg5kn2.png)
-
-**ALQUILER**
-
-![Imgur](https://i.imgur.com/gikOxbR.png)
-
-![Imgur](https://i.imgur.com/58r0u8Q.png)
-
-
-![Imgur](https://i.imgur.com/HIGs2Lt.png)
-![Imgur](https://i.imgur.com/xkJeUG8.png)
-![Imgur](https://i.imgur.com/LAAMoqg.png)
-![Imgur](https://i.imgur.com/NQPiMGE.png)
-![Imgur](https://i.imgur.com/ooCAGvb.png)
-
-
-**SOLICITUDES**
-
-![Imgur](https://i.imgur.com/sMe1YOr.png)
-![Imgur](https://i.imgur.com/Y8aIAOs.png)
-
-**MANTENIMIENTO**
-
-![Imgur](https://i.imgur.com/QILoqi9.png)
-![Imgur](https://i.imgur.com/qL5aATi.png)
-![Imgur](https://i.imgur.com/m2m6mEF.png)
-![Imgur](https://i.imgur.com/hbEmgIs.png)
-![Imgur](https://i.imgur.com/a4buW5M.png)
-![Imgur](https://i.imgur.com/Vb2X6Xu.png)
-
-**PERFIL DE USUARIO**
-
-![Imgur](https://i.imgur.com/iiWR9vJ.png)
-![Imgur](https://i.imgur.com/42czZtf.png)
-![Imgur](https://i.imgur.com/azFGBAQ.png)
-![Imgur](https://i.imgur.com/4Rea1tv.png)
-![Imgur](https://i.imgur.com/wC2HUtI.png)
-![Imgur](https://i.imgur.com/7AcisTI.png)
-![Imgur](https://i.imgur.com/4iM8WVF.png)
-![Imgur](https://i.imgur.com/WnTsIfJ.png)
-
---------------------------------------------------------------------------------------------------------------------
-
-**Mock-up de interfaz de usuario propietario**
-
-**LOGIN**
-
-![Imgur](https://i.imgur.com/GyXQHC6.png)
-
-
-![Imgur](https://i.imgur.com/gaj0Axa.png)
-![Imgur](https://i.imgur.com/aYEYzWE.png)
-![Imgur](https://i.imgur.com/uR3lCmv.png)
-![Imgur](https://i.imgur.com/9bqK3KS.png)
-![Imgur](https://i.imgur.com/HbEAXUb.png)
-![Imgur](https://i.imgur.com/ity3Rs2.png)
-![Imgur](https://i.imgur.com/IwvE7b4.png)
-
-**REGISTRO**
-
-![Imgur](https://i.imgur.com/aq0K80K.png)
-
-**INICIO**
-
-![Imgur](https://i.imgur.com/Crqfvng.png)
-
-**REGISTRO**
-
-![Imgur](https://i.imgur.com/0ycgxCb.png)
-![Imgur](https://i.imgur.com/nXmBgVy.png)
-![Imgur](https://i.imgur.com/I0LghCD.png)
-![Imgur](https://i.imgur.com/Ma4QKKJ.png)
-![Imgur](https://i.imgur.com/pNVG6tR.png)
-![Imgur](https://i.imgur.com/DQkDhOy.png)
-![Imgur](https://i.imgur.com/JOaJBAF.png)
-![Imgur](https://i.imgur.com/18Utfrh.png)
-![Imgur](https://i.imgur.com/1PxFCuO.png)
-![Imgur](https://i.imgur.com/ymmkJZL.png)
-
-**ALQUILER**
-
-![Imgur](https://i.imgur.com/iXclOv6.png)
-![Imgur](https://i.imgur.com/UOKXJ9k.png)
-
-![Imgur](https://i.imgur.com/2hqVzyy.png)
-![Imgur](https://i.imgur.com/BIBtQOB.png)
-![Imgur](https://i.imgur.com/dTRQXl8.png)
-![Imgur](https://i.imgur.com/Tm9spYC.png)
-![Imgur](https://i.imgur.com/4MgE3V9.png)
-![Imgur](https://i.imgur.com/UIOPeM3.png)
-![Imgur](https://i.imgur.com/j94gQcA.png)
-
-**NOTIFICACIONES**
-
-![Imgur](https://i.imgur.com/IAcFewp.png)
-
-**PERFIL DE USUARIO**
-
-![Imgur](https://i.imgur.com/HrzemuE.png)
-![Imgur](https://i.imgur.com/ulkGhVy.png)
-![Imgur](https://i.imgur.com/M817b44.png)
-![Imgur](https://i.imgur.com/lp0xiRr.png)
-![Imgur](https://i.imgur.com/ls039Tx.png)
 
 
 ### Web Applications User Flow Diagrams
 
-Link para mejor visualización
-[Clic al link](https://miro.com/welcomeonboard/YVVOeGJXcThodEhNaFppYjFGTGJpNXVOV3hHckM0R21IUnZoSmtSNWF6U1d4Rzg0UUVqN1UzSU1PSEJJMFlFWXwzNDU4NzY0NTM4Mzk4OTYxMTY0fDI=?share_link_id=319948662953)
-
-**USUARIO (Arrendatario)**
-
-*INICIO DE SESIÓN*
-
-![Imgur](https://i.imgur.com/84kKk7W.jpg)
-
-**User goal:** Como arrendatario quiero poder iniciar sesión rapidamente.
-
-**Happy paths:** El arrendatario inicia sesión ingresando su correo y contraseña.
-
-**Unhappy paths:** El arrendatario quiere iniciar sesión y no  completa todos los campos requeridos.
-
-*REGISTRO*
-
-![Imgur](https://i.imgur.com/HAtotkP.jpg)
-
-**User goal:** Como arrendatario quiero poder registrarme y luego acceder a la plataforma.
-
-**Happy paths:** El arrendatario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
-
-**Unhappy paths:** El arrendatario quiere registrarse y no  completa todos los campos requeridos.
-
-*INICIO PRINCIPAL*
-
-![Imgur](https://i.imgur.com/RSOV75M.jpg)
-
-**User goal:** : Como arrendatario, quiero acceder de forma sencilla a las opciones  disponibles.
-
-**Happy paths:** El arrendatario al iniciar la plataforma, observa en la parte superior las diversas opciones disponibles.
-
-**Unhappy paths:** El arrendatario presiona alguna herramienta externa de la plataforma.
-
-*BUSCAR AUTOS*
-
-![Imgur](https://i.imgur.com/ZQtvc05.jpg)
-
-**User goal:** : Como arrendatario, quiero poder buscar cualquier auto de mi interés.
-
-**Happy paths:** El arrendatario al iniciar puede filtrar su búsqueda para mejores opciones.
-
-**Unhappy paths:** El arrendatario revisa el contrato publicado por el propietario.
-
-*MANTENIMIENTO*
-
-![Imgur](https://i.imgur.com/ZoWjzo1.jpg)
-
-**User goal:** : Como arrendatario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
-
-**Happy paths:** El arrendatario también puede subir fotos .
-
-**Unhappy paths:** El mensaje del arrendatario  llega al correo del propietario y a la sección de notificaciones del propietario.
-
-*ALQUILER*
-
-![Imgur](https://i.imgur.com/0tvcUqM.jpg)
-
-**User goal:**  Como arrendatario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
-
-**Happy paths:** El arrendatario  puede pagar el alquiler luego de ser aceptado por efectivo o de manera online.
-
-**Unhappy paths:** El arrendatario debe registrar sus datos bancarios  para efectuar el pago correpondiente.
-
-*SOLICITUDES*
-
-![Imgur](https://i.imgur.com/ou0OrzE.jpg)
-
-**User goal:** : Como arrendatario, quiero ver el estado de las solicitudes que he enviado.
-
-**Happy paths:** El arrendatario  puede ver el estatus de su solicitud , realizar el pago presionando el botón de PAGAR.
-
-**Unhappy paths:** El arrendatario puede volver a la página anterior presionando la flecha superior  izquierda en dirección de la izquierda.
-
-*PERFIL DE arrendatario*
-
-![Imgur](https://i.imgur.com/VQZf6c8.jpg)
-
-**User goal:** : Como arrendatario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales.
-
-**Happy paths:** El arrendatario puede actualizar sus datos u cambiar su foto de perfil.
-
-**Unhappy paths:** El arrendatario debe subir sus documentos de antecedente penales.
 
 ------------------------------------------
 
-**USUARIO (Propietario)**
-
-*INICIO DE SESIÓN*
-![Imgur](https://i.imgur.com/HpEP7wE.jpg)
-
-**User goal:** Como propietario quiero poder iniciar sesión rapida y seguramente.
-
-**Happy paths:** El propietario inicia sesión ingresando su correo y contraseña.
-
-**Unhappy paths:** El propietario quiere iniciar sesión sin completar los campos correspondientes.
-
-*REGISTRO*
-
-![Imgur](https://i.imgur.com/ZbsOD9F.jpg)
-
-**User goal:** Como propietario quiero poder registrarme .
-
-**Happy paths:** El propietario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
-
-**Unhappy paths:** El propietario quiere registrarse sin completar los campos correspondientes.
-
-*INICIO PRINCIPAL*
-
-![Imgur](https://i.imgur.com/hoJlZe7.jpg)
-
-**User goal:** : Como propietario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
-
-**Happy paths:** El propietario al iniciar la plataforma, observa en la parte superior las  opciones disponibles.
-
-**Unhappy paths:** El propietario presiona alguna herramienta externa de la plataforma.
-
-*REGISTRAR VEHÍCULOS*
-
-![Imgur](https://i.imgur.com/9uo9Jjf.jpg)
-
-**User goal:** : Como propietario, quiero poder registrar mi vehículo.
-
-**Happy paths:** El propietario ingresa todos los datos necesarios para el registro.
-
-**Unhappy paths:** El propietario crea el contrato siguiendo los pasos necesarios.
-
-*NOTIFICACIONES*
-
-![Imgur](https://i.imgur.com/4oQHlqK.jpg)
-
-**User goal:** : Como propietario, quiero ver todas las notificaciones de manera sencilla.
-
-**Happy paths:** El propietario al presionar Ver solicitud es redireccionado a la ventana de Alquiler para ver todas las solicitudes disponibles.
-
-**Unhappy paths:** El propietario observa que las notificaciones son de contenido corto.
-
-*ALQUILER*
-
-![Imgur](https://i.imgur.com/aDLUxXU.jpg)
-
-**User goal:** : Como propietario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y además poder verificar sus antecedentes penales.
-
-**Happy paths:** El propietario puede verificar los antecedentes penales del arrendatario.
-
-**Unhappy paths:** El propietario acepta o rechaza la solicitud del arrendatario.
-
-*PERFIL DE propietario*
-
-![Imgur](https://i.imgur.com/j1AjgGV.jpg)
-
-**User goal:** : Como propietario, quiero ver mis datos y actualizarlos.
-
-**Happy paths:** El propietario puede actualizar sus datos y cambiar su foto de perfil.
-
-**Unhappy paths:** El propietario puede cerrar sesión presionando el botón CERRAR SESIÓN.
 
 ## Web Applications Prototyping
 
 ### Desktop Prototyping
-
-![Imgur](https://i.imgur.com/XZjfuLF.png)
-
-Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=0%3A1&mode=design&t=Df2V7wxJv7P3rjx9-1)
 
 
 ## Domain-Driven Software Architecture
