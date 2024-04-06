@@ -528,210 +528,78 @@ Con el objetivo de realizar una investigación exhaustiva sobre los segmentos ob
 
 ### User Task Matrix
 
-**Arrendatario**
+En la redacción de los User Task matrix se toma en cuenta los segmentos antes mencionados
 
-<table align="center" style="text-align: center;">
-  <tr>
-    <td rowspan="2"><strong>User Task</strong></td>
-    <th colspan="6" style="text-align: center;"><strong>Arrendatario</strong></th>
-  </tr>
-  <tr>
-    <td><strong>Frecuencia</strong></td>
-    <td><strong>Importancia</strong></td>
-  </tr>
-  <tr>
-    <td>Buscar una persona o empresa que alquile autos</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Contactar a esa persona o empresa</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Ver opciones de autos</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Filtrar autos</td>
-    <td>Seguido</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Comparar precios de autos</td>
-    <td>Siempre</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Negociar el precio</td>
-    <td>A veces</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Seleccionar el auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Inspeccionar el auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Firmar el contrato</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Comenzar el alquiler</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Recoger el auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Usar el auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Devolver el auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Terminar el alquiler</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-</table>
+Arrendatario
 
-**Arrendador**
+| User Task : Arrendatario         | Frecuencia | Importancia |
+| --- | --- | --- |
+| Buscar un vehículo para alquilar | Siempre    | Alta       |
+| Comunicarse con la empresa/persona encargada | Siempre | Alta |
+| Seleccionar un vehículo | Siempre | Alta |
+| Verificar disponibilidad | Seguido | Alta |
+| Reservar el vehículo | Siempre | Alta |
+| Recoger el vehículo | Siempre | Alta |
+| Hacer uso del vehículo | Siempre | Alta |
+| Devolver el vehículo | Siempre | Alta |
+| Finalizar alquiler | Siempre | Alta |
+| Proporcionar feedback | A veces | Media |
 
-<table align="center" style="text-align: center;">
-  <tr>
-    <td rowspan="2"><strong>User Task</strong></td>
-    <th colspan="6" style="text-align: center;"><strong>Arrendador</strong></th>
-  </tr>
-  <tr>
-    <td><strong>Frecuencia</strong></td>
-    <td><strong>Importancia</strong></td>
-  </tr>
-  <tr>
-    <td>Buscar una persona que desee alquilar un auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Contactar a esa persona</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Mostrarle opciones de autos</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Filtrar autos</td>
-    <td>Seguido</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Mostrar los precios de los autos</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Negociar el precio</td>
-    <td>A veces</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Separar el auto seleccionado</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Inspeccionar y limpiar el auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Dar el contrato al cliente para que lo firme</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Comenzar el alquiler</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Esperar a que el cliente recoja el auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Dar el auto al cliente</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Dar seguimiento al cliente</td>
-    <td>A veces</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Recibir de vuelta el auto</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Terminar el alquiler</td>
-    <td>Siempre</td>
-    <td>Alta</td>
-  </tr>
-</table>
+Arrendador
+
+| User Task : Arrendador        | Frecuencia | Importancia |
+| --- | --- | --- |
+| Buscar alguien a quien alquilarle | Seguido  | Media    |
+| Comunicarse con la persona interesada |   Seguido  | Alta    |
+| Proporcionarle el vehículo que necesita |  Siempre   | Alta    |
+| Proporcionarle la disponibilidad del vehículo |  Siempre | Alta    |
+| Realizar la transacción |   Siempre  | Alta    |
+| Entregar el auto a la persona |  Siempre   | Alta    |
+| Recibir información del estado y ubicación del vehículo |  Siempre   | Alta    |
+| Obtener de vuelta el auto |   Siempre  |  Alta   |
+| Dar por finalizado el alquiler |   Siempre  | Alta   |
+| Analizar informes y métricas de rendimiento |  A veces   |  Media   |
 
 ### User Journey Mapping
 
-A continuación se muestran los User Journey Maps elaborados para los segmentos objetivos Arrendatario y Arrendador con el objetivo de rentar un auto.
+Aquí se presentan los User Journey Maps creados para los grupos objetivo de Arrendatarios y Arrendadores, con el propósito de alquiler de un vehículo.
 
-**Arrendatario**
+**Segmento Arrendatario**
 
-![Imgur](https://i.imgur.com/w0CLmeq.png)
+![foto_user_journey_map_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendatario_userjourneymapping.jpeg)
 
-**Arrendador**
+**Segmento Arrendador**
 
-![Imgur](https://i.imgur.com/oCOfuN3.png)
+![foto_user_journey_map_2](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendador_userjourneymapping.jpeg)
+
 
 ### Empathy Mapping
 
-A continuación, se muestran los Empathy Maps desarrollados para cada segmento objetivo, los cuales son Arrendatario y Arrendador.
+Aquí se presentan los Empathy Maps elaborados para cada segmento objetivo.
 
-**Arrendatario**
+**Segmento Arrendatario**
 
-![Imgur](https://i.imgur.com/ygILuUf.png)
-
-**Arrendador**
-
-![Imgur](https://i.imgur.com/6fJybYV.png)
+![foto_empahty_map_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendatario_empathy%20map.jpeg)
 
 ### As-is Scenario Mapping
 
 **Arrendatario**
 
-![Imgur](https://i.imgur.com/O694ILj.png)
+Maria Gonzales quiere buscar
+
+| FASES | Búsqueda | Reserva | Uso | Finalización |
+| --- | --- | --- | --- | --- |
+| DOING | Buscando y explorando opciones de vehículos disponibles. | Seleccionando un vehículo específico y completando el proceso de reserva en línea. | Dirigiéndose al lugar de recogida para obtener el vehículo alquilado y haciendo uso de él durante el período acordado. | Devolviendo el vehículo al lugar designado y completando el proceso de devolución. |
+| FEELING | Curiosidad por encontrar el vehículo adecuado y cierta anticipación por el próximo viaje. | Confianza al tomar decisiones de reserva y cierta ansiedad por confirmar la disponibilidad del vehículo deseado. | Emoción por empezar el viaje con el vehículo nuevo y cierto alivio al comprobar que todo está en orden. | Satisfacción al finalizar el viaje y motivación de recomendarlo a un conocido |
+| THINKING | Considerando las diferentes opciones disponibles y evaluando qué vehículo se adapta mejor a las necesidades y presupuesto. | Revisando los detalles de reserva y asegurándose de que todos los términos y condiciones sean comprendidos y aceptados. | Planificando el itinerario del viaje y considerando aspectos logísticos relacionados con el uso del vehículo. | Reflexionando sobre la experiencia de alquiler y considerando proporcionar comentarios para mejorar el servicio en el futuro. |
 
 **Arrendador**
 
-![Imgur](https://i.imgur.com/6s4JvlH.png)
+| FASES | Búsqueda | Reserva | Uso | Finalización |
+| --- | --- | --- | --- | --- |
+| DOING | Buscando activamente posibles arrendatarios para sus vehículos disponibles. | Comunicándose con los arrendatarios interesados y acordando los términos del alquiler. | Preparando el vehículo para su entrega al arrendatario en el lugar y momento acordados. | Recibiendo el vehículo de vuelta del arrendatario al final del período de alquiler. |
+| FEELING | Expectativa y anticipación por encontrar arrendatarios adecuados para maximizar la utilización de la flota de vehículos. | Confianza en la selección del arrendatario adecuado y cierta ansiedad por garantizar un proceso de reserva sin problemas. | Satisfacción al facilitar el uso del vehículo y cierta preocupación por la seguridad y el cuidado del mismo durante el período de alquiler. | Alivio al recibir el vehículo en buenas condiciones y cierta nostalgia al despedirse del arrendatario. |
+| THINKING | Evaluando las solicitudes y considerando la idoneidad de los arrendatarios potenciales.. | Evaluando la disponibilidad de los vehículos y confirmando la idoneidad del arrendatario. | Considerando aspectos logísticos y asegurando que el vehículo esté en condiciones adecuadas para el arrendatario. | Evaluando el estado del vehículo y asegurando que se cumplan todos los términos del contrato de alquiler. |
 
 # Capítulo III: Requirements Specification
 
