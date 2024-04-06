@@ -163,98 +163,90 @@ Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la
 
 ### Perfiles de integrantes del equipo
 
-**Alonso Fernando Robles Astuñaupa (u202112662)**
 
-![Imgur](https://i.imgur.com/GHaRGNq.png)
-
-**Erick gabriel Urbizagástegui Alvarez (u20201e465)**
-
-![Imgur](https://i.imgur.com/NtO8rFx.png)
-
-**Johan Raúl Moreno Vergara (u20201c105)**
-
-<img src="https://i.postimg.cc/L6rPJJbG/Plantilla-Perfil-del-integrante.png" style="width: 100%;">
-
-**Luis Fernando Isla Quispe (u202124146)**
-
-![Imgur](https://i.imgur.com/4OIvzsz.png)
-
-**Nicolás Zagal Vallejo (u20201c429)**
-
-![Imgur](https://i.imgur.com/0l7v4k3.png)
+| Integrante                           | Foto | Descripción del Perfil                                                                                          |
+|-------------------------------------|-------|-----------------------------------------------------------------------------------------------------------|
+| Nelson Elías Serrano Ircañaupa|![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/2ba540f8-4888-4bc1-9cc6-0d712a50e759)|Me llamo Nelson Serrano, estudiante de Ingeniería de Software con el código estudiantil U202214733. Mi carrera se basa en crear soluciones digitales e innovadoras para distintas problemáticas del mundo real . Las habilidades en las que puedo aportar en el grupo son dominio y práctica lenguajes de programación como C++ y python, documentación de proyectos y metodologías ágiles y conocimientos básicos de base de datos.  |
+| Luis Enrique Aquije Quiroga | ![FotoLuis](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/LuisFoto.png)| Soy Luis Enrique Aquije Quiroga, me encuentro en el 6to ciclo de la carrera de Ingeniería de Software. Desde pequeño siempre me sentí atraido por las computadoras y lo que uno puede hacer con ella. Al indagar aun mas sobre de que trataba la carrera supe que esto era lo mío y a lo que me iba a dedicar. Actualmente me siento atraído por lo relacionado a ciberseguridad y estoy seguro que lo aprendido en este curso me servirá para mi futuro profesional |
+|  Carlos Andres Rojas Ccama  |![Foto Carlor andres](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c14e0c6e-bcc4-41fa-810c-4379e9b2ac64)   |Mi nombre es Carlos Andres Rojas Ccama, estudio la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares inteligentes y sistemas informáticos usando un lenguaje de programación con lógica, asociado a la tecnología, herramientas para el diseño, mantenimiento de software, etc. Me considero una persona responsable y colaborativo como ayudar a las personas y dar ideas, especialmente en grupos. En este trabajo en equipo se requiere dar una buena comunicación, por ello, siempre daré mi opinión y escuchar las opiniones de mis compañeros con respeto. |
+| Leonel Alfaro Cumba                 |![FotoLeonel](https://github.com/AppWeb-Grupo3/informe/assets/89095594/5b77db63-ca8e-4e81-a98d-83f550c2d46a)|Estudiante de Ingeniería de Software con gran interés en la tecnología y la innovación. Motivado por ampliar conocimientos y desarrollarse constantemente.|
+| Jhan Clinton Antonio Salazar                |![foto jhan](https://github.com/AppWeb-Grupo3/informe/assets/83793319/9a549bfc-d2fa-49fb-805e-33a995146bc7)|EActualmente, soy estudiante de ingeniería de software. Me apasiona la tecnología y el desarrollo de soluciones innovadoras para mejorar la vida de las personas. Estoy emocionado de seguir aprendiendo y creciendo en este campo emocionante y en constante evolución.|
+| || |
 
 ## Solution Profile
 
 ### Antecedentes y problemática
 
-A día de hoy, el uso de autos se ha vuelto una necesidad en nuestra sociedad. Tanto en fines recreativos, laborales o personales, estos estarán siempre presentes. Sin embargo, cuando se necesita uno y no se tiene uno propio ¿qué es lo que se hace?. Usualmente se alquila uno. Si bien esta solución es obvia y práctica, puede conllevar disgustos para el usuario al este enterarse de precios elevados, tarifas ocultas, falta de mantenimiento o incluso falta de seguro vehicular. Asimismo, existen personas que desean ganar un poco de dinero extra y desean poder alquilar sus autos en los momentos que no los usan, pero no conocen un medio seguro por el que hacerlo o no tienen personas a las que alquilarselos. La propuesta que se tiene es una aplicación web que funcione a nivel Perú y combata efectivamente los problemas mencionados anteriormente.
+El empleo de vehículos se ha vuelto una necesidad en nuestra sociedad, sea para fines recreativos, laborales o personales. Sin embargo, ¿qué ocurre cuando requieres un automóvil y no posees uno? La opción común es alquilarlo, pero esto puede acarrear problemas como tarifas altas, costos ocultos, mantenimiento deficiente o carencia de seguro para el vehículo. Además, hay quienes desean obtener ingresos extra alquilando sus automóviles en períodos de inactividad, pero carecen de un medio seguro para hacerlo o de clientes potenciales. Para atender estos dilemas, se plantea crear una aplicación web en Perú que ofrezca soluciones efectivas a los desafíos mencionados.
 
 - Who
 
-  Personas que desean alquilar autos de forma segura y a un precio menor al de las plataformas más populares; y personas que desean alquilar sus autos de forma segura en los momentos que no los utilizan, para ganar dinero extra.
+  Este servicio está dirigido a personas que desean alquilar vehículos de forma segura y a precios más accesibles que los ofrecidos por las plataformas convencionales. Además, está destinado a propietarios de vehículos que buscan una manera segura de rentar sus automóviles durante los períodos en que no los utilizan para obtener ingresos adicionales.
 
 - What
 
-  Los problemas que se presentar al momento de alquilar autos y/o usarlos. Por ejemplo: falta de mantenimiento, falta de seguimiento del vehículo, falta de seguro, altos precios, estafas, etc.
+  El aplicativo aborda una serie de problemas comunes asociados con el alquiler y uso de vehículos, tales como el mantenimiento deficiente de los automóviles, la falta de seguimiento de su ubicación, la ausencia de un seguro adecuado, los precios elevados y el riesgo de posibles estafas.
 
 - Where
 
-  En el lugar en donde la persona este alquilando el auto y/o usándolo. Puede ser un concesionario, un hogar, oficinas, calles, carreteras, etc.
-
+  Las complicaciones pueden surgir en diversos lugares donde se alquilan o utilizan vehículos, incluyendo concesionarios, hogares, oficinas, calles y autopistas. Este amplio alcance geográfico resalta la importancia de contar con un aplicativo que pueda ofrecer soluciones en cualquier ubicación donde se necesite un automóvil.
+  
 - When
 
-  Cuando la persona esté por alquilar el auto o ya lo este usando. Algunos ejemplos son: llamadas telefónicas, firma de documentos, conversación en persona, haciendo rutas por calles, haciendo rutas por carreteras.
+  Los problemas pueden manifestarse en cualquier momento, desde el proceso de alquiler hasta el uso del vehículo. Esto puede incluir desde la fase inicial de reserva y firma de contratos hasta situaciones que ocurren mientras el vehículo está en tránsito o en uso por parte del arrendatario.
 
 - Why
 
-  Los problemas técnicos del auto usualmente suceden por descuido del dueño. Asimismo, las tarifas ocultas generalmente son por la necesidad de ganar dinero de los concesionarios. Finalmente, las estafas o desaparición de autos se generan por las malas intenciones del arrendatario.
+  Las complicaciones técnicas con los vehículos a menudo se deben a la falta de mantenimiento por parte de los propietarios, mientras que los cargos no declarados suelen surgir debido a las prácticas comerciales de los concesionarios que buscan maximizar sus ganancias. Las estafas y los problemas con vehículos desaparecidos pueden ser consecuencia de la falta de integridad por parte de algunos arrendatarios.
 
 - How
 
-  Si se habla de las estafas, estas operan de la siguiente manera: el arrendatario hace un pago por adelantado al dueño y este le hace la promesa de entregarle el auto en determinado momento, pero no lo hace. Asimismo, el caso inverso son arrendatarios que usan medios fraudulentos para simular pagos  o directamente no devuelven el auto luego de la fecha acordada.
+  Las estafas generalmente ocurren cuando un arrendatario realiza un pago anticipado al propietario, quien luego no cumple con su parte del acuerdo. Además, pueden surgir casos en los que los arrendatarios utilicen métodos fraudulentos para simular pagos o no devuelvan el vehículo según lo acordado.
 
 - How Much
 
-  Estos problemas generalmente cuestan bastante dinero. Por ejemplo, según El Comercio (2023), un hombre tuvo que pagar 7600 soles por la garantía de los autos que alquiló, y este monto no fue devuelto en la fecha acordada.
+  Estos problemas pueden ser costosos tanto en términos financieros como en tiempo y esfuerzo dedicados a resolverlos. Por ejemplo, una garantía no reembolsada puede representar una pérdida significativa de dinero para un arrendatario. Por eso, es fundamental contar con una plataforma confiable que minimice estos riesgos para ambas partes involucradas en el proceso de alquiler de vehículos.
 
 ### Lean UX Process
 
 #### Lean UX Problem Statements
 
-Actualmente alquilar un auto conlleva distintos riesgos, ya sea desde el punto del arrendatario o del arrendador. Estos pueden variar desde fallos técnicos de los vehículos hasta casos de estafas. Dichos problemas afectan negativamente al negocio de la renta de autos debido a que genera desconfianza en los dos sectores mencionados. Los problemas mencionados anteriormente son solo algunos de los que muestran que los arrendatarios y los arrendados buscan más seguridad y transparencia por la parte contraria. Finalmente, habiendo realizado este análisis, se desarrolló una pregunta que servirá como base para combatir la problemática. Esta es:
+El alquiler de automóviles conlleva diversos riesgos tanto para el arrendatario como para el arrendador. Estos riesgos van desde fallas técnicas en los vehículos hasta casos de estafa, lo que repercute negativamente en la confianza en el negocio de alquiler de autos. Los problemas mencionados anteriormente son solo una muestra de cómo tanto arrendatarios como arrendadores buscan mayor seguridad y transparencia en el proceso. Tras analizar esta situación, se ha formulado la siguiente pregunta como base para abordar esta problemática:
 
-**_¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?_**
+
+**_¿Qué medidas podemos implementar para asegurar la seguridad y la transparencia tanto para quienes alquilan como para quienes ofrecen autos en alquiler?_**
 
 #### Lean UX Assumptions
 
 **Business Outcomes**
 
-- **Creo que mis clientes necesitan** una solución que les permita rentar o poner en renta autos de forma segura y transparente.
-- **Estas necesidades se pueden resolver** con una aplicación web de renta de autos de forma segura entre personas naturales.
-- **Mis clientes iniciales son (o serán)** personas hispanohablantes mayores de edad que se encuentren en Perú y deseen rentar o poner en renta un auto.
-- **El valor número 1 que un cliente quiere de mi producto es** seguridad de que el contrato se cumplirá correctamente y de que el auto se encuentre en buenas condiciones.
-- **El cliente también puede obtener estos beneficios adicionales:** precios más bajos que los de la competencia, registro de mantenimiento del vehículo, seguimiento del auto por GPS, acceso a la documentación actualizada del vehículo.
-- **Voy a adquirir la mayoría de mis clientes a través de** anuncios en redes sociales.
-- **Haré dinero a través de** cobro de comisiones por cada alquiler que se realice dentro de la aplicación, y publicidad dentro de la aplicación.
-- **Mi competencia principal en el mercado serán** plataformas de alquiler de autos actualmente disponibles.
-- **Los venceremos debido a** nuestros menores precios, mayor transparencia acerca de la documentación y estado de los autos y la seguridad de estos mismos.
-- **Mi mayor riesgo es** fraude y/o estafas antes, durante y después del servicio del auto.
-- **Resolveremos esto a través de** retenimiento del pago por el servicio hasta que este haya sido terminado.
+- Considero que mis clientes necesitan una solución que les permita alquilar o poner en alquiler automóviles de manera segura y transparente.
+- Mis clientes iniciales son o serán hispanohablantes adultos en el  Perú que deseen alquilar o poner en alquiler un auto.
+- Estas necesidades pueden ser satisfechas mediante una aplicación web de alquiler de autos segura entre personas naturales
+- Planeo atraer a la mayoría de mis clientes a través de anuncios en redes sociales.
+- Mi principal competencia en el mercado son las plataformas de alquiler de autos ya establecidas.
+- La principal prioridad para un cliente será la seguridad de que el contrato se cumpla correctamente y de que el auto esté en buenas condiciones.
+- Los clientes también valorarán beneficios adicionales como precios más bajos que los de la competencia, registro de mantenimiento del vehículo, seguimiento GPS y acceso a la documentación actualizada del auto.
+- Planeo superar a la competencia ofreciendo precios más bajos, mayor transparencia en la documentación y estado de los autos, y una mayor seguridad.
+- El mayor riesgo que enfrento es el fraude o las estafas antes, durante y después del servicio de alquiler de autos.
+- Abordaré este problema reteniendo el pago hasta que el servicio se haya completado satisfactoriamente.
+- Generar ingresos mediante el cobro de comisiones por cada alquiler realizado a través de la aplicación y mediante publicidad dentro de la misma.
 
 **User Outcomes**
 
 - **¿Quién es el usuario?**  
-  Personas hisponohablantes mayores de edad que se encuentren en Perú y deseen rentar o poner en renta un auto.
-- **¿Dónde encaja nuestro producto? ¿En su trabajo o vida?**  
-  Nuestro producto encaja en la vida del usuario, debido a que alquilar o poner en alquiler un auto no es la principal fuente de ingresos de nuestros clientes potenciales.
-- **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**  
-  El mayor problema que se presenta en nuestro producto son las prácticas fraudulentas, como estafa o robo del vehículo. Esto se resolverá mediante la necesidad de incluir la documentación del auto a rentar en nuestra aplicación, la retención del pago hasta que el servicio del auto haya terminado y el seguimiento del vehículo vía GPS.
-- **¿Cuándo y cómo es usado nuestro producto?**  
-  AutoYa! será usado en dispositivos que cuenten con un navegador web y cuando el usuario decida que quiere rentar o poner en renta un auto.
+  El usuario de nuestro producto son personas hispanohablantes adultas en el Perú que buscan una solución conveniente y segura para alquilar o poner en alquiler un automóvil. Pueden ser tanto propietarios de vehículos que desean generar ingresos adicionales mediante el alquiler de sus autos, como personas que necesitan un vehículo temporalmente para viajes o actividades específicas.
+
+- **¿Dónde se aplica nuestro producto?**  
+  Nuestro producto se integra en la vida cotidiana del usuario, ya que el alquiler o puesta en alquiler de un auto puede ser una necesidad ocasional para muchas personas. Se puede acceder al servicio desde cualquier lugar con conexión a internet, lo que brinda una gran flexibilidad y conveniencia a los usuarios, ya sea que estén en casa o en el trabajo.
+- **¿Qué problemas aborda nuestro producto y cómo los resuelve?**  
+  Nuestro producto aborda el problema de prácticas fraudulentas y la falta de seguridad en el proceso de alquiler de vehículos. Para resolver estos problemas, implementamos medidas como la inclusión de documentación del auto en la aplicación, la retención del pago hasta la finalización del servicio y el seguimiento del vehículo mediante GPS. Esto proporciona tranquilidad tanto a los propietarios como a los arrendatarios, asegurando una transacción segura y sin contratiempos.
+- **¿Cuándo y cómo se utiliza nuestro producto?**  
+  Nuestro producto se utiliza cuando los usuarios desean alquilar o poner en alquiler un automóvil. Se puede acceder a través de dispositivos con navegador web, lo que permite una experiencia fácil y conveniente. Los usuarios pueden buscar, reservar y gestionar sus alquileres desde la comodidad de su hogar o mientras están en movimiento, lo que les brinda flexibilidad y control total sobre sus transacciones de alquiler de autos.
 - **¿Qué características son importantes?**  
-  Interfaz amigable, intuitiva y responsive; reserva de vehículo; pagos integrados; y reseñas de usuarios.
-- **¿Cómo debe verse nuestro producto y cómo debe comportarse?**  
-  Debe verse amigable ante el usuario y fácil de usar. Esto quiere decir que, por ejemplo, cada botón debe dar a entender qué es lo que hace con solo verlo.
+  Es fundamental que nuestro producto tenga una interfaz amigable, intuitiva y adaptable para garantizar una experiencia de usuario positiva. Además, características como la reserva de vehículos, colocar vehículos para alquilar y los pagos integrados.
+- **¿Cómo debe ser la apariencia y el comportamiento de nuestro producto?**  
+  La apariencia de nuestro producto debe reflejar su objetivo de ser fácil de usar y comprender para todos los usuarios. La interfaz debe ser limpia, organizada y visualmente atractiva, con elementos intuitivos que guíen al usuario a través de los diferentes pasos del proceso de alquiler o colocar en alquiler el vehículo.
 
 #### Lean UX Hypothesis Statements
 
