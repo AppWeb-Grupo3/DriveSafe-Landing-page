@@ -1444,59 +1444,37 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Class Dictionary
 
-![Imgur](https://i.imgur.com/PuRP30s.png)
+
 
 ## Database Design
 
 ### Database Diagram
 
-![Imgur](https://i.imgur.com/w5jN3CB.png)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## Software Configuration Management
-En esta sección, el equipo establece las decisiones y convenciones para mantener la consistencia a lo largo del ciclo de vida del software. Esto abarca áreas como la gestión del código fuente, la configuración del entorno de desarrollo y la configuración de implementación.
-
+En esta sección, el equipo define las decisiones y estándares para garantizar la coherencia durante todo el proceso de desarrollo del software. Esto incluye aspectos como la administración del código fuente, la configuración del entorno de desarrollo y la configuración de la implementación.
 ### Software Development Environment Configuration
 
-* **Project Management**
+* **Project Management** 
 
-  https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report
+  https://github.com/AppWeb-Grupo3/informe
 
 * **Requirements Management**
 
-    * Trello: Es una herramienta de gestión de proyectos basada en tableros visuales. Permite organizar tareas en tarjetas y listas, asignar responsabilidades, establecer fechas límite y colaborar en tiempo real. Con funciones como arrastrar y soltar, comentarios y etiquetas, Trello facilita la organización y seguimiento del progreso de los proyectos. Además, se integra con otras herramientas y ofrece una vista clara del estado de las tareas.
-      Product UX/UI Design
-
-    * UXPressia: Es una herramienta en línea que permite a los usuarios desarrollar diversas actividades ofreciendo distintos diseños con métodos para investigaciones de clientes. Por ello, se utilizó UXpressia para el desarrollo de User Person, Emphaty Map y Journey Map porque nos facilita los diseños y la obtención de tu trabajo en diferentes tipos de archivos como formato PDF o PNG de alta resolución e imprimirlos sin esfuerzo. UXPressia. Uxpressia.com. Recuperado el 01 de sept2023, de: Link
-
-
-* Figma: Es una herramienta de diseño de interfaces como colores, imágenes, formas, entre otros que nos permite diseñar y crear nuestra aplicación ofreciendo diversos modelos de celulares Iphone, Android con respecto a distintas generaciones. Además, se utilizará para la elaboración de nuestro prototipo brindándonos la opción de elaborar nuestro proyecto con la simulación para el usuario.
-
-  Figma. Recuperado el 05 de Septiembre de 2023, de: Link: https://www.figma.com/file/uLPu61edZDhFptNQOXBQK4/AutoYa!?type=design&node-id=101%3A1294&mode=design&t=NrxBjkkeStDtsPKW-1
-
+    
 * **Product UX/UI Design**
 
-    * HTML: El lenguaje para el desarrollo de plataformas web HTML define la estructura de su contenido. HTML consta de un conjunto de elementos que utiliza para incluir diferentes piezas de contenido para que se vean o se comporten de cierta manera. Las diversas etiquetas incrustadas pueden convertir una palabra o imagen en un hipervínculo a otro sitio web, poner palabras en cursiva, aumentar, reducir fuentes, entre otros. Además, HTML (Hypertext Markup Language) – Lenguajes de Marcas de Hipertextos no es lenguaje de programación.
-
-      HTML. Wikipedia, The Free Encyclopedia. de Recuperado el 05 Septiembre de 2023, de: https://es.wikipedia.org/w/index.php?title=HTML&oldid=15065581
-
-
-* CSS: Este lenguaje se utiliza para ordenar las pautas de diseño de páginas web y presentar el contenido de la página de una manera atractiva. Así, HTML se utiliza para estructurar el contenido del sitio web, mientras que CSS se utiliza para estructurar la presentación. Cascading Stylesheets (CSS) – Hojas de filo en cascada
-
-  CSS. Wikipedia, The Free Encyclopedia. Recuperado el 05 de Septiembre del 2023 de: https://es.wikipedia.org/w/index.php?title=CSS&oldid=149811531
+  * **HTML:**  El lenguaje para el desarrollo de plataformas web HTML define la estructura de su contenido. HTML consta de un conjunto de elementos que utiliza para incluir diferentes piezas de contenido para que se vean o se comporten de cierta manera. Las diversas etiquetas incrustadas pueden convertir una palabra o imagen en un hipervínculo a otro sitio web, poner palabras en cursiva, aumentar, reducir fuentes, entre otros. Además, HTML (Hypertext Markup Language) – Lenguajes de Marcas de Hipertextos no es lenguaje de programación
+  * **CSS:** Este lenguaje se utiliza para ordenar las pautas de diseño de páginas web y presentar el contenido de la página de una manera atractiva. Así, HTML se utiliza para estructurar el contenido del sitio web, mientras que CSS se utiliza para estructurar la presentación. Cascading Stylesheets (CSS) – Hojas de filo en cascada
+  * **Github:** GitHub es un servicio web y en la nube que ayuda a los desarrolladores a almacenar y administrar su código para llevar el control de cambios de versiones Git. El uso del Github es para almacenar cada uno de los integrantes sus tareas asignadas y así tener mejor control y organización del trabajo
+  * **Software** Testing Lenguaje Gherkins: Es un lenguaje interpretado como un código. En este lenguaje, podemos agregar historias de usuario a nuestro programa con sus respectivas partes: función, escenario, dado, cuándo, and (opcionalmente), entonces. Esto se puede hacer en cualquier idioma, pero el idioma más común es el inglés. Este lenguaje se utiliza para implementar nuestras historias de usuario.
 
 
-* Github: GitHub es un servicio web y en la nube que ayuda a los desarrolladores a almacenar y administrar su código para llevar el control de cambios de versiones Git. El uso del Github es para almacenar cada uno de los integrantes sus tareas asignadas y así tener mejor control y organización del trabajo
 
-  Github. Github.com.Recuperado del 05 de Septiembre del 2023 de https://github.com/
-
-* Software Testing
-
-  Lenguaje Gherkins: Es un lenguaje interpretado como un código. En este lenguaje, podemos agregar historias de usuario a nuestro programa con sus respectivas partes: función, escenario, dado, cuándo, and (opcionalmente), entonces. Esto se puede hacer en cualquier idioma, pero el idioma más común es el inglés. Este lenguaje se utiliza para implementar nuestras historias de usuario.
-
-  Calatrava, S. G. (2021, octubre 13). Qué es Gherkin: cómo usarlo y cuáles son sus elementos. Profile Software Services. https://profile.es/blog/que-es-gherkin/
-
+    
 ### Source Code Management
 
 A continuación, presentaremos la gestión del código fuente que planeamos realizar para este proyecto. Está gestión nos permitirá realizar el seguimiento y control de los múltiples cambios y modificaciones que se realice cualquier integrante del equipo, a lo largo de la vida útil del proyecto. Además, cabe destacar que para este proyecto se creará un repositorio en GitHub, donde se realizará el control de versiones.
@@ -1598,11 +1576,7 @@ Estas ramas siempre tienen un tiempo de vida limitado, debido a que una vez se t
 ### Software Deployment Configuration
 Para implementar el despliegue de la página de inicio del proyecto, optaremos por GitHub Pages, una plataforma que GitHub proporciona para alojar sitios web estáticos directamente desde un repositorio. Por esta razón, hemos iniciado creando un repositorio donde cargaremos las diferentes versiones que desarrollaremos en el proyecto.
 
-![Imgur](https://i.imgur.com/qvnxul1.png)
 
-![Imgur](https://i.imgur.com/eahfYpk.png)
-
-![Imgur](https://i.imgur.com/2P0X07h.png)
 
 ## Landing Page, Services & Applications Implementation
 
@@ -1610,60 +1584,6 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 #### Sprint Planning 1
 
-Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint #</strong></td>
-    <td align="center"><strong>1</strong></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Date</td>
-    <td align="center">2023-08-26</td>
-  </tr>
-  <tr>
-    <td align="center">Time</td>
-    <td align="center">11:30 PM</td>
-  </tr>
-  <tr>
-    <td align="center">Location</td>
-    <td align="center">Reunión virtual por Discord</td>
-  </tr>
-  <tr>
-    <td align="center">Prepared By</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
-  </tr>
-  <tr>
-    <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 1 – 1 Review Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 1 – 1 Retrospective Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 1 Goal</td>
-    <td align="center">Se debe implementar la primera version del landing page así como el desarrollo del informe</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint n Velocity</td>
-    <td align="center">5 días</td>
-  </tr>
-  <tr>
-    <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
-  </tr>
-</table>
 
 
 
