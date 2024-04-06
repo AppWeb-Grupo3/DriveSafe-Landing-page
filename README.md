@@ -455,89 +455,53 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 ### Diseño de entrevistas
 
-**Arrendatarios**
+**Preguntas Generales para Ambos Segmentos:**
 
-1. ¿Cuál es su nombre, género y edad?
-2. ¿Cuál es su estado civil?
-3. ¿Cuál es su provincia y distrito de residencia?
-4. ¿Cuál es su ocupación?
-5. ¿Usted ha manejado un auto anteriormente?
-6. ¿Usted ha alquilado un auto alguna vez? Si su respuesta es sí ¿Por qué medio lo hizo?
-7. ¿Qué es lo que usted prioriza o priorizaría al alquilar un auto?
-8. ¿Qué información considera importante conocer antes de alquilar un auto?
-9. ¿Qué carácterística o características cree que debería tener obligatoriamente un servicio de alquiler de autos?
-10. ¿Cómo cree que se debería cobrar por el alquiler de un auto? ¿Por minuto, media hora, hora o día?
-11. Según su respuesta anterior ¿Cuanto cree que se debería cobrar por ese tiempo?
-12. ¿Qué medios de pago preferiría usted?
-13. ¿Usted estaría interesado en alquilar un auto por medio de una aplicación web? ¿Por qué?
-14. ¿Conoce algun medio que permita alquilar autos por internet?
+-   ¿Cuál es su nombre?
+-   ¿Qué edad tiene?
+-   ¿Dónde reside actualmente?
+-   ¿Cuál es su ocupación actual?
 
-**Arrendadores**
 
-1. ¿Cuál es su nombre, género y edad?
-2. ¿Cuál es su estado civil?
-3. ¿Cuál es su provincia y distrito de residencia?
-4. ¿Cuál es su ocupación?
-5. ¿Usted ha puesto en alquiler su auto alguna vez? Si su respuesta es sí ¿Por qué medio lo hizo?
-6. ¿Qué es lo que usted prioriza o priorizaría al poner en alquiler su auto?
-7. ¿Cree que es importante tener acceso a la información de la persona a la que le va a alquilar su auto?
-8. ¿Qué carácterística o características cree que debería tener obligatoriamente un servicio de alquiler de autos?
-9. ¿Cómo cree que se debería cobrar por el alquiler de un auto? ¿Por minuto, media hora, hora o día?
-10. Según su respuesta anterior ¿Cuanto cree que se debería cobrar por ese tiempo?
-11. ¿Qué medios de pago preferiría usted?
-12. ¿Usted estaría interesado en poner en alquiler su auto por medio de una aplicación web? ¿Por qué?
-13. ¿Conoce algun medio que permita alquilar autos por internet?
+**Preguntas para Arrendatarios:**
+
+-   ¿Alguna vez tuvo experiencias sobre alquilar un auto?¿cómo resultó?
+-   ¿Qué características específicas buscaría en un servicio de alquiler de vehículos?
+-   ¿Cómo cree que la tecnología podría mejorar su experiencia al alquilar un vehículo?
+-   ¿Prefiere alquilar un vehículo por períodos cortos o largos? ¿Por qué?
+-   ¿Qué opina sobre la disponibilidad de una amplia selección de vehículos en un servicio de alquiler?
+-   ¿Qué influiría en su decisión de llegar a alquilar un automóvil: el precio, la disponibilidad o la reputación del servicio de alquiler?
+-   ¿Qué opina sobre alquilar un automóvil a través de una aplicación web o móvil?
+
+**Preguntas para Arrendadores:**
+
+-   ¿Usted en alguna oportunidad puso en alquiler su vehículo?
+-   ¿Qué preocupaciones tiene respecto a poner su vehículo en alquiler?
+-   ¿Qué ventajas encuentra en la idea de utilizar la tecnología para gestionar el alquiler de su vehículo?
+-   ¿Qué opinión tiene sobre el seguimiento GPS como medida de seguridad para su vehículo mientras está en alquiler?
+-   ¿Qué nivel de importancia le da al seguro de vehículos al momento de poner su vehículo en alquiler?
+-   ¿Qué características específicas de su automóvil cree que son más atractivas para los posibles arrendatarios?
+-   ¿Cómo cree que la flexibilidad en los métodos de pago puede afectar la demanda de alquiler de su vehículo?
+-   ¿Usted estaría interesado en poner en alquiler su auto por medio de una aplicación web móvil?
+
 
 ### Registro de entrevistas
-URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
 
 **Arrendatarios**
 
 **Entrevista 1**
-![Imgur](https://i.imgur.com/qAPVMsX.png)
-
-Timing: 0:00; 5:33 min
-
-Alessandro Condori es un estudiante universitario de 20 años de edad. Reside en San Juan de Lurigancho, Lima; tiene experiencia previa en la conducción y ha alquilado autos mediante el contacto de otras personas ya sea virtual o presencial. En este caso, prioriza toda la información relacionado con el vehículo tal como las especificaciones y observaciones que posea este. Alessandro valora un proceso en el cual el servicio al cliente sea lo más óptimo posible, variados métodos de pagos, facilidad en el contacto con el arrendador y vuelve a recalcar sobre la información del vehículo. Prefiere pagar de forma virtual debido a su comodidad y flexibilidad. Por otro lado, mencionó que no conoce ningún aplicación que ofrezca aquel servicio; por lo que sería un usuario adecuado para servicios como AutoYa!.
-
 
 **Entrevista 2**
-![Imgur](https://i.imgur.com/jQEwgcv.png)
-
-Timing: 5:34; 5:54 min
-
-Cristian Iparraguirre es un estudiante universitario de 19 años. Reside en Lince, Lima. Cristian sí ha manejado autos anteriormente de los cuales tuvo que alquiler vía virtual, donde tuvo que buscar dentro de distintas páginas para acceder aquel servicio. Prioriza esencialmente todo información detallada respecto al vehículo. Asimismo, considera que un servicio que sea de gran utilidad debe de cumplir ciertas caracterísitcas tales como: facilidad de usar, precios relativamente económicos, información precisa y filtros de búsquedas eficientes. Por otro lado, no tiene problemas si el método de pago es de manera virtual o presencial. Alega que ya realizó el alquiler de un auto por medio de una aplicación por lo que seguiría haciendolo. Al final, manifestó que la pagína donde solicitó el auto fue "Kayak".
 
 **Entrevista 3**
-![Imgur](https://i.imgur.com/FBAA869.png)
-
-Timing: 11:28; 5:07 min
-
-Víctor Ramírez es un estudiante universitario de 18 años. Reside en Surco, Lima. tiene experiencia conduciendo, sin embargo, no ha tenido la oportunidad previamente de alquilar un auto aunque menciona haber tenido la intención. Víctor menciona que al alquilar un auto no prioriza con exactitud sus especificaciones ya que estas varían en funci´´on de lo que esté buscando para la ocación. En cambio, prefiere asegurarse de que la empresa de la cual alquilaría se confiable, tenga buena documentación y buenas referencias. Por otro lado, nos menciona que considera importante que el carro esté en perfectas condiciones, verificado por un especialista que avale su buen funcionamiento y tener conocimiento exacto de las tarifas que se aplicarían. Considera que el servicio debería contar con un servicio de grúa o seguro en caso de algún desperfecto o accidente, así como estar totalmente limpio. Así mismo considera que se debería cobrar por día con una cuota inicial previo al servicio y el resultante al finalizarlo y respetar el presupuesto hecho sin cargos extra fuera de cotización. Considera que se debe cobrar en función del tipo de auto, nos brinda como ejemplo un sedán de motor 1600 cuyo valor no debería superar los 200 soles diarios. Cree que se debería pagar por medios digitales para proteger al arrendador y manifiesta que la idea de arrendar un carro por una aplicacion web le parece "espectacular". Finalmente, menciona que no conoce de ningún medio que lo haga en la actualidad.
 
 **Arrendadores**
 
 **Entrevista 4**
-![Imgur](https://i.imgur.com/TiE9WhC.png)
-
-Timing: 20:57; 3:54 min
-
-Valeria Nevado es una estudiante universitaria de 20 años. Reside en Cercado de Lima, Lima. Valeria sí ha puesto su auto en alquiler anteriormente, y lo hizo por WhatsApp, Facebook y de forma presencial. Ella priorizaría sobre todo saber a quién le está alquilando su auto y cree que es importante tener información de la persona a quien se lo da. Asimismo, cree que las personas que quieran registrarse para alquilar un auto deben pasar por un filtro que valide que es una persona que usará el auto de forma correcta; y cree que debe. También cree que se debería cobrar 100 soles mínimo por día de uso del auto. La entrevistada manifestó que se debería cobrar por medio de tarjetas de crédito y débito, ya que en efectivo se han visto varios casos de robo. Finalmente, sí estaría interesada en poner en alquiler su auto por medio de una aplicación web porque le parece más seguro que por otros medios; y sabe que existen sitios web para alquilar autos, pero nunca los ha usado.
 
 **Entrevista 5**
-![Imgur](https://i.imgur.com/BACVdYv.png)
 
-Timing: 24:51; 3:25 min
-
-Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito de San Miguel, Lima. Manuel dice que nunca ha puesto en alquiler su auto, pero sí estaría interesado en hacerlo. También menciona que lo que más priorizaría al alquilar su auto sería la seguridad y el compromiso que tenga el arrendatario, no puede ser alguien con denuncias o que no tenga la solvencia económica necesaria. Asimismo, piensa que sí sería buena idea poder ver la información de la persona a la que le alquilará su auto y que un servicio de alquiler de autos debería contar obligatoriamente con un seguro, además del soat. Adicionalmente, cree que se debería cobrar por hora del uso del auto, y el precio dependería del auto, de su modelo, antigüedad, condición, etc. El entrevistado manifestó que los pagos se deberían realizar por tarjeta y sí estaría dispuesto en poner su auto en alquiler por medio de una aplicación web, debido a que sería más rápido encontrar arrendatarios. Finalmente, Manuel mencionó que no conoce ningún sitio web para alquilar autos por internet.
-
-**Entrevista 6**
-
-[![Captura-de-pantalla-2023-09-08-051842.png](https://i.postimg.cc/ZY9706fz/Captura-de-pantalla-2023-09-08-051842.png)](https://postimg.cc/NLc7z2qd)
-
-Timing: 16:36; 4:16 min
-
-Miguel Ángel Ibañez, un estudiante universitario de 25 años en Lima, está considerando alquilar su auto. Él prioriza la seguridad y la confianza al alquilar su auto a un desconcido, evitando personas con denuncias o problemas financieros. Miguel valora tener información relevante sobre la persona a la que confiará su vehículo, lo que indica su deseo de establecer un cierto nivel de confianza en este proceso. Además, destaca la importancia del seguro y el SOAT. Sugiere tarifas por hora y prefiere pagos con tarjeta. Está dispuesto a usar una aplicación web para alquilar. Aunque no conoce plataformas específicas, su interés sugiere que podría beneficiarse de explorar opciones tecnológicas.
 
 ### Análisis de entrevistas
 
