@@ -1478,7 +1478,8 @@ En esta sección, el equipo define las decisiones y estándares para garantizar 
 ### Source Code Management
 
 A continuación, presentaremos la gestión del código fuente que planeamos realizar para este proyecto. Está gestión nos permitirá realizar el seguimiento y control de los múltiples cambios y modificaciones que se realice cualquier integrante del equipo, a lo largo de la vida útil del proyecto. Además, cabe destacar que para este proyecto se creará un repositorio en GitHub, donde se realizará el control de versiones.
-Repositorio para el Landing Page: https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report
+
+Repositorio para el Landing Page: 
 
 Repositorio para las pruebas de Aceptación:
 
