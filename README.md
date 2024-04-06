@@ -648,101 +648,25 @@ Maria Gonzales quiere buscar
 
 ![foto_impact_mapping](https://github.com/AppWeb-Grupo3/informe/blob/415e070e37948856d81fcaa3181903a2c8f397c6/imagenes/Impact_Mapping.png)
 
+<br>
+
 ### Product Backlog
 
-<table>
-  <tr>
-    <td align="center"><strong># Orden</strong></td>
-    <td align="center"><strong>User Story ID</strong></td>
-    <td align="center"><strong>Título</strong></td>
-    <td align="center"><strong>Descripción</strong></td>
-    <td align="center"><strong>Story Points (1 / 2 / 3 / 5/ 8)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">1</td>
-    <td align="center">US06</td>
-    <td align="center">Publicación de anuncio de alquiler de auto </td>
-    <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
-    <td align="center">5</td>
-  </tr>
-  <tr>
-    <td align="center">2</td>
-    <td align="center">US08</td>
-    <td align="center">Registro de mantenimientos del Auto</td>
-    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto.</td>
-    <td align="center">5</td>
-  </tr>
-  <tr>
-    <td align="center">3</td>
-    <td align="center">US09</td>
-    <td align="center">Visualización de registro de mantenimiento</td>
-    <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
-    <td align="center">5</td>
-  </tr>
-  <tr>
-    <td align="center">4</td>
-    <td align="center">US10</td>
-    <td align="center">Solicitud de Alquiler de auto</td>
-    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
-    <td align="center">5</td>
-  </tr>
-<tr>
-    <td align="center">5</td>
-    <td align="center">US11</td>
-    <td align="center">Visualización de solicitudes</td>
-    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
-    <td align="center">3</td>
-  </tr>
-<tr>
-    <td align="center">6</td>
-    <td align="center">US04</td>
-    <td align="center">Búsqueda de autos según características</td>
-    <td align="center">Como Arrendatario, deseo poder buscar autos según datos específicos para asi descartar otros tipos de autos</td>
-    <td align="center">3</td>
-  </tr>
-<tr>
-    <td align="center">7</td>
-    <td align="center">US07</td>
-    <td align="center">Autos disponibles en una área</td>
-    <td align="center">Como arrendatario, que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
-    <td align="center">3</td>
-  </tr>
-<tr>
-    <td align="center">8</td>
-    <td align="center">US01</td>
-    <td align="center">Registro del Arrendatario</td>
-    <td align="center">Como arrendatario, deseo registrarme dentro del app para poder alquilar un auto según mi presupuesto.</td>
-    <td align="center">3</td>
-  </tr>
-<tr>
-    <td align="center">9</td>
-    <td align="center">US02</td>
-    <td align="center">Registro del Propietario</td>
-    <td align="center">Como Propietario deseo registrarme dentro del app para ofrecer en alquiler mi auto </td>
-    <td align="center">2</td>
-  </tr>
-<tr>
-    <td align="center">10</td>
-    <td align="center">US03</td>
-    <td align="center">Actualización de datos</td>
-    <td align="center">Como Usuario, deseo actualizar mis datos guardados en la aplicación para asi tener todo al día</td>
-    <td align="center">2</td>
-  </tr>
-<tr>
-    <td align="center">11</td>
-    <td align="center">US05</td>
-    <td align="center">Inicio de Sesión</td>
-    <td align="center">Como usuario registrado, quiero poder iniciar sesión en la aplicación con mi correo electrónico y contraseña.</td>
-    <td align="center">2</td>
-  </tr>
-<tr>
-    <td align="center">12</td>
-    <td align="center">US12</td>
-    <td align="center">Visualización de un sitio web de información de la aplicación</td>
-    <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
-    <td align="center">2</td>
-  </tr>
-</table>
+
+| #Orden | User Story ID | Titulo | Descripción | Story Points |
+| ------------- | ------ | ----- | ---- | ----- |
+| 1 | HU001 | Ingreso de usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | 1 | 
+| 2 | HU002 | Registro del Arrendatario | Como Arrendatario, quiero registrarme dentro del aplicacion para poder alquilar un auto según mi presupuesto. | 3 |
+| 3 | HU003 | Registro del Propietario | Como Propietario quiero registrarme dentro de la aplicación para ofrecer en alquiler mi auto | 3 | 
+| 4 | HU004 | Búsqueda de autos según características | Como Arrendatario quiero poder buscar autos según datos específicos para asi descartar otros tipos de autos | 8 |
+| 5 | HU005 | Notificaciones via correo | Como usuario del sistema, quiero poder configurar notificaciones, para luego ser notificado y no perderme ningún evento | 5 | 
+| 6 | HU006 | Interacción con los usuarios | Como administrador del sistema quiero poder comunicarme con los usuarios, para poder ofrecerles un servicio más personalizado | 5 | 
+| 7 | HU007 | Publicación de anuncio de alquiler de auto | Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto | 8 |
+| 8 | HU008 | Autos disponibles en una área | Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona | 5 | 
+| 9 | HU009 | Solicitud de Alquiler de auto | Como arrendatario, quiero solicitar el alquiler del auto para asi poder utilizar el auto | 5 |
+| 10 | HU010 | Visualización de un sitio web de información de la aplicación | Como un invitado, quiero visualizar una publicidad de la aplicación | 8 |
+
+
 
 # Capítulo IV: Product Design
 
@@ -753,21 +677,21 @@ Maria Gonzales quiere buscar
 
 **Overview:**
 <div style="text-align: justify;">
-Nuestra misión es cautivar la atención del usuario desde el primer momento, creando un diseño que establezca una conexión inmediata y reconocible con AutoYa!.
-</div>
+Nuestra misión es cautivar la atención del usuario
+.</div>
 
 <br>
 
 **Brand Name:**
 <div style="text-align: justify;">
-Hemos elegido llamar a nuestra solución "AutoYa!" debido a su enfoque en ayudar a los usuarios y su tecnología avanzada.
+El nombre elegido a nuestra start up es DriveShare
 </div>
 
 <br>
 
 **Typography:**
 <div style="text-align: justify;">
-Hemos seleccionado cuidadosamente las fuentes "Montserrat" y "Mulish" para transmitir una imagen moderna y legible.
+Para la tipografía hemos elegido las fuentes
 </div>
 
 <p align="center">
@@ -779,7 +703,7 @@ Hemos seleccionado cuidadosamente las fuentes "Montserrat" y "Mulish" para trans
 
 **Colors:**
 <div style="text-align: justify;">
-Los colores principales son el naranja y el blanco. El naranja se ha seleccionado por su asociación con la energía, la creatividad y la emoción. Este color refleja nuestra pasión por brindar un servicio excepcional y experiencias emocionantes a nuestros usuarios. El blanco se utiliza como color principal para el fondo, proporcionando un contraste elegante y una apariencia limpia.
+Los colores que predominaran en nuestro proyecto serán el azul y blanco.
 </div>
 
 <p align="center">
