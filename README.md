@@ -652,7 +652,7 @@ Maria Gonzales quiere buscar
 
 #####Segmento Arrendador
 
-![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/042df8d4-9c6e-4284-a773-1f9dee0015e4)
+![arrendador_empathy map](https://github.com/AppWeb-Grupo3/informe/assets/83793319/b7e38baa-0275-4753-a40d-26c1322df17c)
 
 <br>
 
