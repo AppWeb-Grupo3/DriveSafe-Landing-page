@@ -731,7 +731,7 @@ Además, como equipo, hemos decidido utilizar el patrón de diseño en forma de 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/2bfeaf01-c145-4d61-9cf0-28f5e95cde1e)
 
 
-## Information Architecture
+## 4.2 Information Architecture
 
 <div style="text-align: justify;">
 En esta sección, nos centraremos principalmente en el contenido visual, los estilosmy los elementos que incorporaremos en nuestro sitio web y página de inicio de DriveSafe. A continuación, exploraremos los siguientes temas:
@@ -747,7 +747,7 @@ Estos aspectos son fundamentales para crear una experiencia cohesiva y efectiva 
 
 <br>
 
-### Organization Systems
+### 4.2.1 Organization Systems
 
 <div style="text-align: justify;">
 En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.
@@ -773,70 +773,70 @@ En nuestra estrategia de diseño, utilizaremos la organización matricial para p
 
 <br>
 
-### Labeling Systems
+### 4.2.2 Labeling Systems
 
 
-### SEO Tags and Meta Tags
-
-
-<br>
-<br>
-
-### Searching Systems
-
+### 4.2.3 SEO Tags and Meta Tags
 
 
 <br>
 <br>
 
-### Navigation Systems
+### 4.2.4 Searching Systems
 
 
 
 <br>
 <br>
 
-## Landing Page UI Design
+### 4.2.5 Navigation Systems
 
-### Landing Page Wireframe
 
 
 <br>
 <br>
 
-### Landing Page Mock-up
+## 4.3 Landing Page UI Design
+
+### 4.3.1 Landing Page Wireframe
 
 
-## Web Applications UX/UI Design
+<br>
+<br>
 
-### Web Applications Wireframes
-
-
-
-### Web Applications Wireflow Diagrams
+### 4.3.2 Landing Page Mock-up
 
 
-### Web Applications Mock-ups
+## 4.4 Web Applications UX/UI Design
+
+### 4.4.1 Web Applications Wireframes
+
+
+
+### 4.4.2 Web Applications Wireflow Diagrams
+
+
+### 4.4.3  Web Applications Mock-ups
 
 
 ------------------------------------------------------------------------------------------------
 
 
 
-### Web Applications User Flow Diagrams
+### 4.4.4 Web Applications User Flow Diagrams
 
 
 ------------------------------------------
 
 
-## Web Applications Prototyping
+## 4.5 Web Applications Prototyping
 
-### Desktop Prototyping
+### 4.5.1 Desktop Prototyping
 
 
-## Domain-Driven Software Architecture
+## 4.6 Domain-Driven Software Architecture
 
-### Software Architecture Context Diagram
+### 4.6.1 Software Architecture Context Diagram
 
 ![diagramacontext](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContextDiagram.png)
 
@@ -844,21 +844,21 @@ En nuestra estrategia de diseño, utilizaremos la organización matricial para p
 
 ![diagramcontainer](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContainerDiagram.png)
 
-### Software Architecture Components Diagrams
+### 4.6.2 Software Architecture Components Diagrams
 
 
 
-## Software Object-Oriented Design
+## 4.7 Software Object-Oriented Design
 
-### Class Diagrams
+### 4.7.1 Class Diagrams
 
-### Class Dictionary
+### 4.7.2 Class Dictionary
 
 
 
-## Database Design
+## 4.8 Database Design
 
-### Database Diagram
+### 4.8.1 Database Diagram
 
 
 
