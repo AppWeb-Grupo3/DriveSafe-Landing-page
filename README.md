@@ -687,30 +687,24 @@ Maria Gonzales quiere buscar
 
 **Overview**
 <br>
-<div style="text-align: justify;">
-Con gran determinación y enfoque, declaramos solemnemente que nuestra misión fundamental es cautivar la atención del usuario. En DriveSafe, no solo aspiramos a ser una solución de seguridad vial confiable, sino también a ser un faro de interés y compromiso para aquellos que nos visitan.
-
-Nuestro objetivo es capturar la curiosidad, despertar el interés y mantener la participación de cada usuario que interactúa con nuestra plataforma. A través de un diseño cuidadosamente elaborado, contenido relevante y una experiencia fluida, nos esforzamos por crear un entorno que no solo informe, sino que también enganche y emocione.
-</div>
+<div style="text-align: justify;">Con gran determinación y enfoque, declaramos solemnemente que nuestra misión fundamental es cautivar la atención del usuario. En DriveSafe, no solo aspiramos a ser una solución de seguridad vial confiable, sino también a ser un faro de interés y compromiso para aquellos que nos visitan.Nuestro objetivo es capturar la curiosidad, despertar el interés y mantener la participación de cada usuario que interactúa con nuestra plataforma. A través de un diseño cuidadosamente elaborado, contenido relevante y una experiencia fluida, nos esforzamos por crear un entorno que no solo informe, sino que también enganche y emocione.</div>
 
 
 **Brand Name:**
 <br>
-<div style="text-align: justify;">
-El nombre seleccionado para nuestra innovadora startup es DriveSafe. Este nombre refleja nuestra misión y compromiso de proporcionar soluciones de seguridad vial confiables y efectivas. DriveSafe representa la seguridad, la responsabilidad y la protección en el entorno de la conducción, y estamos emocionados de llevar adelante esta visión.
-</div>
+<div style="text-align: justify;">El nombre seleccionado para nuestra innovadora startup es DriveSafe. Este nombre refleja nuestra misión y compromiso de proporcionar soluciones de seguridad vial confiables y efectivas. DriveSafe representa la seguridad, la responsabilidad y la protección en el entorno de la conducción, y estamos emocionados de llevar adelante esta visión.</div>
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/67226340-63c1-4041-a445-99e00048fb38)
 
 **Typography**
 <br>
-Para la tipografía hemos elegido las fuentes
+Para la tipografía hemos elegido las siguientes fuentes:
 ![typography](https://github.com/AppWeb-Grupo3/informe/assets/83793319/efde9923-e680-4400-b7e6-3daf84256e7c)
 
 
 **Colors**
 <br>
-Los colores que predominaran en nuestro proyecto serán el azul y blanco.
+Los colores que predominaran en nuestro proyecto serán el azul, naranja y blanco.
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/d81403a8-33ac-48b3-9278-d07919a29e0d)
 
 **Spacing:**
@@ -725,9 +719,7 @@ Los espacios establecidos oscilan entre px y px
 
 
 ### Web Style Guidelines
-<div style="text-align: justify;">
-DriveSafe se desarrollará para plataforma web, por lo tanto, implementaremos un diseño adaptable (Web Responsive Design) con el objetivo de mostrar la información de manera óptima en cualquier tipo de dispositivo, garantizando que el contenido se mantenga intacto para mejorar la experiencia del usuario.
-</div>
+<div style="text-align: justify;">DriveSafe se desarrollará para plataforma web, por lo tanto, implementaremos un diseño adaptable (Web Responsive Design) con el objetivo de mostrar la información de manera óptima en cualquier tipo de dispositivo, garantizando que el contenido se mantenga intacto para mejorar la experiencia del usuario.</div>
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/03469211-2847-4d63-b3a1-9ba09ce01387)
 
