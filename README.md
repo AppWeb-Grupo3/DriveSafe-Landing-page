@@ -719,7 +719,7 @@ Los espacios establecidos oscilan entre px y px
 
 <br>
 
-### Web Style Guidelines
+### 4.2 Web Style Guidelines
 <div style="text-align: justify;">DriveSafe se desarrollará para plataforma web, por lo tanto, implementaremos un diseño adaptable (Web Responsive Design) con el objetivo de mostrar la información de manera óptima en cualquier tipo de dispositivo, garantizando que el contenido se mantenga intacto para mejorar la experiencia del usuario.</div>
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/03469211-2847-4d63-b3a1-9ba09ce01387)
@@ -731,7 +731,7 @@ Además, como equipo, hemos decidido utilizar el patrón de diseño en forma de 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/2bfeaf01-c145-4d61-9cf0-28f5e95cde1e)
 
 
-## 4.2 Information Architecture
+## 4.3 Information Architecture
 
 <div style="text-align: justify;">
 En esta sección, nos centraremos principalmente en el contenido visual, los estilosmy los elementos que incorporaremos en nuestro sitio web y página de inicio de DriveSafe. A continuación, exploraremos los siguientes temas:
@@ -747,7 +747,7 @@ Estos aspectos son fundamentales para crear una experiencia cohesiva y efectiva 
 
 <br>
 
-### 4.2.1 Organization Systems
+### 4.3.1 Organization Systems
 
 <div style="text-align: justify;">
 En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.
@@ -773,70 +773,70 @@ En nuestra estrategia de diseño, utilizaremos la organización matricial para p
 
 <br>
 
-### 4.2.2 Labeling Systems
+### 4.3.2 Labeling Systems
 
 
-### 4.2.3 SEO Tags and Meta Tags
-
-
-<br>
-<br>
-
-### 4.2.4 Searching Systems
-
+### 4.3.3 SEO Tags and Meta Tags
 
 
 <br>
 <br>
 
-### 4.2.5 Navigation Systems
+### 4.3.4 Searching Systems
 
 
 
 <br>
 <br>
 
-## 4.3 Landing Page UI Design
+### 4.3.5 Navigation Systems
 
-### 4.3.1 Landing Page Wireframe
 
 
 <br>
 <br>
 
-### 4.3.2 Landing Page Mock-up
+## 4.4 Landing Page UI Design
+
+### 4.4.1 Landing Page Wireframe
 
 
-## 4.4 Web Applications UX/UI Design
+<br>
+<br>
 
-### 4.4.1 Web Applications Wireframes
-
-
-
-### 4.4.2 Web Applications Wireflow Diagrams
+### 4.4.2 Landing Page Mock-up
 
 
-### 4.4.3  Web Applications Mock-ups
+## 4.5 Web Applications UX/UI Design
+
+### 4.5.1 Web Applications Wireframes
+
+
+
+### 4.5.2 Web Applications Wireflow Diagrams
+
+
+### 4.5.3  Web Applications Mock-ups
 
 
 ------------------------------------------------------------------------------------------------
 
 
 
-### 4.4.4 Web Applications User Flow Diagrams
+### 4.5.4 Web Applications User Flow Diagrams
 
 
 ------------------------------------------
 
 
-## 4.5 Web Applications Prototyping
+## 4.6 Web Applications Prototyping
 
-### 4.5.1 Desktop Prototyping
+### 4.6.1 Desktop Prototyping
 
 
-## 4.6 Domain-Driven Software Architecture
+## 4.7 Domain-Driven Software Architecture
 
-### 4.6.1 Software Architecture Context Diagram
+### 4.7.1 Software Architecture Context Diagram
 
 ![diagramacontext](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContextDiagram.png)
 
@@ -844,21 +844,21 @@ En nuestra estrategia de diseño, utilizaremos la organización matricial para p
 
 ![diagramcontainer](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContainerDiagram.png)
 
-### 4.6.2 Software Architecture Components Diagrams
+### 4.7.2 Software Architecture Components Diagrams
 
 
 
-## 4.7 Software Object-Oriented Design
+## 4.8 Software Object-Oriented Design
 
-### 4.7.1 Class Diagrams
+### 4.8.1 Class Diagrams
 
-### 4.7.2 Class Dictionary
+### 4.8.2 Class Dictionary
 
 
 
-## 4.8 Database Design
+## 4.9 Database Design
 
-### 4.8.1 Database Diagram
+### 4.9.1 Database Diagram
 
 
 
