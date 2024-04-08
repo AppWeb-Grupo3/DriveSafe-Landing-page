@@ -646,7 +646,13 @@ Maria Gonzales quiere buscar
 
 ### Impact Mapping
 
+#####Segmento Arrendatario
+
 ![foto_impact_mapping](https://github.com/AppWeb-Grupo3/informe/blob/415e070e37948856d81fcaa3181903a2c8f397c6/imagenes/Impact_Mapping.png)
+
+#####Segmento Arrendador
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/042df8d4-9c6e-4284-a773-1f9dee0015e4)
 
 <br>
 
