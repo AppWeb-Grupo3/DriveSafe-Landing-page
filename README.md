@@ -148,9 +148,9 @@ https://github.com/AppWeb-Grupo3/informe/tree/main
 
 # Capítulo I: Introducción
 
-## Startup Profile
+## 1.1Startup Profile
 
-### Descripción de la Startup
+### 1.1.1 Descripción de la Startup
 
 Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la industria de alquiler de vehículos mediante el empleo de soluciones tecnológicas innovadoras, nos destacamos por características distintivas como la retención de pagos, seguimiento GPS, una amplia selección de vehículos y un servicio al cliente de primera calidad. Estas características no solo garantizan la seguridad y protección de nuestros clientes, sino que también les proporcionan comodidad y ahorro. Fundada por estudiantes universitarios que tiene el propósito de transformar la experiencia de alquiler de autos a través de la aplicación de tecnología en una experiencia agradable y enfocado en el cliente.
 
@@ -161,7 +161,7 @@ Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la
 **Visión**
 - Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos que se encuentre en el top 10 de dicho nicho en Perú. Asimismo, planeamos expandir nuestros productos a nivel latinoamérica para que más personas puedan disfrutar de estos.
 
-### Perfiles de integrantes del equipo
+### 1.1.2 Perfiles de integrantes del equipo
 
 
 | Integrante                           | Foto | Descripción del Perfil                                                                                          |
@@ -173,9 +173,9 @@ Como ARSSA un startup que se ha propuesto resolver los desafíos inherentes a la
 | Jhan Clinton Antonio Salazar                |![foto jhan](https://github.com/AppWeb-Grupo3/informe/assets/83793319/9a549bfc-d2fa-49fb-805e-33a995146bc7)|EActualmente, soy estudiante de ingeniería de software. Me apasiona la tecnología y el desarrollo de soluciones innovadoras para mejorar la vida de las personas. Estoy emocionado de seguir aprendiendo y creciendo en este campo emocionante y en constante evolución.|
 | || |
 
-## Solution Profile
+## 1.2 Solution Profile
 
-### Antecedentes y problemática
+### 1.2.1 Antecedentes y problemática
 
 El empleo de vehículos se ha vuelto una necesidad en nuestra sociedad, sea para fines recreativos, laborales o personales. Sin embargo, ¿qué ocurre cuando requieres un automóvil y no posees uno? La opción común es alquilarlo, pero esto puede acarrear problemas como tarifas altas, costos ocultos, mantenimiento deficiente o carencia de seguro para el vehículo. Además, hay quienes desean obtener ingresos extra alquilando sus automóviles en períodos de inactividad, pero carecen de un medio seguro para hacerlo o de clientes potenciales. Para atender estos dilemas, se plantea crear una aplicación web en Perú que ofrezca soluciones efectivas a los desafíos mencionados.
 
@@ -207,16 +207,16 @@ El empleo de vehículos se ha vuelto una necesidad en nuestra sociedad, sea para
 
   Estos problemas pueden ser costosos tanto en términos financieros como en tiempo y esfuerzo dedicados a resolverlos. Por ejemplo, una garantía no reembolsada puede representar una pérdida significativa de dinero para un arrendatario. Por eso, es fundamental contar con una plataforma confiable que minimice estos riesgos para ambas partes involucradas en el proceso de alquiler de vehículos.
 
-### Lean UX Process
+### 1.2.2 Lean UX Process
 
-#### Lean UX Problem Statements
+#### 1.2.2.1 Lean UX Problem Statements
 
 El alquiler de automóviles conlleva diversos riesgos tanto para el arrendatario como para el arrendador. Estos riesgos van desde fallas técnicas en los vehículos hasta casos de estafa, lo que repercute negativamente en la confianza en el negocio de alquiler de autos. Los problemas mencionados anteriormente son solo una muestra de cómo tanto arrendatarios como arrendadores buscan mayor seguridad y transparencia en el proceso. Tras analizar esta situación, se ha formulado la siguiente pregunta como base para abordar esta problemática:
 
 
 **_¿Qué medidas podemos implementar para asegurar la seguridad y la transparencia tanto para quienes alquilan como para quienes ofrecen autos en alquiler?_**
 
-#### Lean UX Assumptions
+#### 1.2.2.2 Lean UX Assumptions
 
 **Business Outcomes**
 
@@ -248,7 +248,7 @@ El alquiler de automóviles conlleva diversos riesgos tanto para el arrendatario
 - **¿Cómo debe ser la apariencia y el comportamiento de nuestro producto?**  
   La apariencia de nuestro producto debe reflejar su objetivo de ser fácil de usar y comprender para todos los usuarios. La interfaz debe ser limpia, organizada y visualmente atractiva, con elementos intuitivos que guíen al usuario a través de los diferentes pasos del proceso de alquiler o colocar en alquiler el vehículo.
 
-#### Lean UX Hypothesis Statements
+#### 1.2.2.3 Lean UX Hypothesis Statements
 
 **Hipótesis 1**
 
@@ -270,7 +270,7 @@ Creemos que la prestación de un servicio al cliente rápido y efectivo mejorar�
 
 Creemos que la transparencia en las políticas de precios y condiciones de alquiler aumentará la confianza del cliente en la plataforma. Confirmaremos esto si observamos un aumento del 15% en las reseñas positivas.
 
-#### Lean UX Canvas
+#### 1.2.2.4 Lean UX Canvas
 
 <table>
             <tr>
@@ -323,7 +323,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 <br><br>
 
 
-## Segmentos objetivo
+## 1.3 Segmentos objetivo
 
 **Se identificaron dos  segmentos objetivos**
 
@@ -334,9 +334,9 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 # Capítulo II: Requirements Elicitation & Analysis
 
-## Competidores
+## 2.1 Competidores
 
-### Análisis competitivo
+### 2.1.2 Análisis competitivo
 
 <table border="1">
   <thead>
@@ -440,7 +440,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
   </tbody>
 </table>
 
-### Estrategias y tácticas frente a competidores
+### 2.2.2 Estrategias y tácticas frente a competidores
 
 - Continuar innovando en características distintivas como la retención de pagos, seguimiento GPS y servicio al cliente de primera calidad para destacar la propuesta de valor única de DriveShare en comparación con sus competidores.
 - Priorizar la satisfacción del cliente a través de un servicio personalizado, atención al cliente ágil y resolución rápida de problemas.
@@ -451,9 +451,9 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 
 
-## Entrevistas
+## 2-2 Entrevistas
 
-### Diseño de entrevistas
+### 2.2.1 Diseño de entrevistas
 
 **Preguntas Generales para Ambos Segmentos:**
 
@@ -485,7 +485,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 -   ¿Usted estaría interesado en poner en alquiler su auto por medio de una aplicación web móvil?
 
 
-### Registro de entrevistas
+### 2.2.2 Registro de entrevistas
 
 
 **Arrendatarios**
@@ -503,7 +503,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 **Entrevista 5**
 
 
-### Análisis de entrevistas
+### 2.2.3 Análisis de entrevistas
 
 **Arrendatarios**
 
@@ -511,9 +511,9 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 **Arrendadores**
 
 
-## Needfinding
+## 2.3 Needfinding
 
-### User Personas
+### 2.3.1 User Personas
 
 Con el objetivo de realizar una investigación exhaustiva sobre los segmentos objetivo al cual estará dirigido nuestra e-commerce, se llevó a cabo un proceso el cual acaba en los User Persona que representan a estos individuos.
 
@@ -526,7 +526,7 @@ Con el objetivo de realizar una investigación exhaustiva sobre los segmentos ob
 ![foto_user_story_2](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/user%20story%20arrendador.png)
 
 
-### User Task Matrix
+### 2.3.2 User Task Matrix
 
 En la redacción de los User Task matrix se toma en cuenta los segmentos antes mencionados
 
@@ -560,7 +560,7 @@ Arrendador
 | Dar por finalizado el alquiler |   Siempre  | Alta   |
 | Analizar informes y métricas de rendimiento |  A veces   |  Media   |
 
-### User Journey Mapping
+### 2.3.3 User Journey Mapping
 
 Aquí se presentan los User Journey Maps creados para los grupos objetivo de Arrendatarios y Arrendadores, con el propósito de alquiler de un vehículo.
 
@@ -573,7 +573,7 @@ Aquí se presentan los User Journey Maps creados para los grupos objetivo de Arr
 ![foto_user_journey_map_2](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendador_userjourneymapping.jpeg)
 
 
-### Empathy Mapping
+### 2.3.4 Empathy Mapping
 
 Aquí se presentan los Empathy Maps elaborados para cada segmento objetivo.
 
@@ -581,7 +581,11 @@ Aquí se presentan los Empathy Maps elaborados para cada segmento objetivo.
 
 ![foto_empahty_map_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/arrendatario_empathy%20map.jpeg)
 
-### As-is Scenario Mapping
+**Segmento Arrendador**
+![arrendador_empathy map](https://github.com/AppWeb-Grupo3/informe/assets/83793319/b7e38baa-0275-4753-a40d-26c1322df17c)
+
+
+### 2.3.5 As-is Scenario Mapping
 
 **Arrendatario**
 
@@ -605,10 +609,10 @@ Maria Gonzales quiere buscar
 
 # Capítulo III: Requirements Specification
 
-## To-Be Scenario Mapping
+## 3.1 To-Be Scenario Mapping
 
 
-#### **Usuario: Propietario**
+#### 3.1.1 **Usuario: Propietario**
 
 | STEPS | Encuentra arrendatarios que están interesados en el alquiler del auto | Se comunica con el arrendatario interesado | Se encuentra con el arrendatario en el lugar acordado | Entrega del auto | 
 | ------------- | ------ | ----- | ---- | - |
@@ -617,7 +621,7 @@ Maria Gonzales quiere buscar
 | FEELING | Una emoción de alegría al ver que hay personas interesadas en alquilar un auto | Asombrado por la facilidad de comunicación | Alivio al ver que puede alquilar el auto sin tanto demora | Emocionado de ver que pudo conseguir arrendar sin gastar tiempo |
 
 
-#### **Usuario: Arrendatario**
+#### 3.1.2 **Usuario: Arrendatario**
 
 | STEPS | Buscar un propietario que aquile un auto  | Se comunica con el propietario | Se encuentra con el propietario para ver el auto | Recojo del auto alquilado | 
 | ------------- | ------ | ----- | ---- | - |
@@ -627,7 +631,7 @@ Maria Gonzales quiere buscar
 
 <br>
 
-### User Stories
+## 3.2 User Stories
 
 | User Story ID | Titulo | Descripcion | Criterios de Aceptacion |
 | ------------- | ------ | ----- | ---- |
@@ -644,7 +648,7 @@ Maria Gonzales quiere buscar
 
 <br>
 
-### Impact Mapping
+## 3.3 Impact Mapping
 
 #####Segmento Arrendatario
 
@@ -656,7 +660,7 @@ Maria Gonzales quiere buscar
 
 <br>
 
-### Product Backlog
+## 3.4 Product Backlog
 
 
 | #Orden | User Story ID | Titulo | Descripción | Story Points |
@@ -677,9 +681,9 @@ Maria Gonzales quiere buscar
 # Capítulo IV: Product Design
 
 
-## Style Guidelines
+## 4.1 Style Guidelines
 
-### General Style Guidelines
+### 4.1.1 General Style Guidelines
 
 **Overview:**
 <div style="text-align: justify;">
