@@ -686,69 +686,48 @@ Maria Gonzales quiere buscar
 ### 4.1.1 General Style Guidelines
 
 **Overview:**
-<div style="text-align: justify;">
 Nuestra misión es cautivar la atención del usuario
-.</div>
-
-<br>
 
 **Brand Name:**
-<div style="text-align: justify;">
 El nombre elegido a nuestra start up es DriveShare
-</div>
 
-<br>
 
 **Typography:**
-<div style="text-align: justify;">
 Para la tipografía hemos elegido las fuentes
-</div>
+![typography](https://github.com/AppWeb-Grupo3/informe/assets/83793319/efde9923-e680-4400-b7e6-3daf84256e7c)
 
-<p align="center">
-  <img src="" alt="Descripción de la imagen" width="400" />
-</p>
-
-
-<br>
 
 **Colors:**
-<div style="text-align: justify;">
 Los colores que predominaran en nuestro proyecto serán el azul y blanco.
-</div>
-
-<p align="center">
-  <img src="" alt="Descripción de la imagen" width="400" />
-</p>
-<br>
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/d81403a8-33ac-48b3-9278-d07919a29e0d)
 
 **Spacing:**
-<div style="text-align: justify;">
 Los espacios establecidos oscilan entre px y px
-</div>
+![space](https://github.com/AppWeb-Grupo3/informe/assets/83793319/60bb1c02-9403-4974-9647-6a964f666e6e)
 
-<p align="center">
-  <img src="" alt="Descripción de la imagen" width="400" />
-</p>
-
-<br>
 
 **Botton:**
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/4b487168-8a7e-4436-b030-cbfdf3a77b85)
 
-<p align="center">
-  <img src="" alt="Descripción de la imagen" width="400" />
-</p>
-
-<br>
-<br>
 
 ### Web Style Guidelines
+<div style="text-align: justify;">
+DriveSafe se desarrollará para plataforma web, por lo tanto, implementaremos un diseño adaptable (Web Responsive Design) con el objetivo de mostrar la información de manera óptima en cualquier tipo de dispositivo, garantizando que el contenido se mantenga intacto para mejorar la experiencia del usuario.
+</div>
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/03469211-2847-4d63-b3a1-9ba09ce01387)
+
+<div style="text-align: justify;">
+Además, como equipo, hemos decidido utilizar el patrón de diseño en forma de Z en el sitio web de DriveSafe. Esta técnica de diseño web resulta efectiva para mejorar la experiencia del usuario al dirigir su atención hacia los elementos clave y potenciar la eficacia del contenido en la página. Por lo general, colocamos el logotipo de DriveSafe en la esquina superior izquierda para que sea lo primero que capte la atención del usuario. Justo en frente, en la esquina superior derecha, ubicamos el menú de navegación, acompañado de un llamado a la acción que se destaca.
+</div>
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/2bfeaf01-c145-4d61-9cf0-28f5e95cde1e)
 
 
 ## Information Architecture
 
 <div style="text-align: justify;">
-Esta sección se centra principalmente en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra página web y landing page de AutoYa!. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
+Esta sección se centra principalmente en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra página web y landing page de DriveSafe. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
 </div>
 
 <br>
