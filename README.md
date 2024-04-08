@@ -742,15 +742,13 @@ En esta sección, nos centraremos principalmente en el contenido visual, los est
 4. **Sistemas de Búsqueda**
 5. **Sistemas de Navegación**
 
-Estos aspectos son fundamentales para crear una experiencia cohesiva y efectiva para los usuarios que visiten nuestro sitio web.
-</div>
+Estos aspectos son fundamentales para crear una experiencia cohesiva y efectiva para los usuarios que visiten nuestro sitio web.</div>
 
 <br>
 
 ### 4.3.1 Organization Systems
 <div style="text-align: justify;">
-En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.
-</div>
+En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.</div>
 
 <br>
 
@@ -776,7 +774,25 @@ En nuestra estrategia de diseño, utilizaremos la organización matricial para p
 <br>
 
 ### 4.3.2 Labeling Systems
+<div style="text-align: justify;">
+En el contexto de DriveSafe, los sistemas de etiquetado desempeñan un papel fundamental en la organización y accesibilidad de la información en nuestra plataforma. Estos nombres se encuentran en enlaces, menús y pie de página, así como en encabezados que indican la jerarquía de la información. Son esenciales para permitir a los usuarios navegar fácilmente por nuestro sitio web y encontrar la información que necesitan.
+Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, lo que significa que deben cumplir con los siguientes objetivos:</div>
 
+<br>
+
+* **Nivel de Experiencia de Usuario (UX):** Las etiquetas proporcionarán información y contexto claros para que los usuarios comprendan la función de los elementos etiquetados.
+<br>
+
+* **Nivel SEO:** Utilizaremos el etiquetado interno para enlazar las páginas de DriveSafe de manera que tengan sentido entre sí, mejorando así la optimización de motores de búsqueda.
+<br>
+  
+* **Palabras Clave y Etiquetado Adecuado:** Cada página de DriveSafe contendrá palabras clave relevantes y un etiquetado apropiado para distribuir los términos de manera efectiva y evitar la competencia interna entre páginas.
+
+<br>
+
+* **Impacto de las Etiquetas en Menús y Bloques Estáticos:** Reconocemos que las palabras clave contenidas en los menús y en los bloques estáticos tienen un mayor impacto en la navegación y visibilidad de DriveSafe.
+
+<br>
 
 ### 4.3.3 SEO Tags and Meta Tags
 
