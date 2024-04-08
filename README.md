@@ -796,19 +796,22 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 
 #### 4.3.2.1 Tipos de Etiquetas:
 
-<div style="text-align: justify;"> **Etiquetas Contextuales:** Estas etiquetas describen los enlaces en DriveSafe y son cruciales para conectar diferentes partes de la plataforma. Sin embargo, elegiremos cuidadosamente las palabras para estas etiquetas para evitar ambigüedades y garantizar que los usuarios comprendan el contenido al hacer clic en ellas. </div>
+<div style="text-align: justify;"> 
+    **Etiquetas Contextuales:** Estas etiquetas describen los enlaces en DriveSafe y son cruciales para conectar diferentes partes de la plataforma. Sin embargo, elegiremos cuidadosamente las palabras para estas etiquetas para evitar ambigüedades y garantizar que los usuarios comprendan el contenido al hacer clic en ellas. </div>
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/9fc8882d-c7e2-4122-bdd9-620a207800ca)
 
 <br>
 
-<div style="text-align: justify;"> **Etiquetas de Encabezado:** Las etiquetas de encabezado serán utilizadas para indicar la temática y jerarquía de contenido en DriveSafe. Al igual que en un libro, los encabezados ayudan a diferenciar las secciones del contenido y su importancia relativa.</div>
+<div style="text-align: justify;"> 
+    **Etiquetas de Encabezado:** Las etiquetas de encabezado serán utilizadas para indicar la temática y jerarquía de contenido en DriveSafe. Al igual que en un libro, los encabezados ayudan a diferenciar las secciones del contenido y su importancia relativa.</div>
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/de773db9-c702-4d16-a5d9-563594b8149d)
 
 <br>
 
-<div style="text-align: justify;"> **Etiquetas con Parámetro ALT:** En DriveSafe, las etiquetas con parámetro ALT se emplearán para proporcionar descripciones alternativas a las imágenes en nuestra plataforma. Estas descripciones son esenciales para la accesibilidad web, ya que permiten a usuarios con tecnologías de asistencia, como lectores de pantalla, comprender el contenido de las imágenes cuando estas no se pueden cargar o visualizar.</div>
+<div style="text-align: justify;"> 
+    **Etiquetas con Parámetro ALT:** En DriveSafe, las etiquetas con parámetro ALT se emplearán para proporcionar descripciones alternativas a las imágenes en nuestra plataforma. Estas descripciones son esenciales para la accesibilidad web, ya que permiten a usuarios con tecnologías de asistencia, como lectores de pantalla, comprender el contenido de las imágenes cuando estas no se pueden cargar o visualizar.</div>
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/7c1c416b-623e-44a5-a937-3d177c8cb0fc)
 
