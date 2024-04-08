@@ -734,37 +734,43 @@ Además, como equipo, hemos decidido utilizar el patrón de diseño en forma de 
 ## Information Architecture
 
 <div style="text-align: justify;">
-Esta sección se centra principalmente en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra página web y landing page de DriveSafe. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
+En esta sección, nos centraremos principalmente en el contenido visual, los estilosmy los elementos que incorporaremos en nuestro sitio web y página de inicio de DriveSafe. A continuación, exploraremos los siguientes temas:
+
+1. **Sistemas de Organización**
+2. **Sistemas de Etiquetado**
+3. **Etiquetas de SEO y Metaetiquetas**
+4. **Sistemas de Búsqueda**
+5. **Sistemas de Navegación**
+
+Estos aspectos son fundamentales para crear una experiencia cohesiva y efectiva para los usuarios que visiten nuestro sitio web.
 </div>
 
-<br>
 <br>
 
 ### Organization Systems
 
 <div style="text-align: justify;">
-Para los sistemas de organización, hemos decidido considerar la estructuración del contenido con un encabezado (header) donde las secciones a las que el usuario puede acceder se agrupen de manera clara. De esta forma, el usuario sabrá dónde hacer clic para acceder a las secciones correspondientes de AutoYa!.
+En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.
 </div>
 
 * **Organización Visual del Contenido (Visual Hierarchy):**
 
 <div style="text-align: justify;">
-Utilizaremos la organización visual jerárquica para resaltar la información más relevante y ayudar a los usuarios a navegar de manera eficiente. Esto se aplicará en la presentación de vehículos disponibles, tarifas y reseñas de otros usuarios.
+En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.
 </div>
 
 * **Organización Secuencial (Step-by-Step to Accomplish):**
 
 <div style="text-align: justify;">
-Implementaremos la organización secuencial para guiar a los usuarios a través de procesos clave, como la reserva de un auto o el registro en la plataforma. Esto garantiza que los usuarios puedan completar tareas de manera intuitiva.
+En nuestra estrategia de diseño, hemos optado por guiar a los usuarios a través de procesos clave utilizando una organización secuencial. Esto se aplicará a tareas como la reserva de un auto o el registro en la plataforma. Nuestro objetivo es garantizar que los usuarios puedan completar estas acciones de manera intuitiva y sin complicaciones.
 </div>
 
 * **Organización Matricial (Matrix Organization):**
 
 <div style="text-align: justify;">
-La organización matricial se empleará para mostrar comparaciones entre diferentes opciones, como la disponibilidad de autos en diferentes ubicaciones y fechas. Esto permite a los usuarios tomar decisiones informadas.
+En nuestra estrategia de diseño, utilizaremos la organización matricial para presentar comparaciones entre diferentes opciones. Por ejemplo, mostraremos la disponibilidad de autos en diferentes ubicaciones y fechas en una matriz. Esto permitirá a los usuarios tomar decisiones informadas al evaluar las opciones disponibles
 </div>
 
-<br>
 <br>
 
 ### Labeling Systems
