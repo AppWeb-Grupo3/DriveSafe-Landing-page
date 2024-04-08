@@ -823,14 +823,11 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 
 * **Title(Título):** El título de una página es crucial tanto para los motores de búsqueda como para los usuarios. Utilizaremos títulos descriptivos y atractivos para cada página, que reflejen claramente su contenido y propósito.
 
-![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/7c1c416b-623e-44a5-a937-3d177c8cb0fc)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/ef5b4e04-f0db-45ab-9f6d-c38dd2ad3341)
 
 <br>
 
 * **Meta Tags de Descripción (Meta Description):** Las meta descripciones son breves resúmenes que aparecen en los resultados de búsqueda. Utilizaremos meta descripciones claras y concisas que inviten a los usuarios a hacer clic en nuestro sitio. La meta descripción es "Descubre una amplia gama de autos disponibles para alquilar en DriveSafe y planifica tu próximo viaje con facilidad."
-
-![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/fd47bb77-f0be-47c4-b26b-6abd1a3df785)
-
 <br>
   
 * **Meta Tags de Palabras Clave (Keywords):**  Aunque el enfoque en las palabras clave ha evolucionado en el SEO, aún consideraremos palabras clave relevantes para cada página y las incluiremos en los meta tags de keywords cuando sea apropiado. Esto ayudará a los motores de búsqueda a entender mejor el contenido de nuestras páginas.
