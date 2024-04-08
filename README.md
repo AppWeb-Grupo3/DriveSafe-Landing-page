@@ -685,28 +685,42 @@ Maria Gonzales quiere buscar
 
 ### 4.1.1 General Style Guidelines
 
-**Overview:**
-Nuestra misión es cautivar la atención del usuario
+**Overview**
+<br>
+<div style="text-align: justify;">
+Con gran determinación y enfoque, declaramos solemnemente que nuestra misión fundamental es cautivar la atención del usuario. En DriveSafe, no solo aspiramos a ser una solución de seguridad vial confiable, sino también a ser un faro de interés y compromiso para aquellos que nos visitan.
+
+Nuestro objetivo es capturar la curiosidad, despertar el interés y mantener la participación de cada usuario que interactúa con nuestra plataforma. A través de un diseño cuidadosamente elaborado, contenido relevante y una experiencia fluida, nos esforzamos por crear un entorno que no solo informe, sino que también enganche y emocione.
+</div>
+
 
 **Brand Name:**
-El nombre elegido a nuestra start up es DriveShare
+<br>
+<div style="text-align: justify;">
+El nombre seleccionado para nuestra innovadora startup es DriveSafe. Este nombre refleja nuestra misión y compromiso de proporcionar soluciones de seguridad vial confiables y efectivas. DriveSafe representa la seguridad, la responsabilidad y la protección en el entorno de la conducción, y estamos emocionados de llevar adelante esta visión.
+</div>
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/67226340-63c1-4041-a445-99e00048fb38)
 
-**Typography:**
+**Typography**
+<br>
 Para la tipografía hemos elegido las fuentes
 ![typography](https://github.com/AppWeb-Grupo3/informe/assets/83793319/efde9923-e680-4400-b7e6-3daf84256e7c)
 
 
-**Colors:**
+**Colors**
+<br>
 Los colores que predominaran en nuestro proyecto serán el azul y blanco.
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/d81403a8-33ac-48b3-9278-d07919a29e0d)
 
 **Spacing:**
+<br>
 Los espacios establecidos oscilan entre px y px
 ![space](https://github.com/AppWeb-Grupo3/informe/assets/83793319/60bb1c02-9403-4974-9647-6a964f666e6e)
 
 
 **Botton:**
+<br>
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/4b487168-8a7e-4436-b030-cbfdf3a77b85)
 
 
