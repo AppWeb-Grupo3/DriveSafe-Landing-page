@@ -748,25 +748,27 @@ Estos aspectos son fundamentales para crear una experiencia cohesiva y efectiva 
 <br>
 
 ### 4.3.1 Organization Systems
-
 <div style="text-align: justify;">
 En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.
 </div>
+
+<br>
 
 * **Organización Visual del Contenido (Visual Hierarchy):**
-
 <div style="text-align: justify;">
 En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.
 </div>
 
-* **Organización Secuencial (Step-by-Step to Accomplish):**
+<br>
 
+* **Organización Secuencial (Step-by-Step to Accomplish):**
 <div style="text-align: justify;">
 En nuestra estrategia de diseño, hemos optado por guiar a los usuarios a través de procesos clave utilizando una organización secuencial. Esto se aplicará a tareas como la reserva de un auto o el registro en la plataforma. Nuestro objetivo es garantizar que los usuarios puedan completar estas acciones de manera intuitiva y sin complicaciones.
 </div>
 
-* **Organización Matricial (Matrix Organization):**
+<br>
 
+* **Organización Matricial (Matrix Organization):**
 <div style="text-align: justify;">
 En nuestra estrategia de diseño, utilizaremos la organización matricial para presentar comparaciones entre diferentes opciones. Por ejemplo, mostraremos la disponibilidad de autos en diferentes ubicaciones y fechas en una matriz. Esto permitirá a los usuarios tomar decisiones informadas al evaluar las opciones disponibles
 </div>
