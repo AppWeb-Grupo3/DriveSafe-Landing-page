@@ -1222,18 +1222,18 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
 |Repository|Branch| Commit ID| Commit Message |
 |----|----|----|----|
 |https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 0dc928745858b4e0a5c06575b075d499817c3598 | Update Development Evidence for Sprint Review |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 0b912d22277b657e55782a3291d3ae21fad4abf8 | Update Sprint Planning 1 |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | fa57166af02dfd923e453902ddd55f53173d3a73 | Add Sprint Backlog 1 |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 0f12e60759ad08ff27faa11303219daf64e75573 | Update Spring Planning 1 |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | ade5da8678b864b888d18920f5bcec49d6fe09b7 | Add Sprint Planning 1 |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 01462f7ebc8d772902899fe68fcfd1453323aba9 | Update Project Report.md |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 57c74ad8872cffeca02c5c84a83660b264332d6e | Update README.md |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 06db01d225cee7b35f40fa9f1ba914d06aa4fa3d | Update Project Report.md |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 05ed8f34bb96d60407520ba644cfd2c23f2e22f0 | Add Architecture Component Diagram |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 935f937eca37489893bb8728e842bdd1be8b0843 | Add files via upload |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 9976d27f0e882082994c99a5fe44a904e4bc1265 | Update Domain Driven Software Architecture |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | dd854ac9f68067adb16904fcbe1d205c8fbe4422 | Update Content Diagrams |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 1fdc819e3d64f9c5cc2986e06b699f19bf052886 | Merge branch 'main' of https://github.com/AppWeb-Grupo3/informe |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
-|[ ](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)| | 654cc4a2d56455f74723e3f26ef429eb668719aa | Add Chapter 4 |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 0b912d22277b657e55782a3291d3ae21fad4abf8 | Update Sprint Planning 1 |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | fa57166af02dfd923e453902ddd55f53173d3a73 | Add Sprint Backlog 1 |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 0f12e60759ad08ff27faa11303219daf64e75573 | Update Spring Planning 1 |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | ade5da8678b864b888d18920f5bcec49d6fe09b7 | Add Sprint Planning 1 |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 01462f7ebc8d772902899fe68fcfd1453323aba9 | Update Project Report.md |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 57c74ad8872cffeca02c5c84a83660b264332d6e | Update README.md |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 06db01d225cee7b35f40fa9f1ba914d06aa4fa3d | Update Project Report.md |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 05ed8f34bb96d60407520ba644cfd2c23f2e22f0 | Add Architecture Component Diagram |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 935f937eca37489893bb8728e842bdd1be8b0843 | Add files via upload |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 9976d27f0e882082994c99a5fe44a904e4bc1265 | Update Domain Driven Software Architecture |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | dd854ac9f68067adb16904fcbe1d205c8fbe4422 | Update Content Diagrams |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 1fdc819e3d64f9c5cc2986e06b699f19bf052886 | Merge branch 'main' of https://github.com/AppWeb-Grupo3/informe |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
+|https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| | 654cc4a2d56455f74723e3f26ef429eb668719aa | Add Chapter 4 |
 
