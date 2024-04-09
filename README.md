@@ -1120,6 +1120,61 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 #### Sprint Planning 1
 
+Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
 
+<table>
+  <tr>
+    <th colspan="2">Sprint Planning</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>28/3/2024</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>05:00 P.M</td>
+  </tr><table>
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Planning</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Date</td>
+    <td>28/3/2024</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Time</td>
+    <td>05:00 P.M</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Point</td>
+    <td>Reunión por Google Meet</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Prepared By</td>
+    <td>Leonel Alfaro Cumba</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Assistants</td>
+    <td>
+      <ul>
+        <li>Nelson Elías Serrano Ircañaupa</li>
+        <li>Carlos Andres Rojas Ccama</li>
+        <li>Jhan Clinton Antonio Salazar</li>
+        <li>Luis Enrique Aquije Quiroga</li>
+        <li>Leonel Alfaro sdfdsfdCumba</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Goal</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">Implementar una landing page sobre DriveSafe a su vez completando el informe de acuerdo a lo que se nos solicita</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Spring n Velocity</td>
+    <td>12 días</td>
+  </tr>
+</table>
 
 
