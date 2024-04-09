@@ -1237,7 +1237,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
 |https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| feature/main | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
 |https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| feature/main | 654cc4a2d56455f74723e3f26ef429eb668719aa | Add Chapter 4 |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 - Utilización de Live Server de Microsoft Visual Studio Code 
 
@@ -1255,3 +1255,19 @@ Esta herramienta proporcionó un entorno de desarrollo amigable para simular dif
 
 Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS y el diseño responsivo.
 
+
+#### 5.2.1.5. Execution Evidence for Sprint 1 Review
+
+#### 5.2.1.6 Services Documentation Evidence for Sprint 1 Review.
+
+Webstorm: Se optó por utilizar Webstorm como el Entorno Integrado de Desarrollo (IDE) principal para el desarrollo del landing page. Webstorm ofrece una amplia gama de características y funcionalidades que facilitan la escritura de código, la depuración y la gestión de proyectos.
+
+JavaScript:Se hizo uso de JavaScript, concretamente TypeScript, para dotar de interactividad y lógica a los diversos componentes del landing page.
+
+GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git. GitHub ofrece una serie de ventajas significativas, como la capacidad de colaborar de manera efectiva en equipo.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint 1 Review
+
+se desplego la primera versión de nuestra LandingPage, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentando en esta landing será adecuadamente corregido en futuras entregas.
+
+URL: https://appweb-grupo3.github.io/informe/
