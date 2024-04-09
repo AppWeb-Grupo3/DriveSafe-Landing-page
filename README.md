@@ -1293,4 +1293,15 @@ URL: https://appweb-grupo3.github.io/informe/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint 1
 
-      
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/71437732-f614-417d-99ce-fadd6b6dfcf7)
+
+| Nombre                            | Actividad    |
+|-----------------------------------|------------|
+| Nelson Elías Serrano Ircañaupa | Implementación de la sección header de la landing page y realización del informe  |
+| Carlos Andres Rojas Ccama | Implementación de la sección testimonos y realización del informe |
+| Jhan Clinton Antonio Salazar |  Implementación de la sección acerca de la empresa y realización del informe|
+| Luis Enrique Aquije Quiroga       |  Implementación de la sección contacto y realización del informe|
+| Leonel Alfaro sdfdsfdCumba         | Implementación de la sección footer, responsive y realización del informe|
+
+
+
