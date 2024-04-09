@@ -837,17 +837,60 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 <br>
 
 ### 4.3.4 Searching Systems
-
-
-
-<br>
-<br>
-
-### 4.3.5 Navigation Systems
-
-
+<div style="text-align: justify;"> En DriveSafe, hemos creado un sistema de búsqueda integral para ayudar a los usuarios a encontrar de manera eficiente el vehículo de alquiler que mejor se adapte a sus necesidades. A continuación, explicamos cómo hemos diseñado nuestro sistema de búsqueda para evitar que los usuarios se sientan abrumados por la cantidad de información y cómo lucirán los datos después de la búsqueda:</div>
 
 <br>
+
+#### 4.3.4.1 Opciones de búsqueda:
+<div style="text-align: justify;">  Nuestro sistema de búsqueda está diseñado para ser rápido y preciso. Los usuarios pueden ingresar criterios específicos (como ubicación, fechas y preferencias de vehículo) para obtener resultados relevantes de manera ágil. Esto permite a los usuarios refinar su búsqueda según sus preferencias específicas.</div>
+    
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/47a7d42e-5abd-420e-8bbc-4da49f6874a9)
+
+<br>
+#### 4.3.5 Navigation System
+
+<div style="text-align: justify;"> En DriveSafe, hemos diseñado un sistema de navegación intuitivo y eficiente que guía a nuestros usuarios a través de nuestro Landing Page y aplicaciones, permitiéndoles alcanzar sus metas y interactuar satisfactoriamente con nuestro producto. A continuación, explicamos cómo los usuarios navegarán por nuestro contenido:</div>
+
+<br>
+
+#### 4.3.5.1 Barra de Navegación
+
+<div style="text-align: justify;"> Hemos implementado una barra de navegación en la parte superior de nuestra plataforma que ofrece tres opciones principales:</div>
+
+* **Inicio:**
+<div style="text-align: justify;">  Esta opción llevará a los usuarios de regreso a la página de inicio, donde podrán comenzar su experiencia en AutoYa! o volver a explorar las opciones disponibles.</div>
+
+<br>
+
+* **Buscar Autos:**
+<div style="text-align: justify;"> Los usuarios pueden hacer clic en esta opción para acceder a nuestro sistema de búsqueda integral, donde podrán especificar sus preferencias y encontrar el vehículo de alquiler perfecto.</div>
+
+<br>
+
+* **Mantenimiento:**
+
+<div style="text-align: justify;">  Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimiento de tareas de mantenimiento. </div>
+  
+<br>
+
+* **Alquiler:**
+
+<div style="text-align: justify;">  Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimEsta opción permite a los usuarios explorar opciones de alquiler de vehículos, ver detalles y realizar reservas:
+
+  
+<br> 
+
+* **Solicitudes:**
+<div style="text-align: justify;"> En esta sección, los usuarios pueden acceder a sus solicitudes de alquiler y realizar un seguimiento de los detalles importantes relacionados con sus reservas:
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/e816c747-87a4-4b5c-8fea-94828863aea5)
+
+<br>
+<div style="text-align: justify;"> Nuestro sistema de navegación en DriveSafe se ha diseñado pensando en la comodidad y la eficiencia del usuario. Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea buscar un auto, programar un servicio de mantenimiento, hacer una reserva o realizar un seguimiento de sus solicitudes de alquiler, y nuestro sistema de navegación les brinda las herramientas para hacerlo de manera efectiva.
+
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/e816c747-87a4-4b5c-8fea-94828863aea5)
+
 <br>
 
 ## 4.4 Landing Page UI Design
