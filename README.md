@@ -989,9 +989,9 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
-## Software Configuration Management
+## 5.1 Software Configuration Management
 En esta sección, el equipo define las decisiones y estándares para garantizar la coherencia durante todo el proceso de desarrollo del software. Esto incluye aspectos como la administración del código fuente, la configuración del entorno de desarrollo y la configuración de la implementación.
-### Software Development Environment Configuration
+### 5.1.1 Software Development Environment Configuration
 
 * **Project Management** 
 
@@ -1010,7 +1010,7 @@ En esta sección, el equipo define las decisiones y estándares para garantizar 
 
 
     
-### Source Code Management
+### 5.1.2 Source Code Management
 
 A continuación, presentaremos la gestión del código fuente que planeamos realizar para este proyecto. Está gestión nos permitirá realizar el seguimiento y control de los múltiples cambios y modificaciones que se realice cualquier integrante del equipo, a lo largo de la vida útil del proyecto. Además, cabe destacar que para este proyecto se creará un repositorio en GitHub, donde se realizará el control de versiones.
 
@@ -1036,7 +1036,7 @@ Estas ramas siempre tienen un tiempo de vida limitado, debido a que una vez se t
 
 * Rama Hotfix: Esta rama surge de la rama principal Máster y se utilizan para corregir rápidamente los problemas y errores que se presentaron en el código fuente publicado en la rama Master. Una vez se haya terminado de trabajar con la rama Hotfix, se deberá fusionar con las ramas Máster y Develop.
 
-### Source Code Style Guide & Conventions
+### 5.1.3 Source Code Style Guide & Conventions
 
 * HTML:
 
@@ -1109,16 +1109,16 @@ Estas ramas siempre tienen un tiempo de vida limitado, debido a que una vez se t
   line-height: 1.2;<br>
   font-family: Arial, sans-serif;
 
-### Software Deployment Configuration
+### 5.1.4 Software Deployment Configuration
 Para implementar el despliegue de la página de inicio del proyecto, optaremos por GitHub Pages, una plataforma que GitHub proporciona para alojar sitios web estáticos directamente desde un repositorio. Por esta razón, hemos iniciado creando un repositorio donde cargaremos las diferentes versiones que desarrollaremos en el proyecto.
 
 
 
-## Landing Page, Services & Applications Implementation
+## 5.2 Landing Page, Services & Applications Implementation
 
-### Sprint 1
+### 5.2.1 Sprint 1
 
-#### Sprint Planning 1
+#### 5.2.1.1 Sprint Planning 1
 
 Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
 
@@ -1167,7 +1167,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
   </tr>
 </table>
 
-#### Sprint Backlog 1
+#### 5.2.1.2 Sprint Backlog 1
 
 <table>
         <thead>
@@ -1216,7 +1216,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
       </tbody>
   </table>
 
-#### Development Evidence for Sprint Review
+#### 5.2.1.3 Development Evidence for Sprint Review
 
 
 |Repository|Branch| Commit ID| Commit Message |
