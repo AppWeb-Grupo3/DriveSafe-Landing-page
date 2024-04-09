@@ -1167,4 +1167,51 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
   </tr>
 </table>
 
+#### Sprint Backlog 1
 
+<table>
+        <thead>
+            <tr>
+                <th>US ID</th>
+                <th>US Title</th>
+                <th>Description</th>
+                <th>Estimation (Hours)</th>
+                <th>Assigned To</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Diseñar layout de la landing page</td>
+                <td>Crear un diseño inicial para la página de inicio del sitio web de alquiler de autos</td>
+                <td>4</td>
+                <td>[Nombre del diseñador]</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Crear sección de navegación</td>
+                <td>Implementar una barra de navegación para facilitar la exploración de la landing page</td>
+                <td>3</td>
+                <td>[Nombre del desarrollador frontend]</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Agregar imágenes y contenido</td>
+                <td>Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
+                <td>5</td>
+                <td>[Nombre del diseñador]</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Implementar llamada a la acción</td>
+                <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
+                <td>2</td>
+                <td>[Nombre del desarrollador frontend]</td>
+              <td>To-Do</td>
+          </tr>
+      </tbody>
+  </table>
