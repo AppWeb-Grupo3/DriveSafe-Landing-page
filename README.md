@@ -958,7 +958,13 @@ Nuestro sistema de navegación en DriveSafe se ha diseñado pensando en la comod
 
 ### 4.7.2 Software Architecture Components Diagrams
 
+![diagramcomponent](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureComponentDiagram1.png)
 
+![diagramcomponent](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureComponentDiagram2.png)
+
+![diagramcomponent](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureComponentDiagram3.png)
+
+![diagramcomponent](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureComponentDiagram4.png)
 
 ## 4.8 Software Object-Oriented Design
 
