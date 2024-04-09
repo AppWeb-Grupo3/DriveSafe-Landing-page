@@ -1151,7 +1151,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
         <li>Carlos Andres Rojas Ccama</li>
         <li>Jhan Clinton Antonio Salazar</li>
         <li>Luis Enrique Aquije Quiroga</li>
-        <li>Leonel Alfaro sdfdsfdCumba</li>
+        <li>Leonel Alfaro Cumba</li>
       </ul>
     </td>
   </tr>
