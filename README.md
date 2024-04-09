@@ -864,33 +864,38 @@ En DriveSafe, hemos diseñado un sistema de navegación intuitivo y eficiente qu
 * **Inicio:**
 <div style="text-align: justify;">  Esta opción llevará a los usuarios de regreso a la página de inicio, donde podrán comenzar su experiencia en AutoYa! o volver a explorar las opciones disponibles.</div>
 
-<br>
 
 * **Buscar Autos:**
 <div style="text-align: justify;"> Los usuarios pueden hacer clic en esta opción para acceder a nuestro sistema de búsqueda integral, donde podrán especificar sus preferencias y encontrar el vehículo de alquiler perfecto.</div>
 
-<br>
 
 * **Mantenimiento:**
 
-<div style="text-align: justify;">  Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimiento de tareas de mantenimiento. </div>
+<div style="text-align: justify;">  
   
-<br>
+Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimiento de tareas de mantenimiento. </div>
+  
+
 
 * **Alquiler:**
 
-<div style="text-align: justify;">  Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimEsta opción permite a los usuarios explorar opciones de alquiler de vehículos, ver detalles y realizar reservas:
+<div style="text-align: justify;">  
+    
+Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimEsta opción permite a los usuarios explorar opciones de alquiler de vehículos, ver detalles y realizar reservas:
 
   
-<br> 
 
 * **Solicitudes:**
-<div style="text-align: justify;"> En esta sección, los usuarios pueden acceder a sus solicitudes de alquiler y realizar un seguimiento de los detalles importantes relacionados con sus reservas:
+<div style="text-align: justify;"> 
+    
+En esta sección, los usuarios pueden acceder a sus solicitudes de alquiler y realizar un seguimiento de los detalles importantes relacionados con sus reservas:
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/e816c747-87a4-4b5c-8fea-94828863aea5)
 
 <br>
-<div style="text-align: justify;"> Nuestro sistema de navegación en DriveSafe se ha diseñado pensando en la comodidad y la eficiencia del usuario. Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea buscar un auto, programar un servicio de mantenimiento, hacer una reserva o realizar un seguimiento de sus solicitudes de alquiler, y nuestro sistema de navegación les brinda las herramientas para hacerlo de manera efectiva.
+<div style="text-align: justify;"> 
+    
+Nuestro sistema de navegación en DriveSafe se ha diseñado pensando en la comodidad y la eficiencia del usuario. Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea buscar un auto, programar un servicio de mantenimiento, hacer una reserva o realizar un seguimiento de sus solicitudes de alquiler, y nuestro sistema de navegación les brinda las herramientas para hacerlo de manera efectiva.
 
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/e816c747-87a4-4b5c-8fea-94828863aea5)
