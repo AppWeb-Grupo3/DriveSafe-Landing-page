@@ -912,11 +912,18 @@ Nuestro sistema de navegación en DriveSafe se ha diseñado pensando en la comod
 
 ### 4.4.1 Landing Page Wireframe
 
+Hemos elaborado un boceto preliminar de baja fidelidad para la página principal de DriveSafe:
 
-<br>
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/de9fb974-ced1-4792-b15b-60585f604291)
+
 <br>
 
 ### 4.4.2 Landing Page Mock-up
+La página de inicio se diseñó utilizando un prototipo de fidelidad media en forma de maqueta. A continuación, te mostramos un anticipo de nuestra propuesta:
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/ae9f6ae4-14a1-4dbe-8a9b-06c8e5814d3d)
+
+<br>
 
 
 ## 4.5 Web Applications UX/UI Design
