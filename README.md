@@ -1237,3 +1237,21 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
 |https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| feature/main | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
 |https://github.com/AppWeb-Grupo3/informe/blob/main/README.md| feature/main | 654cc4a2d56455f74723e3f26ef429eb668719aa | Add Chapter 4 |
 
+#### 5.2.X.4. Testing Suite Evidence for Sprint Review
+
+- Utilización de Live Server de Microsoft Visual Studio Code 
+
+
+Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
+
+Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
+
+- Firefox Developer para Pruebas de Dimensiones Móviles
+ 
+Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
+
+Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
+- Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive
+
+Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS y el diseño responsivo.
+
