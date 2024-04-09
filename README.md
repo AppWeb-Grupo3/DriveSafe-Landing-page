@@ -1251,12 +1251,31 @@ Esta herramienta permitió la visualización dinámica de la landing page en el 
 Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
 
 Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
-- Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive
 
-Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS y el diseño responsivo.
 
 
 #### 5.2.1.5. Execution Evidence for Sprint 1 Review
+
+
+
+- Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/28129363-d6ed-4303-be86-563d172d14f3)
+
+- Se diseñó y desarrolló esta sección con un mensaje atractivo y convincente para los usuarios, y se implementó el botón "Explora ahora" para dirigir hacia la siguiente acción deseada.
+
+  ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/5cc72433-b1e8-4e17-9b2f-9c8ea5ab216c)
+
+ - Se completó la sección "Acerca de" con información sobre la empresa y su visión.
+
+   ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/04d5f10f-6de9-4604-8918-49915f4dc1b3)
+
+  - Se completó la sección "Testimonios" con con comentarios positivos de usuarios.
+  
+    ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c389d787-7a09-4ee0-8c88-0a34163c0d7c)
+
+  - Se completó la sección "Contacto" en la landing page.
+
+    ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/ca3d0534-25d3-4b9a-aafb-b8ef9be5434e)
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint 1 Review.
 
