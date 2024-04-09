@@ -849,7 +849,11 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 <br>
 #### 4.3.5 Navigation System
 
-<div style="text-align: justify;"> En DriveSafe, hemos diseñado un sistema de navegación intuitivo y eficiente que guía a nuestros usuarios a través de nuestro Landing Page y aplicaciones, permitiéndoles alcanzar sus metas y interactuar satisfactoriamente con nuestro producto. A continuación, explicamos cómo los usuarios navegarán por nuestro contenido:</div>
+<div style="text-align: justify;"> 
+    
+En DriveSafe, hemos diseñado un sistema de navegación intuitivo y eficiente que guía a nuestros usuarios a través de nuestro Landing Page y aplicaciones, permitiéndoles alcanzar sus metas y interactuar satisfactoriamente con nuestro producto. A continuación, explicamos cómo los usuarios navegarán por nuestro contenido:
+
+</div>
 
 <br>
 
