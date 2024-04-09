@@ -1123,17 +1123,7 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
 
 <table>
-  <tr>
-    <th colspan="2">Sprint Planning</th>
-  </tr>
-  <tr>
-    <td>Date</td>
-    <td>28/3/2024</td>
-  </tr>
-  <tr>
-    <td>Time</td>
-    <td>05:00 P.M</td>
-  </tr><table>
+  
   <tr>
     <th colspan="2" style="text-align: center;">Sprint Planning</th>
   </tr>
