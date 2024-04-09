@@ -890,7 +890,7 @@ Aquí, los usuarios pueden acceder a información relacionada con el mantenimien
     
 En esta sección, los usuarios pueden acceder a sus solicitudes de alquiler y realizar un seguimiento de los detalles importantes relacionados con sus reservas:
 
-![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/e816c747-87a4-4b5c-8fea-94828863aea5)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/2de823ae-d23a-4f9e-aa03-e9a9e4213b17)
 
 <br>
 <div style="text-align: justify;"> 
@@ -898,7 +898,6 @@ En esta sección, los usuarios pueden acceder a sus solicitudes de alquiler y re
 Nuestro sistema de navegación en DriveSafe se ha diseñado pensando en la comodidad y la eficiencia del usuario. Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea buscar un auto, programar un servicio de mantenimiento, hacer una reserva o realizar un seguimiento de sus solicitudes de alquiler, y nuestro sistema de navegación les brinda las herramientas para hacerlo de manera efectiva.
 
 
-![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/e816c747-87a4-4b5c-8fea-94828863aea5)
 
 <br>
 
