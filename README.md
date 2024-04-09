@@ -847,6 +847,7 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/47a7d42e-5abd-420e-8bbc-4da49f6874a9)
 
 <br>
+
 #### 4.3.5 Navigation System
 
 <div style="text-align: justify;"> 
