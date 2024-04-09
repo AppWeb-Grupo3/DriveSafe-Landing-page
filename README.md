@@ -862,7 +862,7 @@ En DriveSafe, hemos diseñado un sistema de navegación intuitivo y eficiente qu
 <div style="text-align: justify;"> Hemos implementado una barra de navegación en la parte superior de nuestra plataforma que ofrece tres opciones principales:</div>
 
 * **Inicio:**
-<div style="text-align: justify;">  Esta opción llevará a los usuarios de regreso a la página de inicio, donde podrán comenzar su experiencia en AutoYa! o volver a explorar las opciones disponibles.</div>
+<div style="text-align: justify;">  Esta opción llevará a los usuarios de regreso a la página de inicio, donde podrán comenzar su experiencia en Drivesafe o volver a explorar las opciones disponibles.</div>
 
 
 * **Buscar Autos:**
@@ -1036,11 +1036,11 @@ Estas ramas siempre tienen un tiempo de vida limitado, debido a que una vez se t
 
   Jquery-2.1.3.min.js: Este archivo mejora la experiencia del usuario en el Landing Page.
 
-  main.js: main.js es un archivo de código fuente fundamental para el funcionamiento del Landing Page en Autosafe!.
+  main.js: main.js es un archivo de código fuente fundamental para el funcionamiento del Landing Page en DriveSafe.
 
   modernizr.js: modernizr.js garantiza una experiencia coherente y eficiente en diferentes navegadores.
 
-  pace.min.js: Esto ayuda a los usuarios a comprender cuándo se ha completado la carga del sitio web. En Autosafe!, pace.min.js mejora la percepción del rendimiento del sitio y la experiencia de usuario.
+  pace.min.js: Esto ayuda a los usuarios a comprender cuándo se ha completado la carga del sitio web. En Drivesafe, pace.min.js mejora la percepción del rendimiento del sitio y la experiencia de usuario.
 
   plugins.js: Este archivo contiene plugins y extensiones de JavaScript que se utilizan en diversas partes del Landing Page.
 
