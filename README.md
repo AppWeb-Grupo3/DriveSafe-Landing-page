@@ -1290,3 +1290,7 @@ GitHub:Se decidió alojar el repositorio del landing page en GitHub, una platafo
 se desplego la primera versión de nuestra LandingPage, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentando en esta landing será adecuadamente corregido en futuras entregas.
 
 URL: https://appweb-grupo3.github.io/informe/
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint 1
+
+      
