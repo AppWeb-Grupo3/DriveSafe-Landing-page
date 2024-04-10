@@ -1060,11 +1060,15 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 
 ### 4.7.1 Class Diagrams
 
+![ClassDiagrams.png](imagenes%2FClassDiagrams.png)
+
 ### 4.7.2 Class Dictionary
 
 
 
 ## 4.8 Database Design
+
+![DatabaseDesign.png](imagenes%2FDatabaseDesign.png)
 
 ### 4.8.1 Database Diagram
 
