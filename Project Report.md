@@ -605,8 +605,8 @@ Button
 
 ## 4.3 **Landing Page UI Design**
 
-## 4.5 **Web Applications UX/UI Design**
-#### 4.5.1 Web Applications Wireframes
+## 4.4 **Web Applications UX/UI Design**
+#### 4.4.1 Web Applications Wireframes
 #### NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:
 
 #### ARRENDATARIO
