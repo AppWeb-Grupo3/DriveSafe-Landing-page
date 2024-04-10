@@ -506,7 +506,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 ### 2.2.3 Análisis de entrevistas
 
 **Arrendatarios**
-
+![foto_user_story_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/Entrevista 4 - Luis Enrique Aquije.png)
 
 **Arrendadores**
 
