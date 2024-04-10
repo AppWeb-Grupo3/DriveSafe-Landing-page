@@ -493,6 +493,8 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 **Entrevista 1**
 
 **Entrevista 2**
+URL del video: [entrevista_2](https://www.youtube.com/watch?v=Qkol-cFd5mo)
+
 ![foto_user_story_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/Entrevista%204%20-%20Luis%20Enrique%20Aquije.png)
 
 Timing: 4:59 min
