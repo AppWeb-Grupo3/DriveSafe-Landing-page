@@ -693,17 +693,23 @@ Button
 #### Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para ese auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud aparecerá los datos de la persona que quiere alquilar el auto.
 ![foto_alquilerC](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/AlquilerC.png)
 
+#### 4.4.2 Web Applications Wireflow Diagrams
 
+#### 4.4.3 Web Applications Mock-ups
 
-## 4.5 **Domain Driven Software Architecture**
+#### 4.4.4 Web Applications User Flow Diagrams
 
-**Software Architecture Context Diagram**
+## 4.5 Web Applications Prototyping
+
+## 4.6 **Domain Driven Software Architecture**
+
+#### 4.6.1 **Software Architecture Context Diagram**
 
 ![diagramacontext](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContextDiagram.png)
 
-**Software Architecture Container Diagrams**
+#### 4.6.2 **Software Architecture Container Diagrams**
 
 ![diagramcontainer](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContainerDiagram.png)
 
-**Software Architecture Components Diagrams**
+#### 4.6.3 **Software Architecture Components Diagrams**
 
