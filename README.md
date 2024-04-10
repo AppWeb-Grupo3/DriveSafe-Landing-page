@@ -1064,15 +1064,28 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 
 ### 4.7.2 Class Dictionary
 
+**Vehicle:** 
+- Representa un vehículo disponible para alquilar. Tiene atributos como la marca, modelo, año, color, tarifa diaria y disponibilidad. Métodos para verificar la disponibilidad, calcular el costo del alquiler, reservar y actualizar la disponibilidad.
 
+**Customer:** 
+- Representa un cliente que realiza una reserva. Tiene atributos como el nombre, correo electrónico y teléfono. Métodos para realizar una reserva, cancelar una reserva y actualizar la información de contacto.
+
+**Payment:** 
+- Representa un pago realizado por un cliente. Tiene atributos como el monto y el estado del pago. Métodos para procesar el pago y actualizar el estado.
+
+**RentalTransaction:** 
+- Representa una transacción de alquiler que registra la reserva de un vehículo, la fecha de inicio y finalización del alquiler, y el costo total. Tiene un método para generar un informe de transacción.
+
+**GPS:** 
+- Representa un sistema de seguimiento GPS que puede rastrear la ubicación de un vehículo. Tiene atributos para la latitud y longitud. Tiene un método para rastrear la ubicación.
 
 ## 4.8 Database Design
 
-![DatabaseDesign.png](imagenes%2FDatabaseDesign.png)
-
 ### 4.8.1 Database Diagram
 
+![DatabaseDesign.png](imagenes%2FDatabaseDesign.png)
 
+<br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
