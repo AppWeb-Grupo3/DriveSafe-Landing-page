@@ -1162,7 +1162,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
     <td colspan="2" style="text-align: center;">Implementar una landing page sobre DriveSafe a su vez completando el informe de acuerdo a lo que se nos solicita</td>
   </tr>
   <tr>
-    <td style="text-align: center;">Spring n Velocity</td>
+    <td style="text-align: center;">Sprint n Velocity</td>
     <td>12 días</td>
   </tr>
 </table>
