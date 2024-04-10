@@ -929,8 +929,91 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 ## 4.5 Web Applications UX/UI Design
 
 ### 4.5.1 Web Applications Wireframes
+#### NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:
 
+#### ARRENDATARIO
+#### PERFIL DE USUARIO: El usuario puede visualizar sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Alquilados . El usuario podrá cambiar su foto de perfil presionando el botón Cambiar foto de perfil ,también podra alctualizar sus datos presionando el botón Actualizar Datos y también podra cerrar sesión en la cuenta presionando el botón Cerrar Sesión.
 
+![foto_perfil_usuario](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/PerfilUsuario.png)
+
+![foto_edit_perfil_usuario](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/EditarPerfilUsuario.png)
+#### LOGIN: El usuario debera iniciar sesión presionando el boton Iniciar Sesion , si no esta registrado, debera presionar el botón CREAR UNA CUENTA
+
+![foto_loginA](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/LoginA.png)
+
+![foto_loginB](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/loginB.png)
+
+![foto_loginC](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/loginC.png)
+#### REGISTRO: Aqui el usuario que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón Registrarse como arrendatario.
+
+![foto_registro](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/Registro.png)
+#### INICIO: El usuario encontrara toda las opciones de la plataforma . Dentro de esta ventana estará la opcion de Buscar coche que llevara a otra ventana destinada a la busqueda de autos para alquilar. Las opciones disponibles son Buscar Auto , Mantenimiento , Alquiler y Solicitudes.
+
+![foto_inicio](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/Inicio.png)
+#### BUSCAR AUTOS: El usuario podra filtrar segun sus deseos que tipo de auto desea alquilar.Los datos a ingresar son ubicacion, precio , tiempo de alquiler,marca, modelo, clase y transmisión. El usuario debera presionar el botón Buscar para iniciar con la búsqueda, luego aparecerá el resultado de la búsqueda como datos del vehiculo , datos del propietario del vehículo y el estatus de la publicacion ya sea Disponible o No Disponible. Dentro de la busqueda estará el botón de Ver contrato de alquiler.
+![foto_buscar_autos](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/BuscarAutos.png)
+#### EL usuario debe verificar el contrato de Alquiler que el propietario del vehículo ha publicado.Luego de verificarlo , si desea proceder con el alquiler deberá generar una firma digital presionando el botón Generar firma digital y luego presionar el botón Solicitar Alquiler para que se envie una solicitud al propietario del vehículo .
+![foto_contratoA](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/ContratoA.png)
+
+![foto_contratoB](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/ContratoB.png)
+#### MANTENIMIENTO: El usuario podra enviar un mensaje directamente al correo electrónico del propietario del vehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de Buscar , tambien se puede agregar fotos presionando el botón Agregar fotos luego se debera ingresar los datos necesarios y presionar el botón Enviar.
+![foto_mantenimiento](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/Mantenimiento.png)
+#### SOLICITUDES: El usuario podra ver si la solicitud de alquiler esta en espero o si han sido aceptadas o rechazadas por el propietario del vehículo.Si la solicitud ha sido aceptada puedes presionar el botón de Pagar.
+![foto_solicitudesA](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/SolicitudesA.png)
+
+![foto_solicitudesB](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/SolicitudesB.png)
+#### ALQUILER: El usuario podra ver toda la información de los procesos de alquiler que se hayan realizado. Dentro se podra ver cada vehículo que se haya solicitado y si fue aceptada podrá presionar el botón de Pagar.También se puede agregar otro vehículo presionando el botón Agregar otro vehículo.
+![foto_alquilerA](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/AlquilerA.png)
+
+![foto_alquilerB](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/AlquilerB.png)
+#### Al presionar el botón Pagar se abrira otra ventana para realizar el pago , se encontrara 2 opciones de pago : EFECTIVO y ONLINE. Dentro de esta ventana estaran los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
+![foto_pagar](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/Pagar.png)
+#### Al presionar el botón Pago Efectivo se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón Confirmar hora de alquiler.Luego aparecera una ventana para realizar un pago de confirmacion , que es de 5 soles, por uso de la aplicacion. Luego de pagar saldra una ventana de confirmacion de hora y fecha de alquiler
+![foto_pago_efectivo](https://github.com/AppWeb-Grupo3/informe/blob/951c903dc7d57edb850395541b8e4e13fda662e3/imagenes/Arrendatario/PagoEfectivo.png)
+
+![foto_pago_efectivoB](https://github.com/AppWeb-Grupo3/informe/blob/1e455b4b77672358c8579b9bcff2af57daab3b49/imagenes/Arrendatario/PagoEfectivoB.png)
+
+![foto_pago_efectivoC](https://github.com/AppWeb-Grupo3/informe/blob/1e455b4b77672358c8579b9bcff2af57daab3b49/imagenes/Arrendatario/PagoEfectivoC.png)
+
+## Propietario
+#### PERFIL DE USUARIO: El usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario podrá cambiar su foto de perfil presionando el botón Cambiar foto de perfil ,también podra actualizar sus datos presionando el botón Actualizar Datos y también podra cerrar sesión en la cuenta presionando el botón Cerrar Sesión.
+![foto_perfil_usuario](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/PerfilUsuario.png)
+
+![foto_edit_perfil_usuario](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/EditarPerfilUsuario.png)
+
+#### LOGIN: Aqui el usuario debera iniciar sesión presionando el boton Iniciar Sesion , si no esta registrado, debera presionar el botón CREAR UNA CUENTA.
+![foto_loginA](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/LoginA.png)
+
+![foto_loginB](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/LoginB.png)
+
+![foto_loginC](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/LoginC.png)
+#### REGISTRO: El usuario que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón Registrarse.
+![foto_registro](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/Registro.png)
+
+#### INICIO: El usuario encontrara toda las opciones posibles de la plataforma , tambien podra visualizar notificaciones recientes. Dentro de esta ventana estará la opcion de Compartir tu auto que llevara a otra ventana destinada a la busqueda de autos para alquilar. Las opciones disponibles son Registro vehicular , Notificaciones , Alquiler.
+![foto_inicio](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/Inicio.png)
+#### REGISTRO DE VEHÍCULO : El usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón Crear contrato de alquiler para poder activar el botón de Registrar.
+![foto_registro_vehiculo](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/RegistroVehiculo.png)
+
+![foto_registro_vehiculoB](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/RegistroVehiculoB.png)
+#### Al presionar el botón Crear contrato de alquiler aparecerá otra ventana en la cual el usuario podrá presionar el botón Generar contrato predeterminado y Subir contrato manual en PDF. Al presionar Generar contrato predeterminado se generara automáticamente un contrato preestablecido con condiciones generales .Luego de generarlo se presionara el botón Subir contrato.
+![foto_contratoA](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/ContratoA.png)
+
+![foto_contratoB](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/ContratoB.png)
+
+![foto_contratoC](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/ContratoC.png)
+#### Al presionar Subir contrato manual en PDF aparecera una ventana para subir los documentos en PDF , luego de seleccionarlo se subira automáticamente un contrato.Luego de generado deberá presionar el botón Subir contrato.
+![foto_contratoPDF](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/ContratoPDF.png)
+#### Luego de seleccionar cualquiera de las 2 opciones aparecera una ventana , dentro de ella aparecerá un botón de Regresar al registo , que sirve como redireccionamiento para la ventana principal del REGISTRO DEL VEHÍCULO.
+![foto_contratoDONE](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/ControDone.png)
+#### NOTIFICACIONES: El usuario podra ver las notificaciones de solicitudes que los arrendatarias hayan generado.En la notificación predeterminada aparecerá los datos de la solicitud.
+![foto_notificaiones](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/Notificaciones.png)
+#### ALQUILER: En esta ventana estarán todos los autos que se hayan compartido para alquiler,también se podrá ver el estatus del alquiler. Dentro de esta ventana estará disponible el botón de Afiliar cuenta Banco con MODO , con esta opción el usuario podrá tener una cuenta afiliada y la forma de verificación de pago será más sencilla.
+![foto_alquilerA](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/AlquilerA.png)
+
+![foto_alquilerB](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/AlquilerB.png)
+#### Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para ese auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud aparecerá los datos de la persona que quiere alquilar el auto.
+![foto_alquilerC](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/AlquilerC.png)
 
 ### 4.5.2 Web Applications Wireflow Diagrams
 
