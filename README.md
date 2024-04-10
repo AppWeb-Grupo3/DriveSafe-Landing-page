@@ -725,7 +725,7 @@ Los espacios establecidos oscilan entre px y px
 
 <br>
 
-### 4.2 Web Style Guidelines
+### 4.1.2 Web Style Guidelines
 <div style="text-align: justify;">DriveSafe se desarrollará para plataforma web, por lo tanto, implementaremos un diseño adaptable (Web Responsive Design) con el objetivo de mostrar la información de manera óptima en cualquier tipo de dispositivo, garantizando que el contenido se mantenga intacto para mejorar la experiencia del usuario.</div>
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/03469211-2847-4d63-b3a1-9ba09ce01387)
@@ -737,7 +737,7 @@ Además, como equipo, hemos decidido utilizar el patrón de diseño en forma de 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/2bfeaf01-c145-4d61-9cf0-28f5e95cde1e)
 
 
-## 4.3 Information Architecture
+## 4.2 Information Architecture
 
 <div style="text-align: justify;">
 En esta sección, nos centraremos principalmente en el contenido visual, los estilosmy los elementos que incorporaremos en nuestro sitio web y página de inicio de DriveSafe. A continuación, exploraremos los siguientes temas:
@@ -752,7 +752,7 @@ Estos aspectos son fundamentales para crear una experiencia cohesiva y efectiva 
 
 <br>
 
-### 4.3.1 Organization Systems
+### 4.2.1 Organization Systems
 <div style="text-align: justify;">
 En nuestra estrategia de diseño, hemos optado por estructurar el contenido mediante el uso de encabezados claros. Estos encabezados agruparán las secciones a las que los usuarios pueden acceder. De esta manera, los visitantes de DriveSafe sabrán exactamente dónde hacer clic para acceder a las áreas relevantes de nuestro sitio web.</div>
 
@@ -779,7 +779,7 @@ En nuestra estrategia de diseño, utilizaremos la organización matricial para p
 
 <br>
 
-### 4.3.2 Labeling Systems
+### 4.2.2 Labeling Systems
 <div style="text-align: justify;">
 En el contexto de DriveSafe, los sistemas de etiquetado desempeñan un papel fundamental en la organización y accesibilidad de la información en nuestra plataforma. Estos nombres se encuentran en enlaces, menús y pie de página, así como en encabezados que indican la jerarquía de la información. Son esenciales para permitir a los usuarios navegar fácilmente por nuestro sitio web y encontrar la información que necesitan.
 Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, lo que significa que deben cumplir con los siguientes objetivos:</div>
@@ -800,7 +800,7 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 
 <br>
 
-#### 4.3.2.1 Tipos de Etiquetas:
+#### 4.2.2.1 Tipos de Etiquetas:
 
 **Etiquetas Contextuales:** <div style="text-align: justify;"> Estas etiquetas describen los enlaces en DriveSafe y son cruciales para conectar diferentes partes de la plataforma. Sin embargo, elegiremos cuidadosamente las palabras para estas etiquetas para evitar ambigüedades y garantizar que los usuarios comprendan el contenido al hacer clic en ellas. </div>
 
@@ -821,7 +821,7 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 
 <br>
 
-### 4.3.3 SEO Tags and Meta Tags
+### 4.2.3 SEO Tags and Meta Tags
 <div style="text-align: justify;"> En DriveSafe, comprendemos la importancia de optimizar nuestras páginas tanto en la Landing Page como en la Web Application para mejorar la visibilidad en los motores de búsqueda y brindar una experiencia de usuario de alta calidad. A continuación, se detallan los principales SEO Tags y Meta Tags que utilizaremos, junto con los valores asignados:</div>
 
 <br>
@@ -842,19 +842,19 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 * **Meta Tag de Autor (Author):** Utilizaremos el meta tag de autor para identificar al creador o autor del contenido, lo que puede ayudar a establecer credibilidad y autoridad en la industria.
 <br>
 
-### 4.3.4 Searching Systems
+### 4.2.4 Searching Systems
 <div style="text-align: justify;"> En DriveSafe, hemos creado un sistema de búsqueda integral para ayudar a los usuarios a encontrar de manera eficiente el vehículo de alquiler que mejor se adapte a sus necesidades. A continuación, explicamos cómo hemos diseñado nuestro sistema de búsqueda para evitar que los usuarios se sientan abrumados por la cantidad de información y cómo lucirán los datos después de la búsqueda:</div>
 
 <br>
 
-#### 4.3.4.1 Opciones de búsqueda:
+#### 4.2.4.1 Opciones de búsqueda:
 <div style="text-align: justify;">  Nuestro sistema de búsqueda está diseñado para ser rápido y preciso. Los usuarios pueden ingresar criterios específicos (como ubicación, fechas y preferencias de vehículo) para obtener resultados relevantes de manera ágil. Esto permite a los usuarios refinar su búsqueda según sus preferencias específicas.</div>
     
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/47a7d42e-5abd-420e-8bbc-4da49f6874a9)
 
 <br>
 
-#### 4.3.5 Navigation System
+#### 4.2.5 Navigation System
 
 <div style="text-align: justify;"> 
     
@@ -864,7 +864,7 @@ En DriveSafe, hemos diseñado un sistema de navegación intuitivo y eficiente qu
 
 <br>
 
-#### 4.3.5.1 Barra de Navegación
+#### 4.2.5.1 Barra de Navegación
 
 <div style="text-align: justify;"> Hemos implementado una barra de navegación en la parte superior de nuestra plataforma que ofrece tres opciones principales:</div>
 
@@ -908,9 +908,9 @@ Nuestro sistema de navegación en DriveSafe se ha diseñado pensando en la comod
 
 <br>
 
-## 4.4 Landing Page UI Design
+## 4.3 Landing Page UI Design
 
-### 4.4.1 Landing Page Wireframe
+### 4.3.1 Landing Page Wireframe
 
 Hemos elaborado un boceto preliminar de baja fidelidad para la página principal de DriveSafe:
 
@@ -918,7 +918,7 @@ Hemos elaborado un boceto preliminar de baja fidelidad para la página principal
 
 <br>
 
-### 4.4.2 Landing Page Mock-up
+### 4.3.2 Landing Page Mock-up
 La página de inicio se diseñó utilizando un prototipo de fidelidad media en forma de maqueta. A continuación, te mostramos un anticipo de nuestra propuesta:
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/ae9f6ae4-14a1-4dbe-8a9b-06c8e5814d3d)
@@ -926,9 +926,9 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 <br>
 
 
-## 4.5 Web Applications UX/UI Design
+## 4.4 Web Applications UX/UI Design
 
-### 4.5.1 Web Applications Wireframes
+### 4.4.1 Web Applications Wireframes
 #### NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:
 
 #### ARRENDATARIO
@@ -1015,38 +1015,38 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 #### Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para ese auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud aparecerá los datos de la persona que quiere alquilar el auto.
 ![foto_alquilerC](https://github.com/AppWeb-Grupo3/informe/blob/02fc3466cd35046f9c68193609df53e1ccc531c9/imagenes/Propietario/AlquilerC.png)
 
-### 4.5.2 Web Applications Wireflow Diagrams
+### 4.4.2 Web Applications Wireflow Diagrams
 
 
-### 4.5.3  Web Applications Mock-ups
+### 4.4.3  Web Applications Mock-ups
 
 
 ------------------------------------------------------------------------------------------------
 
 
 
-### 4.5.4 Web Applications User Flow Diagrams
+### 4.4.4 Web Applications User Flow Diagrams
 
 
 ------------------------------------------
 
 
-## 4.6 Web Applications Prototyping
+## 4.5 Web Applications Prototyping
 
-### 4.6.1 Desktop Prototyping
+### 4.5.1 Desktop Prototyping
 
 
-## 4.7 Domain-Driven Software Architecture
+## 4.6 Domain-Driven Software Architecture
 
-### 4.7.1 Software Architecture Context Diagram
+### 4.6.1 Software Architecture Context Diagram
 
 ![diagramacontext](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContextDiagram.png)
 
-### Software Architecture Container Diagrams
+### 4.6.2 Software Architecture Container Diagrams
 
 ![diagramcontainer](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureContainerDiagram.png)
 
-### 4.7.2 Software Architecture Components Diagrams
+### 4.6.3 Software Architecture Components Diagrams
 
 ![diagramcomponent](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureComponentDiagram1.png)
 
@@ -1056,17 +1056,17 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 
 ![diagramcomponent](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/SoftwareArchitectureComponentDiagram4.png)
 
-## 4.8 Software Object-Oriented Design
+## 4.7 Software Object-Oriented Design
 
-### 4.8.1 Class Diagrams
+### 4.7.1 Class Diagrams
 
-### 4.8.2 Class Dictionary
+### 4.7.2 Class Dictionary
 
 
 
-## 4.9 Database Design
+## 4.8 Database Design
 
-### 4.9.1 Database Diagram
+### 4.8.1 Database Diagram
 
 
 
