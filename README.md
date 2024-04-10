@@ -493,6 +493,11 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 **Entrevista 1**
 
 **Entrevista 2**
+![foto_user_story_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/Entrevista%204%20-%20Luis%20Enrique%20Aquije.png)
+
+Timing: 4:59 min
+
+Gabriel Martel es un estudiante de 24 años que reside actualmente en San Isidro, tiene un emprendimiento. Nos comenta que en una ocasión puso en alquiler. También menciona que le gustaría verificar si a quien le alquila no tiene antecedentes sobre algún manejo imprudente o multas. En sus preocupaciones agrega que le preocupa que no sepan como utilizar un auto provocandole un daño. Con respecto al gps en un vehículo, comenta que tiene un bloqueador de encendido con el cual evitar un posible robo y proporciona la ubicación de este. El cree que el comfort, la limpieza y el desempeño del auto son caracteristicas atractivas de su auto. En la flexibilidad de los metodos de pago, nos menciona que la tarjeta de credito es el mejor método de pago. También menciona que estaría dispuesto en poner en alquiler su auto si es que esta seguro que el arrendatario no presente antecedentes de choque de autos o de falta de pagos.
 
 **Entrevista 3**
 
@@ -506,7 +511,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 ### 2.2.3 Análisis de entrevistas
 
 **Arrendatarios**
-![foto_user_story_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/Entrevista%204%20-%20Luis%20Enrique%20Aquije.png)
+
 
 **Arrendadores**
 
