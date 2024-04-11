@@ -1231,6 +1231,9 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 
 ### 4.5.1 Desktop Prototyping
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/afc9c37f-c700-4f98-a268-bb372ff72545)
+
+<br>
 
 ## 4.6 Domain-Driven Software Architecture
 
