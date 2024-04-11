@@ -451,7 +451,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 
 
-## 2.2 Entrevistas
+## 2-2 Entrevistas
 
 ### 2.2.1 Diseño de entrevistas
 
@@ -463,17 +463,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 -   ¿Cuál es su ocupación actual?
 
 
-**Preguntas para Arrendatarios:**
-
--   ¿Alguna vez tuvo experiencias sobre alquilar un auto?¿cómo resultó?
--   ¿Qué características específicas buscaría en un servicio de alquiler de vehículos?
--   ¿Cómo cree que la tecnología podría mejorar su experiencia al alquilar un vehículo?
--   ¿Prefiere alquilar un vehículo por períodos cortos o largos? ¿Por qué?
--   ¿Qué opina sobre la disponibilidad de una amplia selección de vehículos en un servicio de alquiler?
--   ¿Qué influiría en su decisión de llegar a alquilar un automóvil: el precio, la disponibilidad o la reputación del servicio de alquiler?
--   ¿Qué opina sobre alquilar un automóvil a través de una aplicación web o móvil?
-
-**Preguntas para Arrendadores:**
+**Preguntas para el Arrendador:**
 
 -   ¿Usted en alguna oportunidad puso en alquiler su vehículo?
 -   ¿Qué preocupaciones tiene respecto a poner su vehículo en alquiler?
@@ -484,6 +474,16 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 -   ¿Cómo cree que la flexibilidad en los métodos de pago puede afectar la demanda de alquiler de su vehículo?
 -   ¿Usted estaría interesado en poner en alquiler su auto por medio de una aplicación web móvil?
 
+**Preguntas para el Arrendatario:**
+
+-   ¿Alguna vez tuvo experiencias sobre alquilar un auto?¿cómo resultó?
+-   ¿Qué características específicas buscaría en un servicio de alquiler de vehículos?
+-   ¿Cómo cree que la tecnología podría mejorar su experiencia al alquilar un vehículo?
+-   ¿Prefiere alquilar un vehículo por períodos cortos o largos? ¿Por qué?
+-   ¿Qué opina sobre la disponibilidad de una amplia selección de vehículos en un servicio de alquiler?
+-   ¿Qué influiría en su decisión de llegar a alquilar un automóvil: el precio, la disponibilidad o la reputación del servicio de alquiler?
+-   ¿Qué opina sobre alquilar un automóvil a través de una aplicación web o móvil?
+
 
 ### 2.2.2 Registro de entrevistas
 
@@ -492,8 +492,15 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 **Entrevista 1**
 
+URL del video: [entrevista 1](https://youtu.be/zA2SM8Rs9u0)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/370e5dad-b9b6-47b9-a0f9-e91aec77caa4)
+Timing: 6:00 min
+
+En la entrevista con Fernando Herrera que es ingeniero electrónico de treinta años residente en Lima, compartió sus experiencias como arrendador de vehículos y sus opiniones sobre el uso de la tecnología en esta industria. Fernando explicó que alquiló su vehículo para evitar pérdidas financieras debido a problemas de estacionamiento y mantenimiento. Prefiere alquilar a personas conocidas para garantizar el cuidado de su vehículo. Reconoce la ventaja de la tecnología para gestionar el alquiler de vehículos de manera más rápida y eficiente, pero también destaca las limitaciones del seguimiento GPS como medida de seguridad. Considera crucial la seguridad del vehículo al momento de ponerlo en alquiler y prefiere alquilar solo a personas de confianza. Las características más importantes de su vehículo para alquilar son el tiempo de uso, el modelo y el tipo de combustible. En cuanto a las aplicaciones de alquiler, valora la seguridad, la diversidad de opciones y la comodidad del proceso de pago. Estaría interesado en poner su auto en alquiler a través de una aplicación si garantiza condiciones favorables y seguridad para él y su vehículo.
+
 **Entrevista 2**
-URL del video: [entrevista_2](https://www.youtube.com/watch?v=Qkol-cFd5mo)
+URL del video: [entrevista 2](https://www.youtube.com/watch?v=Qkol-cFd5mo)
 
 ![foto_user_story_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/Entrevista%204%20-%20Luis%20Enrique%20Aquije.png)
 
@@ -508,34 +515,16 @@ Gabriel Martel es un estudiante de 24 años que reside actualmente en San Isidro
 
 **Entrevista 4**
 
-URL del video: https://youtu.be/nafyPB1IxGg
+URL del video: [entrevista 4](https://youtu.be/nafyPB1IxGg)
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/d1b84ba1-629c-49b2-8344-15d586c7a6cf)
-- Duracion: 6:02 min
+Timing: 6:02 min
 
 Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y reparaciones para una empresa de transporte en Lima, compartió sus pensamientos sobre el alquiler de autos. Isaac mencionó que una vez alquiló un auto para un viaje al sur de la playa y resaltó lo importante que es encontrar precios accesibles y una amplia variedad de vehículos. Cree que la tecnología puede hacer que el proceso de alquilar sea más fácil al permitir buscar y comparar opciones desde casa. Prefiere alquilar por períodos largos debido a sus salidas prolongadas con la familia y para él es importante que encuentre vehículos disponibles en los servicios de alquiler. Además, le interesaría alquilar a través de una aplicación para simplificar la selección y obtener información detallada y opiniones de otros usuarios.
 
 **Entrevista 5**
 
-- **Nombre:** Leandro
-- **Edad: 20** años
-- **Carrera:** Gastronomía
-- **Distrito:** Villa Maria del Triunfo
-- **URL del video:** https://youtu.be/_RbKISOL-Qo
-- **Duración:** 4:58 min
-
-![Entrevista5-Nelson.png](imagenes%2FEntrevista5-Nelson.png)
-
-- **Resumen:** Leandro no tuvo experiencias previas alquilando un vehículo pero si a familiares y conocidos que sí lo hicieron y por ende tiene la idea de qué aspectos debería tener un servicio de este tipo, él destacó que el servicio sea ágil, un precio razonable y las licencias y soporte de los seguros. Él considera que la tecnología facilitaría el proceso de alquiler y por ello es beneficioso. Él personalmente prefiere alquilar por periodos largos por ser más cómodo cuando viaja a otras ciudades, y siente que las otras personas lo hacen de igual manera. Vería benficioso tener un gran catálogo de autos por las diferentes situaciones que puedan ocurrir en el momento. Así mismo, Leandro optaría por la reputación del servicio antes que lo demás, lo considera un factor primordial al momento de alquilar un vehículo. Por último, ve muy práctico y eficiente la posibilidad de alquilar un vehículo a través de una aplicación web.
-
 **Entrevista 6**
-
-### 2.2.3 Análisis de entrevistas
-
-**Arrendador**
-
-
-**Arrendatario**
 
 
 ## 2.3 Needfinding
