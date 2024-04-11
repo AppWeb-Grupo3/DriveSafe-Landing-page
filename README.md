@@ -38,7 +38,7 @@
 | Entrega 4 (TF1)      |      |                                                                                                                                                                        |                                                                                                             |
 
 # Project Report Collaboration Insights
-
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/78441442-7cef-4229-99ed-9506882a94f2)
 
 
 ## URL del repositorio del Project Report
@@ -1865,7 +1865,7 @@ URL: https://appweb-grupo3.github.io/informe/
 | Luis Enrique Aquije Quiroga       |  Implementación de la sección contacto y realización del informe|
 | Leonel Alfaro Cumba         | Implementación de la sección footer, responsive y realización del informe|
 
-
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/78441442-7cef-4229-99ed-9506882a94f2)
 
 ### Bibliografía 
 
