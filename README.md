@@ -1292,7 +1292,7 @@ Link del miro para mejor visualización
 
 *INICIO DE SESIÓN*
 
-
+![UFinicioSesion.png](imagenes%2FUFinicioSesion.png)
 
 **User goal:** Como arrendatario quiero poder iniciar sesión rapidamente.
 
@@ -1302,7 +1302,7 @@ Link del miro para mejor visualización
 
 *REGISTRO*
 
-
+![UFRegistro.png](imagenes%2FUFRegistro.png)
 
 **User goal:** Como arrendatario quiero poder registrarme y luego acceder a la plataforma.
 
@@ -1312,7 +1312,7 @@ Link del miro para mejor visualización
 
 *INICIO PRINCIPAL*
 
-
+![UFVentanaP.png](imagenes%2FUFVentanaP.png)
 
 **User goal:** : Como arrendatario, quiero acceder de forma sencilla a las opciones  disponibles.
 
@@ -1322,7 +1322,7 @@ Link del miro para mejor visualización
 
 *BUSCAR AUTOS*
 
-
+![UFBuscarAutos.png](imagenes%2FUFBuscarAutos.png)
 
 **User goal:** : Como arrendatario, quiero poder buscar cualquier auto de mi interés.
 
@@ -1332,7 +1332,7 @@ Link del miro para mejor visualización
 
 *MANTENIMIENTO*
 
-
+![UFMantenimiento.png](imagenes%2FUFMantenimiento.png)
 
 **User goal:** : Como arrendatario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
 
@@ -1342,7 +1342,7 @@ Link del miro para mejor visualización
 
 *ALQUILER*
 
-
+![UFAlquiler.png](imagenes%2FUFAlquiler.png)
 
 **User goal:**  Como arrendatario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
 
@@ -1352,7 +1352,7 @@ Link del miro para mejor visualización
 
 *SOLICITUDES*
 
-
+![UFSolicitudes.png](imagenes%2FUFSolicitudes.png)
 
 **User goal:** : Como arrendatario, quiero ver el estado de las solicitudes que he enviado.
 
@@ -1360,9 +1360,9 @@ Link del miro para mejor visualización
 
 **Unhappy paths:** El arrendatario puede volver a la página anterior presionando la flecha superior  izquierda en dirección de la izquierda.
 
-*PERFIL DE arrendatario*
+*PERFIL DE ARRENDATARIO*
 
-
+![UFUsuario.png](imagenes%2FUFUsuario.png)
 
 **User goal:** : Como arrendatario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales.
 
