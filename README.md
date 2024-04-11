@@ -1875,6 +1875,15 @@ URL: https://appweb-grupo3.github.io/informe/
 
 - Oquendo Villavicencio, D. M. (2020). Investigación de mercado para la creación de una agencia de alquiler de automóviles en la ciudad de Portoviejo. Recuperado de http://repositorio.sangregorio.edu.ec/handle/123456789/1496
 
+### Concluciones 
+- La startup DriveSafe tiene el potencial de revolucionar el mercado de alquiler de vehículos al ofrecer una solución más accesible y aprovechar el uso de vehículos particulares. Su plataforma no solo puede satisfacer una necesidad creciente en movilidad, sino también contribuir a la sostenibilidad y reducir la congestión vial al optimizar el uso de los vehículos.
+
+- La confianza y la seguridad son pilares fundamentales en la propuesta de valor de DriveSafe. Al centrarse en garantizar la integridad y protección tanto de los propietarios de vehículos como de los usuarios que los alquilan, el proyecto establecerá un fundamento sólido para construir relaciones a largo plazo con los usuarios.
+
+- Es muy importante que la página principal de DriveSafe se destaque. Mejorando la facilidad de uso con botones fáciles de entender, una navegación suave y un diseño atractivo, DriveSafe anima a más personas a usar su servicio y preferirlos. Al ofrecer este servicio, el proyecto se convertirá en una opción para quienes buscan alquilar vehículos que se ajusten a su estilo de vida y necesidades.
+
+- DriveSafe se destaca por ofrecer a los propietarios de vehículos la oportunidad de generar ingresos adicionales alquilando sus autos cuando no los necesitan. Además, brinda un servicio conveniente y fácil de usar que permite a los usuarios encontrar rápidamente el vehículo perfecto para sus necesidades de alquiler.
+
 
 
 ### Anexos
