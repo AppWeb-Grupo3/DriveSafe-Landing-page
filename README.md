@@ -1031,6 +1031,22 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 ### 4.4.3  Web Applications Mock-ups
 
 **Mock-up de interfaz de usuario arrendatario**
+**LOGIN**
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/d7e16e7e-eb84-4861-a643-22563d3e6066)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/48569cc1-079e-4ef6-9304-6d41312ac213)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/85e46c24-0103-4991-9fb6-86acb430a956)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/edacb341-e260-4bbc-a36b-d57594c6e2ec)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/86e6dfef-1237-4272-99a5-992227650113)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/35b8d0b1-0b19-46bc-a9f6-118f0b4a0b7d)
+
+
+
+<br>
 
 **REGISTRO**
 
