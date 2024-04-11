@@ -419,7 +419,21 @@ Preguntas para Arrendadores:
 
 ### **2.2.2. Registro de entrevistas.**
 
+**Entrevista 3**
+
+URL del video: [entrevista_3](https://www.youtube.com/watch?v=1IWBmN0XmiY)
+
+![foto_user_entrevista3](https://github.com/AppWeb-Grupo3/informe/blob/98abe9a4a45b6f078aeb34ee81af790bad087041/imagenes/Entrevista3_CarlosRojas.png)
+
+Timing: 3:48 min
+
+Viviana Caballero es administradora de negocios de 36 años que reside actualmente en Chorrillos, ella me comenta que nunca puso en alquiler su vehículo, y ella prefiere un servicio que debe tener buena seguridad ya que hay situaciones de peligro, ademas ella prefiere alquilar un auto por medio de una plataforma por seguridad ella no prefiere un encuentro face to face. En el tema del gps, le agrada la idea del gps por seguridad seguir atraves del gps si es que le da en aquiler, tambien ella menciona que tiene un guia, ya que es comodo y espacioso y por ultimo ella si esta interesada en probar la aplicacion sobre todo la seguridad.
+
 ### **2.2.3. Análisis de entrevistas.**
+
+**Entrevista 3**
+
+Viviana Caballero, administradora de negocios de 36 años residente en Chorrillos, nunca ha alquilado su vehículo y busca un servicio de alquiler seguro debido a preocupaciones por la seguridad. Prefiere alquilar a través de una plataforma para evitar encuentros cara a cara. Le agrada la idea del GPS por seguridad y valora la comodidad y espacio del vehículo. Está interesada en probar la aplicación, especialmente por su enfoque en la seguridad.
 
 ## **2.3. Needfinding**
 
