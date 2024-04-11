@@ -1057,17 +1057,31 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 <br>
 
 **REGISTRO**
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/c9f9bbd1-2a82-454a-ae9a-43e04c60bd62)
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/c2c7a5ec-268c-45d1-8bc3-87bb7e28b08f)
 
 <br>
 
 **INICIO**
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/e8233c70-db9e-4596-bbd6-9dd2936cdb3e)
 
 <br>
 
 **BUSCAR AUTOS**
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/956c4867-bb19-440c-afe0-ee55a8fc5658)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/3b56dad6-dcab-40f4-a0f5-c70cf11f4616)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/8661a0f3-c5f0-433b-a42a-1b4fc7ebeef1)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/f718a725-8c4a-433d-acbf-c3b3667660dc)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/c0bfecc2-ef7d-47cb-8c03-e12be3b2289b)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/d72e9c33-4e68-4e8b-9269-69d57e5d799e)
 
 <br>
 
