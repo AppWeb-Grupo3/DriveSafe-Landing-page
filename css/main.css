@@ -393,9 +393,6 @@ img.pull-left {
 }
 
 
-/* ------------------------------------------------------------------- 
- * block grids paddings
- * ------------------------------------------------------------------- */
 
 .bgrid {
   padding: 0 20px;
@@ -858,8 +855,7 @@ input::-moz-focus-inner {
 }
 
 
-/* line definition style 
- * ----------------------------------------------- */
+
 
 .lining dt,
 .lining dd {
@@ -909,18 +905,6 @@ input::-moz-focus-inner {
 }
 
 
-/** 
- * Pull Quotes
- * -----------
- * markup:
- *
- * <aside class="pull-quote">
- *		<blockquote>
- *			<p></p>
- *		</blockquote>
- *	</aside>
- *
- * --------------------------------------------------------------------- */
 
 .pull-quote {
   position: relative;
@@ -957,18 +941,7 @@ input::-moz-focus-inner {
 }
 
 
-/** 
- * Stats Tab
- * ---------
- * markup:
- *
- * <ul class="stats-tabs">
- *		<li><a href="#">[value]<em>[name]</em></a></li>
- *	</ul>
- *
- * Extend this object into your markup.
- *
- * --------------------------------------------------------------------- */
+
 
 .stats-tabs {
   padding: 0;
@@ -1010,10 +983,7 @@ input::-moz-focus-inner {
 
 
 
-/* ===================================================================
- *  08. common and reusable theme styles 
- *
- * ------------------------------------------------------------------- */
+
 
 h1.intro-header-v3 {
   font-family: "montserrat-regular", sans-serif;
@@ -1075,10 +1045,7 @@ h1.intro-header-v2::before {
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * common styles
- * ------------------------------------------------------------------- */
+
 
 @media only screen and (max-width: 768px) {
   h1.intro-header {
@@ -1094,10 +1061,7 @@ h1.intro-header-v2::before {
 
 
 
-/* ===================================================================
- *  09. header styles - (_site-layout.scss)
- *
- * ------------------------------------------------------------------- */
+
 
 #header {
   width: 100%;
@@ -1113,9 +1077,7 @@ h1.intro-header-v2::before {
 }
 
 
-/* ------------------------------------------------------------------- 
- * header logo - (_site-layout.css) 
- * ------------------------------------------------------------------- */
+
 
 .header-logo {
   position: absolute;
@@ -1147,9 +1109,7 @@ h1.intro-header-v2::before {
 }
 
 
-/* ------------------------------------------------------------------- 
- * menu trigger - (_site-layout.css) 
- * ------------------------------------------------------------------- */
+
 
 .header-menu-toggle {
   display: none;
@@ -1237,9 +1197,6 @@ h1.intro-header-v2::before {
 }
 
 
-/* ------------------------------------------------------------------- 
- * navigation - (_layout.scss) 
- * ------------------------------------------------------------------- */
 
 #header-nav-wrap {
   font-family: "montserrat-medium", sans-serif;
@@ -1293,10 +1250,7 @@ h1.intro-header-v2::before {
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * header
- * ------------------------------------------------------------------- */
+
 
 @media only screen and (max-width: 1230px) {
   #header {
@@ -1345,9 +1299,6 @@ h1.intro-header-v2::before {
 }
 
 
-/* -------------------------------------------------------------------
- * make sure the menu is visible on larger screens
- * ------------------------------------------------------------------- */
 
 
 
@@ -1387,10 +1338,7 @@ h1.intro-header-v2::before {
 }
 
 
-/* ===================================================================
- *  10. home - (_site-layout.scss)
- *
- * ------------------------------------------------------------------- */
+
 
 #home {
   width: 100%;
@@ -1669,10 +1617,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * home section 
- * ------------------------------------------------------------------- */
+
 
 @media only screen and (max-width: 1300px) {
   .home-image-right {
@@ -1858,10 +1803,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 
 
 
-/* ===================================================================
- *  11. about - (_layout.scss)
- *
- * ------------------------------------------------------------------- */
+
 
 #about {
   min-height: 786px;
@@ -1987,10 +1929,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * about 
- * ------------------------------------------------------------------- */
+
 
 @media only screen and (max-width: 1200px) {
   .about-how-content {
@@ -2120,10 +2059,6 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 
 
 
-/* ===================================================================
- *  12. pricing - (_layout.scss)
- *
- * ------------------------------------------------------------------- */
 
 #pricing {
   background: #ebebeb;
@@ -2241,10 +2176,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * pricing 
- * ------------------------------------------------------------------- */
+
 
 @media only screen and (max-width: 1024px) {
   #pricing .pricing-content>[class*="col"] {
@@ -2318,10 +2250,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 
-/* ===================================================================
- *  13. testimonials - (_layout.scss)
- *
- * ------------------------------------------------------------------- */
+
 
 #testimonials {
   background-color: #00279c;
@@ -2484,10 +2413,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * testimonials
- * ------------------------------------------------------------------- */
+
 
 @media only screen and (max-width: 1024px) {
   #testimonial-slider p {
@@ -2535,10 +2461,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 
-/* ===================================================================
- *  14. download - (_layout.scss)
- *
- * ------------------------------------------------------------------- */
+
 
 #download {
   background: #FFFFFF;
@@ -2602,10 +2525,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * download
- * ------------------------------------------------------------------- */
+
 
 @media only screen and (max-width: 768px) {
   #download .download-badges li a {
@@ -2617,10 +2537,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 
 
 
-/* ===================================================================
- *  15. footer styles - (_site-layout.scss)
- *
- * ------------------------------------------------------------------- */
+
 
 footer {
   background-color: #00279c;
@@ -2799,9 +2716,7 @@ footer ul a:visited {
 }
 
 
-/* ------------------------------------------------------------------- 
- * go to top
- * ------------------------------------------------------------------- */
+
 
 #go-top {
   position: fixed;
@@ -2841,10 +2756,6 @@ footer ul a:visited {
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * footer 
- * ------------------------------------------------------------------- */
 
 @media only screen and (max-width: 1024px) {
   .footer-main>.row {
