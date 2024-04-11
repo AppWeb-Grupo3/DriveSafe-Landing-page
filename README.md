@@ -576,10 +576,27 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 
 **Arrendadores**
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/42bb521b-25c7-41bc-981c-cc643e2866a3)
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/907f3c7e-93ef-42ff-a4cd-1a8c6d598b61)
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/b8d4fcef-2e88-41e5-b2aa-8ecba4a14aa1)
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/add1b7ac-9dfb-44a4-ba44-54004ac657a9)
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/17ae2165-24c2-4e1a-a369-ec0cdf8362a0)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/b456b8b7-caf8-4c98-bf4c-5c11ae5e3aea)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/f52f2000-e028-4408-a261-94a31d67550b)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/92da0df3-0de8-4500-8da0-dfb9be30273e)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/09708058-1b13-4953-8d8e-e18e71c288b4)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/8fbeda44-d0de-4950-876e-f21f0aaf2da8)
+
+<br>
 
 ## 2.3 Needfinding
 
