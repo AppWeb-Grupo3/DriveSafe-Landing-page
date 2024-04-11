@@ -1024,13 +1024,85 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 
+Link de Wireflow Diagrams en Figma para una mejor observación:
+[[Clic al link](https://www.figma.com/file/S4yDK7v6fy06zgrY3aOb3c/DriveSafe!?type=design&node-id=0%3A1&mode=design&t=kD5nCwgcDbVammW7-1)]
+<br>
 
 ### 4.4.3  Web Applications Mock-ups
 
+**Mock-up de interfaz de usuario arrendatario**
 
-------------------------------------------------------------------------------------------------
+
+**REGISTRO**
 
 
+<br>
+
+**INICIO**
+
+
+<br>
+
+**BUSCAR AUTOS**
+
+
+<br>
+
+**ALQUILER**
+
+<br>
+
+**SOLICITUDES**
+
+<br>
+
+**MANTENIMIENTO**
+
+
+<br>
+
+**PERFIL DE USUARIO**
+
+
+<br>
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Mock-up de interfaz de usuario propietario**
+
+**LOGIN**
+
+<br>
+
+**REGISTRO**
+
+<br>
+
+**INICIO**
+
+
+<br>
+
+**REGISTRO DE AUTOS**
+
+
+<br>
+
+**ALQUILER**
+
+
+<br>
+
+**NOTIFICACIONES**
+
+
+
+<br>
+
+**PERFIL DE USUARIO**
+
+
+<br>
 
 ### 4.4.4 Web Applications User Flow Diagrams
 
@@ -1400,7 +1472,7 @@ URL: https://appweb-grupo3.github.io/informe/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint 1
 
-![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/71437732-f614-417d-99ce-fadd6b6dfcf7)
+
 
 | Nombre                            | Actividad    |
 |-----------------------------------|------------|
