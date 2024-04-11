@@ -491,20 +491,33 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 **Arrendador**
 
 **Entrevista 1**
+- **Nombre:** Fernando Herrera
+- **Edad:** 30 años
+- **Carrera:** Ingeniero Electrónico
+- **Distrito:** Lima
+- **Duración:** 6:00 min
 
 URL del video: [entrevista 1](https://youtu.be/zA2SM8Rs9u0)
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/370e5dad-b9b6-47b9-a0f9-e91aec77caa4)
-Timing: 6:00 min
 
 En la entrevista con Fernando Herrera que es ingeniero electrónico de treinta años residente en Lima, compartió sus experiencias como arrendador de vehículos y sus opiniones sobre el uso de la tecnología en esta industria. Fernando explicó que alquiló su vehículo para evitar pérdidas financieras debido a problemas de estacionamiento y mantenimiento. Prefiere alquilar a personas conocidas para garantizar el cuidado de su vehículo. Reconoce la ventaja de la tecnología para gestionar el alquiler de vehículos de manera más rápida y eficiente, pero también destaca las limitaciones del seguimiento GPS como medida de seguridad. Considera crucial la seguridad del vehículo al momento de ponerlo en alquiler y prefiere alquilar solo a personas de confianza. Las características más importantes de su vehículo para alquilar son el tiempo de uso, el modelo y el tipo de combustible. En cuanto a las aplicaciones de alquiler, valora la seguridad, la diversidad de opciones y la comodidad del proceso de pago. Estaría interesado en poner su auto en alquiler a través de una aplicación si garantiza condiciones favorables y seguridad para él y su vehículo.
 
 **Entrevista 2**
+
+**Entrevista 3**
+
+- **Nombre:** Gabriel Martel
+- **Edad:** 24 años
+- **Carrera:** Emprendedor
+- **Distrito:** San Isidro
+- **Duración:** 4:59 min
+
 URL del video: [entrevista 2](https://www.youtube.com/watch?v=Qkol-cFd5mo)
 
 ![foto_user_story_1](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/Entrevista%204%20-%20Luis%20Enrique%20Aquije.png)
 
-Timing: 4:59 min
+
 
 Gabriel Martel es un estudiante de 24 años que reside actualmente en San Isidro, tiene un emprendimiento. Nos comenta que en una ocasión puso en alquiler. También menciona que le gustaría verificar si a quien le alquila no tiene antecedentes sobre algún manejo imprudente o multas. En sus preocupaciones agrega que le preocupa que no sepan como utilizar un auto provocandole un daño. Con respecto al gps en un vehículo, comenta que tiene un bloqueador de encendido con el cual evitar un posible robo y proporciona la ubicación de este. El cree que el comfort, la limpieza y el desempeño del auto son caracteristicas atractivas de su auto. En la flexibilidad de los metodos de pago, nos menciona que la tarjeta de credito es el mejor método de pago. También menciona que estaría dispuesto en poner en alquiler su auto si es que esta seguro que el arrendatario no presente antecedentes de choque de autos o de falta de pagos.
 
@@ -546,7 +559,6 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 - **Edad: 20** años
 - **Carrera:** Gastronomía
 - **Distrito:** Villa Maria del Triunfo
-
 - **Duración:** 4:58 min
 
 URL del video: [entrevista 5](https://youtu.be/_RbKISOL-Qo)
@@ -556,12 +568,19 @@ URL del video: [entrevista 5](https://youtu.be/_RbKISOL-Qo)
 - **Resumen:** Leandro no tuvo experiencias previas alquilando un vehículo pero si a familiares y conocidos que sí lo hicieron y por ende tiene la idea de qué aspectos debería tener un servicio de este tipo, él destacó que el servicio sea ágil, un precio razonable y las licencias y soporte de los seguros. Él considera que la tecnología facilitaría el proceso de alquiler y por ello es beneficioso. Él personalmente prefiere alquilar por periodos largos por ser más cómodo cuando viaja a otras ciudades, y siente que las otras personas lo hacen de igual manera. Vería benficioso tener un gran catálogo de autos por las diferentes situaciones que puedan ocurrir en el momento. Así mismo, Leandro optaría por la reputación del servicio antes que lo demás, lo considera un factor primordial al momento de alquilar un vehículo. Por último, ve muy práctico y eficiente la posibilidad de alquilar un vehículo a través de una aplicación web.
 
 **Entrevista 6**
+- **Nombre:** Jair Flores
+- **Edad: 20** años
+- **Ocupación :** Estudiante
+- **Distrito:** Lima
+- **Duración:** 3:37 min
 
 URL del video: [entrevista_6](https://www.youtube.com/watch?v=1ZHUvBZKJB4)
+
 ![imageinterview6](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/Entrevista%206%20-%20Luis%20Enrique%20Aquije%20Quiroga.png)
-Time: 3:37
+
 
 Jair es un estudiante universitario de 20 años que alquilo autos en diversas ocasiones. Nos comenta que en algunos casos tuvo problemas con la disponibilidad del vehículo que no coincidía con su itinerario. Busca un servicio que ofrezca una amplia gama de vehículos así como transparencia en precios y lo más importante, la disponibilidad. Menciona también que alquilaría un vehículo para periodos cortos o largos dependiendo de la ocasión. También agrega que la reputación del servicio de alquiler y la experiencia de usuario serían aspectos más que destacados en su decisión de alquilar un automóvil. Por último opina sobre que una app web o móvil facilita el proceso de alquiler al permitir reservar un vehículo desde cualquier lugar y en cualquier momento, así como proporcionar información importante como detalles de la reserva, opciones disponibles y actualizaciones sobre el estado de alquiler.
+
 
 
 ### 2.2.3. Análisis de entrevistas.
