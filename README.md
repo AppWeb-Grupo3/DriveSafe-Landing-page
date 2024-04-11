@@ -521,8 +521,13 @@ Viviana Caballero es administradora de negocios de 36 años que reside actualmen
 **Arrendatario**
 
 **Entrevista 4**
+- **Nombre:** Isaac Sánchez
+- **Edad:** 28 años
+- **Carrera:** Electrónico
+- **Distrito:** Lima
+- **Duración:** 4:58 min
 
-URL del video: [entrevista 4](https://youtu.be/nafyPB1IxGg)
+URL del video: [entrevista 5](https://youtu.be/nafyPB1IxGg)
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/d1b84ba1-629c-49b2-8344-15d586c7a6cf)
 Timing: 6:02 min
@@ -535,8 +540,10 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 - **Edad: 20** años
 - **Carrera:** Gastronomía
 - **Distrito:** Villa Maria del Triunfo
-- **URL del video:** https://youtu.be/_RbKISOL-Qo
+
 - **Duración:** 4:58 min
+
+URL del video: [entrevista 5](https://youtu.be/_RbKISOL-Qo)
 
 ![Entrevista5-Nelson.png](imagenes%2FEntrevista5-Nelson.png)
 
