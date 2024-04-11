@@ -32,7 +32,7 @@
 
 | Versión | Fecha | Autor                                                                                                                                                                  | Descripción de modificación                                                                                 |
 |--------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Entrega 1 (TB1)      | 30/03/2024      | - Leonel Alfaro Cumba<br> - Luis Enrique Aquije Quiroga<br>  - Jhan Clinton Antonio Salazar<br>  - Carlos Andres Rojas Ccama<br>  - Nelson Elías Serrano Ircañaupa<br> | - Se creó la estructura del informe junto a los primeros cuatro capítulos y la elaboración del landing page |
+| Entrega 1 (TB1)      | 30/03/2024      | - Leonel Alfaro Cumba<br> - Luis Enrique Aquije Quiroga<br>  - Jhan Clinton Antonio Salazar<br>  - Carlos Andres Rojas Ccama<br>  - Nelson Elías Serrano Ircañaupa<br> | - Se creó la estructura del informe junto a los primeros 5 capítulos y la elaboración del landing page |
 | Entrega 2  (TP)      |       |                                                                                                                                                                        |                                                                                                             |
 | Entrega 3 (TB2)      |    |                                                                                                                                                                        |                                                                                                             |
 | Entrega 4 (TF1)      |      |                                                                                                                                                                        |                                                                                                             |
@@ -1205,7 +1205,7 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 <br>
 
 **NOTIFICACIONES**
-
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/9e08140a-3179-4c48-89f1-51224d7dcfab)
 
 
 
@@ -1213,7 +1213,10 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 
 **PERFIL DE USUARIO**
 
-
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/304f8fd3-a189-4ee8-b5e2-cd4acfe49849)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/f42e40fe-3ffe-4276-8337-edebae047498)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/89e61de6-de36-4fec-b301-8677f2a77815)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/16f94afa-4138-4ea4-9466-ef1599ab2891)
 
 
 <br>
