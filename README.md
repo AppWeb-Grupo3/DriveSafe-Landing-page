@@ -1372,10 +1372,11 @@ Link del miro para mejor visualización
 
 ------------------------------------------
 
-**USUARIO (Propietario)**
+**USUARIO (Propietario-Arrendador)**
 
 *INICIO DE SESIÓN*
 
+![UFInicioSesion2.png](imagenes%2FUFInicioSesion2.png)
 
 **User goal:** Como propietario quiero poder iniciar sesión rapida y seguramente.
 
@@ -1385,7 +1386,7 @@ Link del miro para mejor visualización
 
 *REGISTRO*
 
-
+![UFRegistr2.png](imagenes%2FUFRegistr2.png)
 
 **User goal:** Como propietario quiero poder registrarme .
 
@@ -1395,7 +1396,7 @@ Link del miro para mejor visualización
 
 *INICIO PRINCIPAL*
 
-
+![UFPrincipal.png](imagenes%2FUFPrincipal.png)
 
 **User goal:** : Como propietario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
 
@@ -1405,7 +1406,7 @@ Link del miro para mejor visualización
 
 *REGISTRAR VEHÍCULOS*
 
-
+![UFRegistroVehiculo.png](imagenes%2FUFRegistroVehiculo.png)
 
 **User goal:** : Como propietario, quiero poder registrar mi vehículo.
 
@@ -1415,7 +1416,7 @@ Link del miro para mejor visualización
 
 *NOTIFICACIONES*
 
-
+![UFNotificaciones.png](imagenes%2FUFNotificaciones.png)
 
 **User goal:** : Como propietario, quiero ver todas las notificaciones de manera sencilla.
 
@@ -1425,7 +1426,7 @@ Link del miro para mejor visualización
 
 *ALQUILER*
 
-
+![UFAlquiler.png](imagenes%2FUFAlquiler.png)
 
 **User goal:** : Como propietario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y además poder verificar sus antecedentes penales.
 
@@ -1433,9 +1434,9 @@ Link del miro para mejor visualización
 
 **Unhappy paths:** El propietario acepta o rechaza la solicitud del arrendatario.
 
-*PERFIL DE propietario*
+*PERFIL DE PROPIETARIO*
 
-
+![UFPerfilPropietario.png](imagenes%2FUFPerfilPropietario.png)
 
 **User goal:** : Como propietario, quiero ver mis datos y actualizarlos.
 
