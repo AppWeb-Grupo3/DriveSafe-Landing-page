@@ -1835,3 +1835,30 @@ URL: https://appweb-grupo3.github.io/informe/
 
 
 
+### Bibliografía 
+
+- Abril, J. M. C., Molina, J. E. B., & Acuña, L. G. V. (2020). Estrategias tributarias como herramientas de optimización de rentabilidad en el sector de alquiler de vehículos. Revista Arbitrada Interdisciplinaria Koinonía, 5(4), 211-241. Recuperado de https://dialnet.unirioja.es/servlet/articulo?codigo=7608922
+
+- El Comercio. (2023). Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde. Recuperado de https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/ 
+
+- Oquendo Villavicencio, D. M. (2020). Investigación de mercado para la creación de una agencia de alquiler de automóviles en la ciudad de Portoviejo. Recuperado de http://repositorio.sangregorio.edu.ec/handle/123456789/1496
+
+
+
+### Anexos
+
+- Enlace para acceder a la landing page: [Ver enlace](https://appweb-grupo3.github.io/informe/)
+- Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
+
+- Repositorio GitHub LandingPage: [Ver enlace](https://github.com/AppWeb-Grupo3/informe)
+
+- Repositorio GitHub Informe: [Ver enlace](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)
+- Figma: [Diseño en Figma para Page Wireframe](https://www.figma.com/file/qzhTckPv7BBpVCWJajlGYm/DriveSafe-Landing?type=design&node-id=0-1&mode=design&t=p2hmIXB56hxiRG1A-0)
+
+- Figma: [Wireflow Diagrams en Figma](https://www.figma.com/file/S4yDK7v6fy06zgrY3aOb3c/DriveSafe!?type=design&node-id=0%3A1&mode=design&t=kD5nCwgcDbVammW7-1)
+
+
+
+- Figma: [Diseño en Figma landing page](https://www.figma.com/file/qzhTckPv7BBpVCWJajlGYm/DriveSafe-Landing?type=design&node-id=0-1&mode=design&t=p2hmIXB56hxiRG1A-0)
+
+- Miro: [User Flow ]( https://miro.com/app/board/uXjVKVCfnuI=/?share_link_id=650795922444)
