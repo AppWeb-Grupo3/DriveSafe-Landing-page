@@ -1193,6 +1193,12 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 
 **ALQUILER**
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/92cbb779-a3a8-4579-8251-2404c657bff3)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/bfcd2541-9a1b-4800-8424-b8087885b541)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/5288a888-2898-436f-b67d-7ccaaf2c40f3)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/546e015d-def7-4e37-b1e8-bb529bbdd542)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/3b0495c5-8fa8-44ba-9cb5-3beec4a15c4f)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/8e9ec54e-3cf2-4e03-a9bc-294de85c880b)
 
 
 
