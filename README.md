@@ -1712,35 +1712,35 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
         </thead>
         <tbody>
             <tr>
-                <td> - </td>
+                <td> 01 </td>
                 <td>Diseñar layout de la landing page</td>
                 <td>Crear un diseño inicial para la página de inicio del sitio web de alquiler de autos</td>
                 <td>4</td>
-                <td> - </td>
+                <td> Jhan Clinton Antonio Salazar </td>
                 <td>To-Do</td>
             </tr>
             <tr>
-                <td> - </td>
+                <td> 02 </td>
                 <td>Crear sección de navegación</td>
                 <td>Implementar una barra de navegación para facilitar la exploración de la landing page</td>
                 <td>3</td>
-                <td> - </td>
+                <td> Nelson Elías Serrano Ircañaupa </td>
                 <td>To-Do</td>
             </tr>
             <tr>
-                <td> - </td>
+                <td> 03 </td>
                 <td>Agregar imágenes y contenido</td>
                 <td>Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
                 <td>5</td>
-                <td> - </td>
+                <td> Luis Enrique Aquije Quiroga </td>
                 <td>To-Do</td>
             </tr>
             <tr>
-                <td> - </td>
+                <td> 04 </td>
                 <td>Implementar llamada a la acción</td>
                 <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
                 <td>2</td>
-                <td> - </td>
+                <td> Jhan Clinton Antonio Salazar </td>
               <td>To-Do</td>
           </tr>
       </tbody>
@@ -1831,7 +1831,7 @@ URL: https://appweb-grupo3.github.io/informe/
 | Carlos Andres Rojas Ccama | Implementación de la sección testimonos y realización del informe |
 | Jhan Clinton Antonio Salazar |  Implementación de la sección acerca de la empresa y realización del informe|
 | Luis Enrique Aquije Quiroga       |  Implementación de la sección contacto y realización del informe|
-| Leonel Alfaro sdfdsfdCumba         | Implementación de la sección footer, responsive y realización del informe|
+| Leonel Alfaro Cumba         | Implementación de la sección footer, responsive y realización del informe|
 
 ### Concluciones 
 - La startup DriveSafe tiene el potencial de revolucionar el mercado de alquiler de vehículos al ofrecer una solución más accesible y aprovechar el uso de vehículos particulares. Su plataforma no solo puede satisfacer una necesidad creciente en movilidad, sino también contribuir a la sostenibilidad y reducir la congestión vial al optimizar el uso de los vehículos.
