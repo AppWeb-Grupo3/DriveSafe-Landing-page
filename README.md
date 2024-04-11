@@ -551,6 +551,39 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 
 Viviana Caballero, administradora de negocios de 36 años residente en Chorrillos, nunca ha alquilado su vehículo y busca un servicio de alquiler seguro debido a preocupaciones por la seguridad. Prefiere alquilar a través de una plataforma para evitar encuentros cara a cara. Le agrada la idea del GPS por seguridad y valora la comodidad y espacio del vehículo. Está interesada en probar la aplicación, especialmente por su enfoque en la seguridad.
 
+**Arrendatarios**
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/325ba722-0906-427f-8589-03dc4ad7df20)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/148d9013-1bdf-442a-b2f4-d848bd426001)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/f9d8eb8c-3fd6-489a-9b3a-9a4d2abaa43b)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/a4e20eea-ff6a-4766-974c-cf56c88fc04b)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/730ada34-1fcc-4e8c-ae63-b0650c23b421)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/86424ba5-7038-46b1-9b39-f5a5c1362516)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/daa879b0-8ed6-42fa-bd5c-05f3de087690)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/6984867d-5ba6-4033-b57a-4a90bf4af11a)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/a6b6b023-c643-48d8-a968-2425734793ce)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/e5ee17ce-7e6a-423c-9d45-ed79537d0242)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/6dbb465d-f8ed-4733-938b-f7b9273d9a91)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/0b8f304b-d3d7-4b43-ab22-e2cddaea9ee4)
+
+<br>
+
+**Arrendadores**
+
+
+
+
+
 
 ## 2.3 Needfinding
 
