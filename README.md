@@ -451,7 +451,7 @@ Creemos que la transparencia en las políticas de precios y condiciones de alqui
 
 
 
-## 2-2 Entrevistas
+## 2.2 Entrevistas
 
 ### 2.2.1 Diseño de entrevistas
 
@@ -524,7 +524,7 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 
 **Entrevista 5**
 
-- **Nombre:** Leandro
+- **Nombre:** Leandro Medina
 - **Edad: 20** años
 - **Carrera:** Gastronomía
 - **Distrito:** Villa Maria del Triunfo
