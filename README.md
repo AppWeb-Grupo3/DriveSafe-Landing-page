@@ -521,10 +521,10 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 
 ### 2.2.3 Análisis de entrevistas
 
-**Arrendatarios**
+**Arrendador**
 
 
-**Arrendadores**
+**Arrendatario**
 
 
 ## 2.3 Needfinding
