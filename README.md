@@ -510,10 +510,16 @@ Gabriel Martel es un estudiante de 24 años que reside actualmente en San Isidro
 
 **Entrevista 3**
 
+- **Nombre:** Viviana Caballero
+- **Edad:** 36 años
+- **Carrera:** Administración de negocios
+- **Distrito:** Chorrillos
+- **Duración:** 3:48 min
+
 URL del video: [entrevista_3](https://www.youtube.com/watch?v=1IWBmN0XmiY)
 
 ![foto_user_entrevista3](https://github.com/AppWeb-Grupo3/informe/blob/98abe9a4a45b6f078aeb34ee81af790bad087041/imagenes/Entrevista3_CarlosRojas.png)
-Timing: 3:48 min
+Timing: 
 
 Viviana Caballero es administradora de negocios de 36 años que reside actualmente en Chorrillos, ella me comenta que nunca puso en alquiler su vehículo, y ella prefiere un servicio que debe tener buena seguridad ya que hay situaciones de peligro, ademas ella prefiere alquilar un auto por medio de una plataforma por seguridad ella no prefiere un encuentro face to face. En el tema del gps, le agrada la idea del gps por seguridad seguir atraves del gps si es que le da en aquiler, tambien ella menciona que tiene un guia, ya que es comodo y espacioso y por ultimo ella si esta interesada en probar la aplicacion sobre todo la seguridad.
 
@@ -525,12 +531,12 @@ Viviana Caballero es administradora de negocios de 36 años que reside actualmen
 - **Edad:** 28 años
 - **Carrera:** Electrónico
 - **Distrito:** Lima
-- **Duración:** 4:58 min
+- **Duración:** 6:02 min
 
 URL del video: [entrevista 5](https://youtu.be/nafyPB1IxGg)
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/d1b84ba1-629c-49b2-8344-15d586c7a6cf)
-Timing: 6:02 min
+
 
 Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y reparaciones para una empresa de transporte en Lima, compartió sus pensamientos sobre el alquiler de autos. Isaac mencionó que una vez alquiló un auto para un viaje al sur de la playa y resaltó lo importante que es encontrar precios accesibles y una amplia variedad de vehículos. Cree que la tecnología puede hacer que el proceso de alquilar sea más fácil al permitir buscar y comparar opciones desde casa. Prefiere alquilar por períodos largos debido a sus salidas prolongadas con la familia y para él es importante que encuentre vehículos disponibles en los servicios de alquiler. Además, le interesaría alquilar a través de una aplicación para simplificar la selección y obtener información detallada y opiniones de otros usuarios.
 
