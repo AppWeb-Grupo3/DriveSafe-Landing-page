@@ -524,6 +524,18 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 
 **Entrevista 5**
 
+- **Nombre:** Leandro
+- **Edad: 20** años
+- **Carrera:** Gastronomía
+- **Distrito:** Villa Maria del Triunfo
+- **URL del video:** https://youtu.be/_RbKISOL-Qo
+- **Duración:** 4:58 min
+
+![Entrevista5-Nelson.png](imagenes%2FEntrevista5-Nelson.png)
+
+- **Resumen:** Leandro no tuvo experiencias previas alquilando un vehículo pero si a familiares y conocidos que sí lo hicieron y por ende tiene la idea de qué aspectos debería tener un servicio de este tipo, él destacó que el servicio sea ágil, un precio razonable y las licencias y soporte de los seguros. Él considera que la tecnología facilitaría el proceso de alquiler y por ello es beneficioso. Él personalmente prefiere alquilar por periodos largos por ser más cómodo cuando viaja a otras ciudades, y siente que las otras personas lo hacen de igual manera. Vería benficioso tener un gran catálogo de autos por las diferentes situaciones que puedan ocurrir en el momento. Así mismo, Leandro optaría por la reputación del servicio antes que lo demás, lo considera un factor primordial al momento de alquilar un vehículo. Por último, ve muy práctico y eficiente la posibilidad de alquilar un vehículo a través de una aplicación web.
+
+
 **Entrevista 6**
 
 
