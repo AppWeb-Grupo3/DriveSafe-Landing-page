@@ -1490,7 +1490,7 @@ Link del miro para mejor visualización
 
 ### 4.7.1 Class Diagrams
 
-![ClassDiagrams.png](imagenes%2FClassDiagrams.png)
+![ClassDiagram.png](imagenes%2FClassDiagram.png)
 
 ### 4.7.2 Class Dictionary
 
