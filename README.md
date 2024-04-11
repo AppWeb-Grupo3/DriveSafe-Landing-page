@@ -1285,6 +1285,164 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 
 ### 4.4.4 Web Applications User Flow Diagrams
 
+Link del miro para mejor visualización
+[Clic al link](https://miro.com/app/board/uXjVKVCfnuI=/?share_link_id=650795922444)
+
+**USUARIO (Arrendatario)**
+
+*INICIO DE SESIÓN*
+
+
+
+**User goal:** Como arrendatario quiero poder iniciar sesión rapidamente.
+
+**Happy paths:** El arrendatario inicia sesión ingresando su correo y contraseña.
+
+**Unhappy paths:** El arrendatario quiere iniciar sesión y no  completa todos los campos requeridos.
+
+*REGISTRO*
+
+
+
+**User goal:** Como arrendatario quiero poder registrarme y luego acceder a la plataforma.
+
+**Happy paths:** El arrendatario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
+
+**Unhappy paths:** El arrendatario quiere registrarse y no  completa todos los campos requeridos.
+
+*INICIO PRINCIPAL*
+
+
+
+**User goal:** : Como arrendatario, quiero acceder de forma sencilla a las opciones  disponibles.
+
+**Happy paths:** El arrendatario al iniciar la plataforma, observa en la parte superior las diversas opciones disponibles.
+
+**Unhappy paths:** El arrendatario presiona alguna herramienta externa de la plataforma.
+
+*BUSCAR AUTOS*
+
+
+
+**User goal:** : Como arrendatario, quiero poder buscar cualquier auto de mi interés.
+
+**Happy paths:** El arrendatario al iniciar puede filtrar su búsqueda para mejores opciones.
+
+**Unhappy paths:** El arrendatario revisa el contrato publicado por el propietario.
+
+*MANTENIMIENTO*
+
+![Imgur](https://i.imgur.com/ZoWjzo1.jpg)
+
+**User goal:** : Como arrendatario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
+
+**Happy paths:** El arrendatario también puede subir fotos .
+
+**Unhappy paths:** El mensaje del arrendatario  llega al correo del propietario y a la sección de notificaciones del propietario.
+
+*ALQUILER*
+
+![Imgur](https://i.imgur.com/0tvcUqM.jpg)
+
+**User goal:**  Como arrendatario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
+
+**Happy paths:** El arrendatario  puede pagar el alquiler luego de ser aceptado por efectivo o de manera online.
+
+**Unhappy paths:** El arrendatario debe registrar sus datos bancarios  para efectuar el pago correpondiente.
+
+*SOLICITUDES*
+
+![Imgur](https://i.imgur.com/ou0OrzE.jpg)
+
+**User goal:** : Como arrendatario, quiero ver el estado de las solicitudes que he enviado.
+
+**Happy paths:** El arrendatario  puede ver el estatus de su solicitud , realizar el pago presionando el botón de PAGAR.
+
+**Unhappy paths:** El arrendatario puede volver a la página anterior presionando la flecha superior  izquierda en dirección de la izquierda.
+
+*PERFIL DE arrendatario*
+
+![Imgur](https://i.imgur.com/VQZf6c8.jpg)
+
+**User goal:** : Como arrendatario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales.
+
+**Happy paths:** El arrendatario puede actualizar sus datos u cambiar su foto de perfil.
+
+**Unhappy paths:** El arrendatario debe subir sus documentos de antecedente penales.
+
+------------------------------------------
+
+**USUARIO (Propietario)**
+
+*INICIO DE SESIÓN*
+![Imgur](https://i.imgur.com/HpEP7wE.jpg)
+
+**User goal:** Como propietario quiero poder iniciar sesión rapida y seguramente.
+
+**Happy paths:** El propietario inicia sesión ingresando su correo y contraseña.
+
+**Unhappy paths:** El propietario quiere iniciar sesión sin completar los campos correspondientes.
+
+*REGISTRO*
+
+![Imgur](https://i.imgur.com/ZbsOD9F.jpg)
+
+**User goal:** Como propietario quiero poder registrarme .
+
+**Happy paths:** El propietario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
+
+**Unhappy paths:** El propietario quiere registrarse sin completar los campos correspondientes.
+
+*INICIO PRINCIPAL*
+
+![Imgur](https://i.imgur.com/hoJlZe7.jpg)
+
+**User goal:** : Como propietario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
+
+**Happy paths:** El propietario al iniciar la plataforma, observa en la parte superior las  opciones disponibles.
+
+**Unhappy paths:** El propietario presiona alguna herramienta externa de la plataforma.
+
+*REGISTRAR VEHÍCULOS*
+
+![Imgur](https://i.imgur.com/9uo9Jjf.jpg)
+
+**User goal:** : Como propietario, quiero poder registrar mi vehículo.
+
+**Happy paths:** El propietario ingresa todos los datos necesarios para el registro.
+
+**Unhappy paths:** El propietario crea el contrato siguiendo los pasos necesarios.
+
+*NOTIFICACIONES*
+
+![Imgur](https://i.imgur.com/4oQHlqK.jpg)
+
+**User goal:** : Como propietario, quiero ver todas las notificaciones de manera sencilla.
+
+**Happy paths:** El propietario al presionar Ver solicitud es redireccionado a la ventana de Alquiler para ver todas las solicitudes disponibles.
+
+**Unhappy paths:** El propietario observa que las notificaciones son de contenido corto.
+
+*ALQUILER*
+
+![Imgur](https://i.imgur.com/aDLUxXU.jpg)
+
+**User goal:** : Como propietario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y además poder verificar sus antecedentes penales.
+
+**Happy paths:** El propietario puede verificar los antecedentes penales del arrendatario.
+
+**Unhappy paths:** El propietario acepta o rechaza la solicitud del arrendatario.
+
+*PERFIL DE propietario*
+
+![Imgur](https://i.imgur.com/j1AjgGV.jpg)
+
+**User goal:** : Como propietario, quiero ver mis datos y actualizarlos.
+
+**Happy paths:** El propietario puede actualizar sus datos y cambiar su foto de perfil.
+
+**Unhappy paths:** El propietario puede cerrar sesión presionando el botón CERRAR SESIÓN.
+
 
 ------------------------------------------
 
