@@ -1105,6 +1105,9 @@ La página de inicio se diseñó utilizando un prototipo de fidelidad media en f
 ### 4.4.2 Web Applications Wireflow Diagrams
 
 Link de Wireflow Diagrams en Figma para una mejor observación:
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/f51b5a8a-be5c-4f0b-82b2-0e167142ac44)
+
 [[Clic al link](https://www.figma.com/file/S4yDK7v6fy06zgrY3aOb3c/DriveSafe!?type=design&node-id=0%3A1&mode=design&t=kD5nCwgcDbVammW7-1)](https://www.figma.com/file/S4yDK7v6fy06zgrY3aOb3c/DriveSafe!?type=design&node-id=0%3A1&mode=design&t=kD5nCwgcDbVammW7-1)
 <br>
 
