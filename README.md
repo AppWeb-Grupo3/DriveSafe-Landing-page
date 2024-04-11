@@ -23,7 +23,7 @@
 | Carlos Andres Rojas Ccama | U202114657 |
 | Jhan Clinton Antonio Salazar | U20201B312 |
 | Luis Enrique Aquije Quiroga       | U202114936 |
-| Leonel Alfaro sdfdsfdCumba         | U20201A930 |
+| Leonel Alfaro Cumba         | U20201A930 |
 
 
 
@@ -1740,7 +1740,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
                 <td>Implementar llamada a la acción</td>
                 <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
                 <td>2</td>
-                <td> Jhan Clinton Antonio Salazar </td>
+                <td> Carlos Andres Rojas Ccama </td>
               <td>To-Do</td>
           </tr>
       </tbody>
