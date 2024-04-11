@@ -545,11 +545,7 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 
 **Entrevista 6**
 
-### **2.2.3. Análisis de entrevistas.**
-
-**Entrevista 3**
-
-Viviana Caballero, administradora de negocios de 36 años residente en Chorrillos, nunca ha alquilado su vehículo y busca un servicio de alquiler seguro debido a preocupaciones por la seguridad. Prefiere alquilar a través de una plataforma para evitar encuentros cara a cara. Le agrada la idea del GPS por seguridad y valora la comodidad y espacio del vehículo. Está interesada en probar la aplicación, especialmente por su enfoque en la seguridad.
+### 2.2.3. Análisis de entrevistas.
 
 **Arrendatarios**
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/325ba722-0906-427f-8589-03dc4ad7df20)
