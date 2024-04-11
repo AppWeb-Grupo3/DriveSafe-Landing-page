@@ -508,14 +508,23 @@ Gabriel Martel es un estudiante de 24 años que reside actualmente en San Isidro
 
 **Entrevista 4**
 
-URL del video: [entrevista_2](https://youtu.be/nafyPB1IxGg)
+URL del video: https://youtu.be/nafyPB1IxGg
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/d1b84ba1-629c-49b2-8344-15d586c7a6cf)
-Timing: 6:02 min
+- Duracion: 6:02 min
 
 Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y reparaciones para una empresa de transporte en Lima, compartió sus pensamientos sobre el alquiler de autos. Isaac mencionó que una vez alquiló un auto para un viaje al sur de la playa y resaltó lo importante que es encontrar precios accesibles y una amplia variedad de vehículos. Cree que la tecnología puede hacer que el proceso de alquilar sea más fácil al permitir buscar y comparar opciones desde casa. Prefiere alquilar por períodos largos debido a sus salidas prolongadas con la familia y para él es importante que encuentre vehículos disponibles en los servicios de alquiler. Además, le interesaría alquilar a través de una aplicación para simplificar la selección y obtener información detallada y opiniones de otros usuarios.
 
 **Entrevista 5**
+
+- Nombre: Leandro
+- Edad: 20 años
+- Carrera: Gastronomía
+- Distrito: Villa Maria del Triunfo
+- URL del video: https://youtu.be/_RbKISOL-Qo
+- Duración: 4:58 min
+
+![Entrevista5-Nelson.png](imagenes%2FEntrevista5-Nelson.png)
 
 **Entrevista 6**
 
