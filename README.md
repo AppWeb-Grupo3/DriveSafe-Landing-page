@@ -1054,8 +1054,6 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/35b8d0b1-0b19-46bc-a9f6-118f0b4a0b7d)
 
-
-
 <br>
 
 **REGISTRO**
@@ -1074,6 +1072,24 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 <br>
 
 **ALQUILER**
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/72acdd32-a1d4-4eed-8a00-cea41d9e1cfb)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/ac96ffea-9d25-453d-a2f1-a144790bb3c8)
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/8ca60adc-adef-4843-ac69-3cc836867334)
+
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/9b00ee3d-772f-4cc3-8ec5-828d1f74d2a7)
+
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/f4683193-31be-46bd-891e-26d0de63247a)
+
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/978c318f-2e14-40e7-a84a-c7ed68ec6e4d)
+
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/2e32d1ef-1d8f-4ffa-99f2-247b0d1e1627)
 
 <br>
 
