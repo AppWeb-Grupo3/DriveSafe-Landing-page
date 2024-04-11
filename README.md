@@ -1160,24 +1160,40 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 **Mock-up de interfaz de usuario propietario**
 
 **LOGIN**
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/29f8a143-b98d-4f7b-9b5e-a4b99206d2d4)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/2afecc7a-3090-4c7d-bf8a-5c168428f6eb)
+
 
 <br>
 
 **REGISTRO**
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/f47a2ba4-403d-4519-aa9e-09b09b80e1c6)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/c3e22cba-bee2-4064-8e92-9f6ac51534ad)
+
 <br>
 
 **INICIO**
+
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/d8be6906-2e83-406c-bbef-9ce989d790ec)
 
 
 <br>
 
 **REGISTRO DE AUTOS**
 
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/85ba63e9-0065-4f20-a313-fd0b21a97c66)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/6576baa5-69a9-4e13-bc06-5f0443c7d0e6)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/ec8a49e9-e613-4802-aec0-676ccdd97eb3)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/cf3c5eaf-255a-429a-87ca-dd95c23baf92)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/b71806ac-671c-4766-a061-cd5c3fad1938)
+
 
 <br>
 
 **ALQUILER**
+
+
 
 
 <br>
@@ -1186,9 +1202,12 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 
 
 
+
 <br>
 
 **PERFIL DE USUARIO**
+
+
 
 
 <br>
