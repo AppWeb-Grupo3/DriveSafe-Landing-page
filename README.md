@@ -542,8 +542,14 @@ Durante una entrevista con Isaac Sánchez quien trabaja en mantenimiento y repar
 
 - **Resumen:** Leandro no tuvo experiencias previas alquilando un vehículo pero si a familiares y conocidos que sí lo hicieron y por ende tiene la idea de qué aspectos debería tener un servicio de este tipo, él destacó que el servicio sea ágil, un precio razonable y las licencias y soporte de los seguros. Él considera que la tecnología facilitaría el proceso de alquiler y por ello es beneficioso. Él personalmente prefiere alquilar por periodos largos por ser más cómodo cuando viaja a otras ciudades, y siente que las otras personas lo hacen de igual manera. Vería benficioso tener un gran catálogo de autos por las diferentes situaciones que puedan ocurrir en el momento. Así mismo, Leandro optaría por la reputación del servicio antes que lo demás, lo considera un factor primordial al momento de alquilar un vehículo. Por último, ve muy práctico y eficiente la posibilidad de alquilar un vehículo a través de una aplicación web.
 
-
 **Entrevista 6**
+
+URL del video: [entrevista_6](https://www.youtube.com/watch?v=1ZHUvBZKJB4)
+![imageinterview6](https://github.com/AppWeb-Grupo3/informe/blob/main/imagenes/Entrevista%206%20-%20Luis%20Enrique%20Aquije%20Quiroga.png)
+Time: 3:37
+
+Jair es un estudiante universitario de 20 años que alquilo autos en diversas ocasiones. Nos comenta que en algunos casos tuvo problemas con la disponibilidad del vehículo que no coincidía con su itinerario. Busca un servicio que ofrezca una amplia gama de vehículos así como transparencia en precios y lo más importante, la disponibilidad. Menciona también que alquilaría un vehículo para periodos cortos o largos dependiendo de la ocasión. También agrega que la reputación del servicio de alquiler y la experiencia de usuario serían aspectos más que destacados en su decisión de alquilar un automóvil. Por último opina sobre que una app web o móvil facilita el proceso de alquiler al permitir reservar un vehículo desde cualquier lugar y en cualquier momento, así como proporcionar información importante como detalles de la reserva, opciones disponibles y actualizaciones sobre el estado de alquiler.
+
 
 ### 2.2.3. Análisis de entrevistas.
 
