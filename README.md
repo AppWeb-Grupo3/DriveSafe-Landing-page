@@ -1332,7 +1332,7 @@ Link del miro para mejor visualización
 
 *MANTENIMIENTO*
 
-![Imgur](https://i.imgur.com/ZoWjzo1.jpg)
+
 
 **User goal:** : Como arrendatario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
 
@@ -1342,7 +1342,7 @@ Link del miro para mejor visualización
 
 *ALQUILER*
 
-![Imgur](https://i.imgur.com/0tvcUqM.jpg)
+
 
 **User goal:**  Como arrendatario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
 
@@ -1352,7 +1352,7 @@ Link del miro para mejor visualización
 
 *SOLICITUDES*
 
-![Imgur](https://i.imgur.com/ou0OrzE.jpg)
+
 
 **User goal:** : Como arrendatario, quiero ver el estado de las solicitudes que he enviado.
 
@@ -1362,7 +1362,7 @@ Link del miro para mejor visualización
 
 *PERFIL DE arrendatario*
 
-![Imgur](https://i.imgur.com/VQZf6c8.jpg)
+
 
 **User goal:** : Como arrendatario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales.
 
@@ -1375,7 +1375,7 @@ Link del miro para mejor visualización
 **USUARIO (Propietario)**
 
 *INICIO DE SESIÓN*
-![Imgur](https://i.imgur.com/HpEP7wE.jpg)
+
 
 **User goal:** Como propietario quiero poder iniciar sesión rapida y seguramente.
 
@@ -1385,7 +1385,7 @@ Link del miro para mejor visualización
 
 *REGISTRO*
 
-![Imgur](https://i.imgur.com/ZbsOD9F.jpg)
+
 
 **User goal:** Como propietario quiero poder registrarme .
 
@@ -1395,7 +1395,7 @@ Link del miro para mejor visualización
 
 *INICIO PRINCIPAL*
 
-![Imgur](https://i.imgur.com/hoJlZe7.jpg)
+
 
 **User goal:** : Como propietario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
 
@@ -1405,7 +1405,7 @@ Link del miro para mejor visualización
 
 *REGISTRAR VEHÍCULOS*
 
-![Imgur](https://i.imgur.com/9uo9Jjf.jpg)
+
 
 **User goal:** : Como propietario, quiero poder registrar mi vehículo.
 
@@ -1415,7 +1415,7 @@ Link del miro para mejor visualización
 
 *NOTIFICACIONES*
 
-![Imgur](https://i.imgur.com/4oQHlqK.jpg)
+
 
 **User goal:** : Como propietario, quiero ver todas las notificaciones de manera sencilla.
 
@@ -1425,7 +1425,7 @@ Link del miro para mejor visualización
 
 *ALQUILER*
 
-![Imgur](https://i.imgur.com/aDLUxXU.jpg)
+
 
 **User goal:** : Como propietario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y además poder verificar sus antecedentes penales.
 
@@ -1435,7 +1435,7 @@ Link del miro para mejor visualización
 
 *PERFIL DE propietario*
 
-![Imgur](https://i.imgur.com/j1AjgGV.jpg)
+
 
 **User goal:** : Como propietario, quiero ver mis datos y actualizarlos.
 
