@@ -1231,6 +1231,10 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 
 ### 4.5.1 Desktop Prototyping
 
+[[Clic al link](https://www.figma.com/proto/dcUMQgVlxolyqxMkmvYfXU/DRIVESAFE?type=design&node-id=225-122&t=3odWHL21bi11cRLl-0&scaling=scale-down&page-id=0%3A286&starting-point-node-id=225%3A473)](https://www.figma.com/proto/dcUMQgVlxolyqxMkmvYfXU/DRIVESAFE?type=design&node-id=225-122&t=3odWHL21bi11cRLl-0&scaling=scale-down&page-id=0%3A286&starting-point-node-id=225%3A473)
+<br>
+
+
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/afc9c37f-c700-4f98-a268-bb372ff72545)
 
 <br>
