@@ -38,7 +38,7 @@
 | Entrega 4 (TF1)      |      |                                                                                                                                                                        |                                                                                                             |
 
 # Project Report Collaboration Insights
-![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/78441442-7cef-4229-99ed-9506882a94f2)
+![image](https://github.com/AppWeb-Grupo3/informe/assets/83793319/b3c65066-f248-43fc-a117-d650ec443354)
 
 
 ## URL del repositorio del Project Report
