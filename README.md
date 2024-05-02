@@ -2305,16 +2305,6 @@ Alquiler propietario
 
 Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
 
-*Webstorm (IDE DE DESARROLLO)*: Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
-
-*Vue.js (Frameworks)*: Utilizamos vue.js como Frameworks de trabajo.
-
-*JavaScript*: Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
-
-*GitHub* :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
-
-Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
-
 *Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
 
 *Vue.js (Frameworks):* Utilizamos vue.js como Frameworks de trabajo.
@@ -2339,7 +2329,7 @@ Para estra entrega se logró desplegar el front end de la aplicación en firebas
 
 - Oquendo Villavicencio, D. M. (2020). Investigación de mercado para la creación de una agencia de alquiler de automóviles en la ciudad de Portoviejo. Recuperado de http://repositorio.sangregorio.edu.ec/handle/123456789/1496
 
-### Concluciones 
+### Conclusiones 
 - La startup DriveSafe tiene el potencial de revolucionar el mercado de alquiler de vehículos al ofrecer una solución más accesible y aprovechar el uso de vehículos particulares. Su plataforma no solo puede satisfacer una necesidad creciente en movilidad, sino también contribuir a la sostenibilidad y reducir la congestión vial al optimizar el uso de los vehículos.
 
 - La confianza y la seguridad son pilares fundamentales en la propuesta de valor de DriveSafe. Al centrarse en garantizar la integridad y protección tanto de los propietarios de vehículos como de los usuarios que los alquilan, el proyecto establecerá un fundamento sólido para construir relaciones a largo plazo con los usuarios.
