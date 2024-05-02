@@ -2017,7 +2017,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
   <tr>
     <td align="center">Prepared By</td>
-    <td align="center">Leonel Alfaro Cumba</td>
+    <td align="center">Alfaro Cumba Leonel</td>
   </tr>
   <tr>
     <td align="center">Attendees (to planning meeting)</td>
