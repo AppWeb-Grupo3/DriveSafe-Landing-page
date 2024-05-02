@@ -2313,10 +2313,19 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 *GitHub* :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
 
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
+
+*Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
+
+*Vue.js (Frameworks):* Utilizamos vue.js como Frameworks de trabajo.
+
+*JavaScript:* Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
+
+*GitHub:* Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+
 ####5.2.2.7 Software Deployment Evidence for Sprint 2 Review
 
-Para esta primera entrega se logro implementar el Fron-end de la aplicación.<br>
-Presentamos:
+Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
 
 ####5.2.2.8 Team Collaboration Insights during Sprint 2
 
