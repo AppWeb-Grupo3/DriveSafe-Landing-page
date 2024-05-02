@@ -2220,7 +2220,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main</td>
     <td align="center">feature/Leonel</td>
     <td align="center">d5438535d52e12507550cd079fc22d97f59e527c</td>
     <td align="center">Merge pull request</td>
