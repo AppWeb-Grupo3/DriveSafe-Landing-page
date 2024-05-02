@@ -2005,7 +2005,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
   <tr>
     <td align="center">Date</td>
-    <td align="center">2023-09-28</td>
+    <td align="center">2024-04-20</td>
   </tr>
   <tr>
     <td align="center">Time</td>
@@ -2017,11 +2017,11 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
   <tr>
     <td align="center">Prepared By</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Leonel Alfaro Cumba</td>
   </tr>
   <tr>
     <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+    <td align="center">Jhan Clinton Antonio Salazar<br>Leonel Alfaro Cumba<br>Nelson Elías Serrano Aquije<br>Carlos Andres Rojas Ccama<br>Luis Enrique Aquije Quiroga</td>
   </tr>
   <tr>
     <td align="center">Sprint 2 – 1 Review Summary</td>
@@ -2048,7 +2048,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
 </table>
 
-![impur](https://i.postimg.cc/13t9f3RT/Captura-de-pantalla-2023-09-26-145302.png)
+![Tablero-DriveSafe](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/6f8c62f1-9ee8-4361-b508-4fad505aaffc)
 
 ####5.2.2.2 Sprint Backlog 2
 
@@ -2078,7 +2078,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Perfil (Arrendatario y Propietario)</td>
     <td align="center">Crear las páginas de perfil del arrendatario y el propietario</td>
     <td align="center">6</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2088,7 +2088,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Solicitudes (Arrendatario)</td>
     <td align="center">Crear la página de solicitudes del arrendatario</td>
     <td align="center">4</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2098,7 +2098,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Busqueda de autos (arrendatario)</td>
     <td align="center">Crear la página de busqueda de autos del arrendatario</td>
     <td align="center">4</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">Nelson Elías Serrano Ircañaupa</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2108,7 +2108,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Mantenimiento(arrendatario)</td>
     <td align="center">Crear la página de mantenimientos del arrendatario</td>
     <td align="center">4</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">Nelson Elías Serrano Ircañaupa</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2118,7 +2118,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Registro Vehicular (Propietario)</td>
     <td align="center">Crear la página de registro vehicular del propietario</td>
     <td align="center">4</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Leonel Alfaro Cumba</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2128,7 +2128,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Alquiler (Arrendatario y Propietario)</td>
     <td align="center">Crear las páginas de alquiler del arrendatario y el propietario</td>
     <td align="center">7</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2138,7 +2138,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Login (Arrendatario y Propietario)</td>
     <td align="center">Crear las páginas de login del arrendatario y el propietario</td>
     <td align="center">4</td>
-    <td align="center">Moreno Vergara, Johan Raúl</td>
+    <td align="center">Jhan Clinton Antonio Salazar</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2148,7 +2148,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Registro (Arrendatario y Propietario)</td>
     <td align="center">Crear las páginas de registro del arrendatario y el propietario</td>
     <td align="center">4</td>
-    <td align="center">Moreno Vergara, Johan Raúls</td>
+    <td align="center">Jhan Clinton Antonio Salazar</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2158,7 +2158,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Inicio Principal (Arrendatarios y Propietarios)</td>
     <td align="center">Crear las páginas de inicio del arrendatario y el propietario</td>
     <td align="center">6</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
+    <td align="center">Luis Enrique Aquije Quiroga</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2168,7 +2168,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Notificaciones (Propietario)</td>
     <td align="center">Crear las páginas de notificaciones del propietario</td>
     <td align="center">4</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
+    <td align="center">Luis Enrique Aquije Quiroga</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2195,7 +2195,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main</td>
     <td align="center">feature/main</td>
     <td align="center">31f5adda8d8dde67523e7a77e1f636ae157e532c</td>
     <td align="center">Creación página registro de auto</td>
@@ -2203,7 +2203,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main</td>
     <td align="center">feature/main</td>
     <td align="center">b82070357b5e73800228b19407a1505c575ef62d</td>
     <td align="center">Creación página de perfil para arrendador y arrendatario</td>
@@ -2211,7 +2211,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main</td>
     <td align="center">feature/main</td>
     <td align="center">18fc5de34880f9b3429b799223aa96306e649ad0</td>
     <td align="center">Inclusión de toolbars</td>
@@ -2229,21 +2229,21 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main</td>
     <td align="center">Nelson</td>
     <td align="center">148447d2130e563b830709f32dee8588b694c9a6</td>
     <td align="center">Merge remote-tracking branch</td>
     <td align="center"># src/DriveSafe/pages/profile-owner.vue #	src/DriveSafe/pages/profile-tenant.vue</td>
   <td align="center">24/04/2024</td>
   <tr>
-    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main</td>
     <td align="center">Jhan Antonio</td>
     <td align="center">118d8805ef8095d4fcf06b01015eebea7ad69782</td>
     <td align="center">Add Login component & Udate Login</td>
     <td align="center">Add Login component & Udate Login</td>
   <td align="center">25/04/2024</td>
   <tr>
-    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main</td>
     <td align="center">Luis Aquije</td>
     <td align="center">e692bd6dbbfc2ca95ae8723643e0c30658eb408d</td>
     <td align="center">Merge pull request #15</td>
