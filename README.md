@@ -2195,60 +2195,60 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
     <td align="center">feature/main</td>
-    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
+    <td align="center">31f5adda8d8dde67523e7a77e1f636ae157e532c</td>
     <td align="center">Creación página registro de auto</td>
     <td align="center">Creado el componente car-registration-owner</td>
-    <td align="center">27/09/2023</td>
+    <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
     <td align="center">feature/main</td>
-    <td align="center">5123e21e8dc8c8d6cd4f3dffae8d9f57d7254fef</td>
+    <td align="center">b82070357b5e73800228b19407a1505c575ef62d</td>
     <td align="center">Creación página de perfil para arrendador y arrendatario</td>
     <td align="center">Creado el componente profile-owner & profile-tenants</td>
-    <td align="center">27/09/2023</td>
+    <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
     <td align="center">feature/main</td>
-    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">18fc5de34880f9b3429b799223aa96306e649ad0</td>
     <td align="center">Inclusión de toolbars</td>
     <td align="center">Agregados los toolbars para arrendatarios y propietarios.
 </td>
-    <td align="center">27/09/2023</td>
+    <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">feature/Nicolás-Zagal</td>
-    <td align="center">24dfffbeb57459cac0b99b3e0c65bd1eb9058a1c</td>
+    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">feature/Leonel</td>
+    <td align="center">d5438535d52e12507550cd079fc22d97f59e527c</td>
     <td align="center">Merge pull request</td>
     <td align="center">Merge pull request
 </td>
-    <td align="center">27/09/2023</td>
+    <td align="center">24/04/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">Alonso-Robles</td>
-    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">Nelson</td>
+    <td align="center">148447d2130e563b830709f32dee8588b694c9a6</td>
     <td align="center">Merge remote-tracking branch</td>
-    <td align="center"># src/AutoYa/pages/profile-owner.vue #	src/AutoYa/pages/profile-tenant.vue</td>
-  <td align="center">27/09/2023</td>
+    <td align="center"># src/DriveSafe/pages/profile-owner.vue #	src/DriveSafe/pages/profile-tenant.vue</td>
+  <td align="center">24/04/2024</td>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">Johan-Moreno</td>
-    <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
+    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">Jhan Antonio</td>
+    <td align="center">118d8805ef8095d4fcf06b01015eebea7ad69782</td>
     <td align="center">Add Login component & Udate Login</td>
     <td align="center">Add Login component & Udate Login</td>
-  <td align="center">28/09/2023</td>
+  <td align="center">25/04/2024</td>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">Erick-Urbizagástegui</td>
-    <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
+    <td align="center">[https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AppWeb-Grupo3/DriveSafe-FrontEnd-main)</td>
+    <td align="center">Luis Aquije</td>
+    <td align="center">e692bd6dbbfc2ca95ae8723643e0c30658eb408d</td>
     <td align="center">Merge pull request #15</td>
     <td align="center">Merge pull request #15</td>
-  <td align="center">28/09/2023</td>
+  <td align="center">25/04/2024</td>
   
 </table>
 
@@ -2260,59 +2260,46 @@ En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se p
 
 Login
 
-![Imgur](https://i.imgur.com/gGgBhiE.png)
 
 Registro
 
-![Imgur](https://i.imgur.com/HSQiD4u.png)
 
 Página de inicio arrendatario
 
-![Imgur](https://i.imgur.com/8HKtNja.png)
 
 Página de inicio propietario
 
-![Imgur](https://i.imgur.com/DTpg8I1.png)
 
 Notificaciones propietario
 
-![Imgur](https://i.imgur.com/kIIsofo.png)
 
 Perfil arrendatario
 
-![Imgur](https://i.imgur.com/zPPH5J0.png)
 
 Perfil propietario
 
-![Imgur](https://i.imgur.com/cOX5t5u.png)
 
 Solicitudes arrendatario
 
-![Imgur](https://i.imgur.com/efGqnl7.png)
 
 Búsqueda de autos arrendatario
 
-![Imgur](https://i.imgur.com/alAM1W8.png)
 
 Mantenimiento arrendatario
 
-![Imgur](https://i.imgur.com/qqLvmhh.png)
 
 Registro vehicular propietario
 
-![Imgur](https://i.imgur.com/GV8HRnk.png)
 
 Creación de contrato de alquiler propietario
 
-![Imgur](https://i.imgur.com/797NC9l.png)
 
 Alquiler arrendatario
 
-![Imgur](https://i.imgur.com/NGwl67E.png)
 
 Alquiler propietario
 
-![Imgur](https://i.imgur.com/TmsPSUZ.png)
+
 
 ####5.2.2.6 Services Documentation Evidence for Sprint 2 Review
 
@@ -2329,13 +2316,10 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 ####5.2.2.7 Software Deployment Evidence for Sprint 2 Review
 
 Para esta primera entrega se logro implementar el Fron-end de la aplicación.<br>
-Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
+Presentamos:
 
 ####5.2.2.8 Team Collaboration Insights during Sprint 2
 
-![Imgur](https://i.imgur.com/qet5BsL.jpg)
-
-![Imgur](https://i.imgur.com/NxBNnVu.jpg)
 
 
 ### Bibliografía 
