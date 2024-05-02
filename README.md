@@ -1526,20 +1526,141 @@ Link del miro para mejor visualización
 
 ### 4.7.2 Class Dictionary
 
-**Vehicle:** 
-- Representa un vehículo disponible para alquilar. Tiene atributos como la marca, modelo, año, color, tarifa diaria y disponibilidad. Métodos para verificar la disponibilidad, calcular el costo del alquiler, reservar y actualizar la disponibilidad.
+1. Usuario:
+   - Descripción: Representa a un usuario de la aplicación.
+   - Atributos:
+     - id_usuario: Identificador único del usuario.
+     - nombre: Nombre del usuario.
+     - apellido: Apellido del usuario.
+     - correo_electronico: Dirección de correo electrónico del usuario.
+     - celular: Número de celular del usuario
+     - contraseña: Contraseña del usuario.
+     - tipo_usuario: Tipo de usuario al que pertenece (puede ser cliente, administrador, etc.).
+     - perfil: Perfil asociado al usuario que puede contener información adicional.
+     - autenticacion: Información de autenticación del usuario.
 
-**Customer:** 
-- Representa un cliente que realiza una reserva. Tiene atributos como el nombre, correo electrónico y teléfono. Métodos para realizar una reserva, cancelar una reserva y actualizar la información de contacto.
+2. TipoUsuario:
+   - Descripción: Define el tipo de usuario en la aplicación.
+   - Atributos:
+     - id_tipo_usuario: Identificador único del tipo de usuario.
+     - nombre_tipo_usuario: Nombre del tipo de usuario (cliente, administrador, etc.).
+     - busquedas: Lista de búsquedas realizadas por usuarios de este tipo.
+     - alquileres: Lista de alquileres realizados por usuarios de este tipo.
+     - registros: Lista de registros realizados por usuarios de este tipo.
+     - cuenta: Cuenta asociada a este tipo de usuario.
 
-**Payment:** 
-- Representa un pago realizado por un cliente. Tiene atributos como el monto y el estado del pago. Métodos para procesar el pago y actualizar el estado.
+3. Busqueda:
+   - Descripción: Representa una búsqueda realizada por un usuario.
+   - Atributos:
+     - id_busqueda: Identificador único de la búsqueda.
+     - terminos_busqueda: Términos utilizados en la búsqueda.
+     - tipo_usuario: Tipo de usuario que realizó la búsqueda.
 
-**RentalTransaction:** 
-- Representa una transacción de alquiler que registra la reserva de un vehículo, la fecha de inicio y finalización del alquiler, y el costo total. Tiene un método para generar un informe de transacción.
+4. Cuenta:
+   - Descripción: Contiene información sobre la cuenta de un usuario.
+   - Atributos:
+     - id_cuenta: Identificador único de la cuenta.
+     - saldo: Saldo actual en la cuenta.
+     - fecha_creacion: Fecha de creación de la cuenta.
+     - tipo_usuario: Tipo de usuario al que pertenece la cuenta.
+       
+5. MensajeInterno:
+   - Descripción: Representa un mensaje interno notificado en la cuenta de usuario.
+   - Atributos:
+     - id_mensaje: Identificador único del mensaje.
+     - contenido: Contenido del mensaje.
+     - fecha_envio: Fecha en que se envió el mensaje.
+     - fotos: Lista de fotos adjuntas al mensaje.
+     - cuenta: Cuenta del usuario que envió el mensaje.
 
-**GPS:** 
-- Representa un sistema de seguimiento GPS que puede rastrear la ubicación de un vehículo. Tiene atributos para la latitud y longitud. Tiene un método para rastrear la ubicación.
+6. Notificacion:
+   - Descripción: Representa una notificación enviada.
+   - Atributos:
+     - id_notificacion: Identificador único de la notificación.
+     - tipo_notificacion: Tipo de notificación (puede ser un mensaje, una alerta, etc.).
+     - cuenta: Cuenta del usuario que recibió la notificación.
+
+7. Alquiler:
+   - Descripción: Representa un alquiler de vehículo realizado por un usuario.
+   - Atributos:
+     - id_alquiler: Identificador único del alquiler.
+     - fecha_inicio: Fecha de inicio del alquiler.
+     - fecha_fin: Fecha de finalización del alquiler.
+     - costo: Costo del alquiler.
+     - vehiculo: Vehículo alquilado.
+     - tipo_usuario: Tipo de usuario que realizó el alquiler.
+
+8. Pago:
+   - Descripción: Representa un pago asociado a un alquiler.
+   - Atributos:
+     - id_pago: Identificador único del pago.
+     - monto: Monto del pago.
+     - fecha: Fecha en que se realizó el pago.
+     - solicitud: Solicitud de alquiler asociada al pago.
+
+9. Solicitud:
+   - Descripción: Representa una solicitud de alquiler de vehículo.
+   - Atributos:
+     - id_solicitud: Identificador único de la solicitud.
+     - tipo_usuario: Tipo de usuario que realizó la solicitud.
+     - pago: Pago asociado a la solicitud.
+
+10. Vehiculo:
+    - Descripción: Representa un vehículo disponible para alquiler.
+    - Atributos:
+      - id_vehiculo: Identificador único del vehículo.
+      - modelo: Modelo del vehículo.
+      - marca: Marca del vehículo.
+      - año: Año de fabricación del vehículo.
+
+11. VehiculoPorAlquiler:
+    - Descripción: Relación entre un vehículo y un alquiler.
+    - Atributos:
+      - id_vehiculo_alquilado: Identificador único de la relación.
+      - vehiculo: Vehículo asociado al alquiler.
+      - alquiler: Alquiler asociado al vehículo.
+
+12. Perfil:
+    - Descripción: Contiene información adicional sobre un usuario.
+    - Atributos:
+      - id_perfil: Identificador único del perfil.
+      - descripcion: Descripción del perfil.
+
+13. Foto:
+    - Descripción: Representa una foto asociada a un mensaje interno o un registro.
+    - Atributos:
+      - id_foto: Identificador único de la foto.
+      - url_foto: URL de la foto.
+      - descripcion: Descripción de la foto.
+
+14. Registro:
+    - Descripción: Registro de actividades realizado por un usuario.
+    - Atributos:
+      - id_registro: Identificador único del registro.
+      - fecha_registro: Fecha en que se realizó el registro.
+      - fotos: Lista de fotos asociadas al registro.
+      - tipo_usuario: Tipo de usuario que realizó el registro.
+
+15. Contrato:
+    - Descripción: Contrato asociado al registro.
+    - Atributos:
+      - id_contrato: Identificador único del contrato.
+      - detalles: Detalles del contrato.
+      - fecha_inicio: Fecha de inicio del contrato.
+      - fecha_fin: Fecha de finalización del contrato.
+
+16. Documento:
+    - Descripción: Documento asociado a un contrato.
+    - Atributos:
+      - id_documento: Identificador único del documento.
+      - nombre_documento: Nombre del documento.
+      - tipo_documento: Tipo de documento.
+
+17. Autenticacion:
+    - Descripción: Información de autenticación asociada a un usuario.
+    - Atributos:
+      - id_autenticacion: Identificador único de la autenticación.
+      - usuario: Usuario asociado a la autenticación.
 
 ## 4.8 Database Design
 
