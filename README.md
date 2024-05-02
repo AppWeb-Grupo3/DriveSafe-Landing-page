@@ -1989,9 +1989,9 @@ URL: https://appweb-grupo3.github.io/informe/
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/78441442-7cef-4229-99ed-9506882a94f2)
 
 
-### Sprint 2
+###5.2.2 Sprint 2
 
-#### Sprint Planning 2
+####5.2.2.1 Sprint Planning 2
 
 Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
 
@@ -2050,7 +2050,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 
 ![impur](https://i.postimg.cc/13t9f3RT/Captura-de-pantalla-2023-09-26-145302.png)
 
-#### Sprint Backlog 2
+####5.2.2.2 Sprint Backlog 2
 
 <table>
   <tr>
@@ -2183,7 +2183,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
 </table>
 
-#### Development Evidence for Sprint Review
+####5.2.2.3 Development Evidence for Sprint Review
 
 <table>
   <tr>
@@ -2252,11 +2252,11 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   
 </table>
 
-#### Testing Suite Evidence for Sprint 2 Review.
+####5.2.2.4 Testing Suite Evidence for Sprint 2 Review.
 
 En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
 
-#### Execution Evidence for Sprint 2 Review
+####5.2.2.5 Execution Evidence for Sprint 2 Review
 
 Login
 
@@ -2314,7 +2314,7 @@ Alquiler propietario
 
 ![Imgur](https://i.imgur.com/TmsPSUZ.png)
 
-#### Services Documentation Evidence for Sprint 2 Review
+####5.2.2.6 Services Documentation Evidence for Sprint 2 Review
 
 Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
 
@@ -2326,12 +2326,12 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 *GitHub* :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
 
-#### Software Deployment Evidence for Sprint 2 Review
+####5.2.2.7 Software Deployment Evidence for Sprint 2 Review
 
 Para esta primera entrega se logro implementar el Fron-end de la aplicación.<br>
 Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
 
-#### Team Collaboration Insights during Sprint 2
+####5.2.2.8 Team Collaboration Insights during Sprint 2
 
 ![Imgur](https://i.imgur.com/qet5BsL.jpg)
 
